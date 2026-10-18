@@ -1,25 +1,17 @@
 #!/usr/bin/env python3
 """
-Generate an RSS 2.0 feed from the https://macked.app homepage.
-
-Usage:
-    pip install requests beautifulsoup4
-    python macked_rss.py                      # writes feed.xml
-    python macked_rss.py -o /var/www/feed.xml # custom output path
-    python macked_rss.py --pages 3            # also scrape /page/2, /page/3
-
-The homepage only shows relative times ("5分钟前"), so the script remembers when
-it first saw each post (in a small JSON state file) and uses that as <pubDate>.
-Run it on a schedule (cron / GitHub Actions) to keep the feed fresh.
+Generate an RSS 2.0 feed from https://macked.app, with a short summary for
+every post so you don't have to open each link.
 """
 import argparse
+import html as htmllib
 import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from email.utils import format_datetime
-from xml.sax.saxutils import escape
 
 import requests
 from bs4 import BeautifulSoup
@@ -32,10 +24,13 @@ HEADERS = {
     ),
     "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
 }
-
-# Links that are navigation/category pages, not posts
 SKIP_PREFIXES = ("/programs", "/tag/", "/topics/", "/page/", "/faq", "/wishlist",
                  "/app-store-share", "/advertise", "/user-sign", "/oauth", "/cdn-cgi")
+NOISE = ("下载", "破解", "激活", "登录", "注册", "评论", "版权", "免责", "Telegram",
+         "解决办法", "常见问题", "点击")
+SITE_DESC_START = "macked每天更新大量精品"
+SUMMARY_MAX = 400
+REQUEST_DELAY = 1.0
 
 
 def fetch(url):
@@ -45,8 +40,93 @@ def fetch(url):
     return r.text
 
 
-def parse_posts(html):
-    soup = BeautifulSoup(html, "html.parser")
+_translator = None
+
+
+_cache = {}
+_blocked = False
+
+
+def _gt():
+    global _translator
+    if _translator is None:
+        from deep_translator import GoogleTranslator
+        _translator = GoogleTranslator(source="auto", target="en")
+    return _translator
+
+
+def _batch(items):
+    """Translate several lines in ONE request (far fewer requests -> no rate limit)."""
+    global _blocked
+    if _blocked:
+        return
+    for attempt in range(3):
+        try:
+            res = _gt().translate("\n".join(items))
+            break
+        except Exception:
+            wait = 30 * (attempt + 1)
+            print(f"  rate limited, waiting {wait}s...", file=sys.stderr)
+            time.sleep(wait)
+    else:
+        _blocked = True
+        print("  Google is still blocking you - stop and try again later.", file=sys.stderr)
+        return
+    parts = [x.strip() for x in (res or "").split("\n")]
+    if len(parts) == len(items):
+        _cache.update(zip(items, parts))
+    elif len(items) > 1:  # lines got merged: retry in smaller pieces
+        mid = len(items) // 2
+        _batch(items[:mid])
+        _batch(items[mid:])
+    time.sleep(3)
+
+
+def prefetch(texts, batch_chars=3000):
+    texts = [t for t in dict.fromkeys(texts) if t and t not in _cache]
+    batches, cur, size = [], [], 0
+    for t in texts:
+        if cur and size + len(t) > batch_chars:
+            batches.append(cur)
+            cur, size = [], 0
+        cur.append(t)
+        size += len(t) + 1
+    if cur:
+        batches.append(cur)
+    for i, b in enumerate(batches, 1):
+        _batch(b)
+        ok = all(t in _cache for t in b)
+        print(f"  batch {i}/{len(batches)}: {'done' if ok else 'FAILED'}")
+
+
+def translate(text):
+    if not text:
+        return text
+    if text in _cache:
+        return _cache[text]
+    if _blocked:
+        return None
+    _batch([text])
+    return _cache.get(text)
+
+
+def clean(text):
+    return re.sub(r"\s+", " ", text or "").strip()
+
+
+def trim(text, limit=SUMMARY_MAX):
+    text = clean(text)
+    if len(text) <= limit:
+        return text
+    cut = text[:limit]
+    m = max(cut.rfind("。"), cut.rfind(". "), cut.rfind("！"), cut.rfind("；"))
+    if m > limit * 0.5:
+        return cut[: m + 1]
+    return cut.rstrip() + "…"
+
+
+def parse_posts(page_html):
+    soup = BeautifulSoup(page_html, "html.parser")
     posts, seen = [], set()
     for h2 in soup.find_all("h2"):
         a = h2.find("a", href=True)
@@ -64,17 +144,15 @@ def parse_posts(html):
         if not title:
             continue
 
-        # Short description: first non-empty text block after the title
-        desc = ""
+        tagline = ""
         for sib in h2.find_next_siblings():
             txt = sib.get_text(" ", strip=True)
             if txt:
-                desc = txt
+                tagline = txt
                 break
-        if not desc and h2.parent:
-            desc = h2.parent.get_text(" ", strip=True).replace(title, "", 1).strip()
+        if not tagline and h2.parent:
+            tagline = h2.parent.get_text(" ", strip=True).replace(title, "", 1).strip()
 
-        # Thumbnail (skip placeholder images)
         img = None
         container = h2.parent
         for _ in range(3):
@@ -89,22 +167,73 @@ def parse_posts(html):
             container = container.parent
 
         seen.add(href)
-        posts.append({"title": title, "link": href, "desc": desc, "img": img})
+        posts.append({"title": title, "link": href, "tagline": tagline, "img": img})
     return posts
 
 
+def extract_summary(post_html):
+    soup = BeautifulSoup(post_html, "html.parser")
+
+    body = None
+    for sel in (".wp-posts-content", ".article-content", "article.article", "article", ".entry-content"):
+        body = soup.select_one(sel)
+        if body:
+            break
+    paras = []
+    if body:
+        for p in body.find_all(["p", "li"]):
+            t = clean(p.get_text(" ", strip=True))
+            if len(t) < 25:
+                continue
+            if any(n in t for n in NOISE) and len(t) < 80:
+                continue
+            paras.append(t)
+            if sum(len(x) for x in paras) >= SUMMARY_MAX:
+                break
+    body_summary = " ".join(paras)
+
+    meta = ""
+    for attrs in ({"name": "description"}, {"property": "og:description"}):
+        tag = soup.find("meta", attrs=attrs)
+        if tag and tag.get("content"):
+            meta = clean(tag["content"])
+            if meta and not meta.startswith(SITE_DESC_START):
+                break
+            meta = ""
+
+    best = body_summary if len(body_summary) >= 60 else (meta or body_summary)
+    return trim(best)
+
+
 def load_state(path):
-    if os.path.exists(path):
-        try:
-            with open(path, encoding="utf-8") as f:
-                return json.load(f)
-        except (OSError, json.JSONDecodeError):
-            pass
-    return {}
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            raw = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return {}
+    state = {}
+    for link, val in raw.items():
+        state[link] = val if isinstance(val, dict) else {"pubDate": val, "summary": None}
+    return state
+
+
+def build_description(it):
+    parts = []
+    if it.get("img"):
+        parts.append(f'<img src="{htmllib.escape(it["img"], quote=True)}" />')
+    if it.get("tagline"):
+        parts.append(f"<p><b>{htmllib.escape(it['tagline'])}</b></p>")
+    if it.get("summary"):
+        parts.append(f"<p>{htmllib.escape(it['summary'])}</p>")
+    html_str = "".join(parts).replace("]]>", "]]&gt;")
+    return f"<![CDATA[{html_str}]]>"
 
 
 def build_rss(items):
     now = format_datetime(datetime.now(timezone.utc))
+    esc = htmllib.escape
     out = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
@@ -117,16 +246,13 @@ def build_rss(items):
         "<generator>macked_rss.py</generator>",
     ]
     for it in items:
-        desc = escape(it["desc"])
-        if it.get("img"):
-            desc = f'&lt;img src="{escape(it["img"])}" /&gt;&lt;br/&gt;' + desc
         out += [
             "<item>",
-            f"<title>{escape(it['title'])}</title>",
-            f"<link>{escape(it['link'])}</link>",
-            f'<guid isPermaLink="true">{escape(it["link"])}</guid>',
+            f"<title>{esc(it['title'], quote=False)}</title>",
+            f"<link>{esc(it['link'], quote=False)}</link>",
+            f'<guid isPermaLink="true">{esc(it["link"], quote=False)}</guid>',
             f"<pubDate>{it['pubDate']}</pubDate>",
-            f"<description>{desc}</description>",
+            f"<description>{build_description(it)}</description>",
             "</item>",
         ]
     out += ["</channel>", "</rss>"]
@@ -137,8 +263,10 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("-o", "--output", default="feed.xml")
     ap.add_argument("--state", default="macked_state.json")
-    ap.add_argument("--pages", type=int, default=1, help="number of listing pages to scrape")
+    ap.add_argument("--pages", type=int, default=1)
     ap.add_argument("--max-items", type=int, default=50)
+    ap.add_argument("--no-translate", action="store_true", help="keep Chinese text")
+    ap.add_argument("--no-summary", action="store_true")
     args = ap.parse_args()
 
     posts = []
@@ -152,22 +280,57 @@ def main():
                 sys.exit(1)
 
     if not posts:
-        print("No posts found - the site layout may have changed or Cloudflare blocked the request.",
-              file=sys.stderr)
+        print("No posts found - layout changed or request blocked.", file=sys.stderr)
         sys.exit(1)
 
+    posts = posts[: args.max_items]
     state = load_state(args.state)
     now = format_datetime(datetime.now(timezone.utc))
-    for post in posts:
-        # first-seen time becomes the pubDate and never changes afterwards
-        post["pubDate"] = state.setdefault(post["link"], now)
 
-    posts = posts[: args.max_items]
+    if not args.no_translate:
+        todo = []
+        for post in posts:
+            e = state.get(post["link"], {})
+            if e.get("summary") and not e.get("summary_en"):
+                todo.append(e["summary"])
+            if post["tagline"] and not e.get("tagline_en"):
+                todo.append(post["tagline"])
+        if todo:
+            print(f"Translating {len(todo)} texts in batches...")
+            prefetch(todo)
+
+    fetched = 0
+    for post in posts:
+        entry = state.setdefault(post["link"], {"pubDate": now, "summary": None})
+        if not entry.get("pubDate"):
+            entry["pubDate"] = now
+
+        if not args.no_summary and not entry.get("summary"):
+            try:
+                entry["summary"] = extract_summary(fetch(post["link"]))
+                fetched += 1
+                print(f"  summary: {post['title']}")
+            except requests.RequestException as e:
+                print(f"  could not fetch {post['link']}: {e}", file=sys.stderr)
+            time.sleep(REQUEST_DELAY)
+
+        if not args.no_translate:
+            if entry.get("summary") and not entry.get("summary_en"):
+                entry["summary_en"] = translate(entry["summary"])
+                print(f"  {'translated' if entry['summary_en'] else 'FAILED (will retry next run)'}: {post['title']}")
+            if post["tagline"] and not entry.get("tagline_en"):
+                entry["tagline_en"] = translate(post["tagline"])
+            post["tagline"] = entry.get("tagline_en") or post["tagline"]
+            post["summary"] = entry.get("summary_en") or entry.get("summary") or ""
+        else:
+            post["summary"] = entry.get("summary") or ""
+        post["pubDate"] = entry["pubDate"]
+
     with open(args.output, "w", encoding="utf-8") as f:
         f.write(build_rss(posts))
     with open(args.state, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
-    print(f"Wrote {len(posts)} items to {args.output}")
+    print(f"Wrote {len(posts)} items to {args.output} ({fetched} new summaries)")
 
 
 if __name__ == "__main__":

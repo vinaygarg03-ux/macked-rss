@@ -5,245 +5,245 @@
 <link>https://macked.app/</link>
 <description>MacKed 最新发布 (unofficial scraped feed)</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 18 Oct 2026 12:03:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 13:17:28 +0000</lastBuildDate>
 <generator>macked_rss.py</generator>
 <item>
 <title>macOS Golden Gate 27</title>
 <link>https://macked.app/macos-27-golden-gate-cracke-app-compatibility-tips.html</link>
 <guid isPermaLink="true">https://macked.app/macos-27-golden-gate-cracke-app-compatibility-tips.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/9b25490f782d3017beae25efa6735586-1780982307.webp" /&gt;&lt;br/&gt;用户必看</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/9b25490f782d3017beae25efa6735586-1780982307.webp" /><p><b>Must-read for users</b></p><p>If your Mac wasn&#x27;t upgraded from a macOS 27 beta, the apps you&#x27;re running may still be older builds from before the official release. Early in the macOS 27 beta some apps failed to launch or had compatibility problems; these have since been fixed and working versions re-uploaded. macOS 27 tightens TCC privacy permission checks. You can use the built-in Console app to view live system logs: search for kTCCServiceSystemPolicyAppDataDetailed (or kTCCServiceSystemPolicyAppData if nothing turns up). If the log shows denials for the target app reading a protected directory such as ~/Library/Group Containers/, the app is usually being blocked by TCC privacy restrictions.</p>]]></description>
 </item>
 <item>
 <title>Adobe Activation Tool  1.2.9/2.1.7</title>
 <link>https://macked.app/adobe-activation-tool-crack.html</link>
 <guid isPermaLink="true">https://macked.app/adobe-activation-tool-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/6d144a27c0b07d140329793b51daf227-1731384996.webp" /&gt;&lt;br/&gt;Adobe 全家桶激活工具/破解补丁</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/6d144a27c0b07d140329793b51daf227-1731384996.webp" /><p><b>Activation tool / patch for the Adobe suite</b></p><p>Adobe Activation Tool is a universal activation tool for the Adobe suite on macOS. It supports recent versions of Photoshop, Premiere Pro, Illustrator, After Effects, Acrobat DC, Lightroom Classic, InDesign, the Substance 3D series and more. You just run the program and pick the matching version when prompted. It suits offline environments or users who hit activation limits, and lets people use the full Adobe creative suite without a subscription.</p>]]></description>
 </item>
 <item>
 <title>KeyboardHolder 1.14.16</title>
 <link>https://macked.app/keyboardholder.html</link>
 <guid isPermaLink="true">https://macked.app/keyboardholder.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/5b3b79c08273aae6d177cfe25d9df480-1711877197.webp" /&gt;&lt;br/&gt;输入法自动切换辅助工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/5b3b79c08273aae6d177cfe25d9df480-1711877197.webp" /><p><b>Input method auto-switching helper</b></p><p>KeyboardHolder is an input-method switching helper for macOS. It remembers which input method you use in each app and switches to it automatically when you move between apps, so you no longer have to change input methods by hand. You can set a default input method per app, have it switch when an app launches or returns from the background, and enable on-screen hints that show the current input method. It keeps typing smooth for writing, coding and chatting, especially for multilingual users.</p>]]></description>
 </item>
 <item>
 <title>LuLu 4.5.2</title>
 <link>https://macked.app/lulu.html</link>
 <guid isPermaLink="true">https://macked.app/lulu.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/ff1b34d360788fd0999afa3f2891a36b-1677505331.webp" /&gt;&lt;br/&gt;macOS开源轻量防火墙</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/ff1b34d360788fd0999afa3f2891a36b-1677505331.webp" /><p><b>Open-source lightweight firewall for macOS</b></p><p>LuLu is a free, open-source macOS firewall that blocks unknown outgoing connections until you explicitly approve them. It detects and stops unauthorized network connections, helping prevent malware and third-party apps from sending data to remote servers. Its design is simple and easy to use, with a small attack surface, and its source code is public on GitHub for transparency. It supports single-user installs and currently focuses on process-level network rules. It provides basic network monitoring rather than full self-protection, so determined targeted attacks may still bypass it.</p>]]></description>
 </item>
 <item>
 <title>Stats 3.0.22</title>
 <link>https://macked.app/stats.html</link>
 <guid isPermaLink="true">https://macked.app/stats.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/da33a20b2983aff8728681d5f00a6858-1677485552.webp" /&gt;&lt;br/&gt;菜单栏系统监视器</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/da33a20b2983aff8728681d5f00a6858-1677485552.webp" /><p><b>System monitor for the menu bar</b></p><p>Stats is a system monitoring tool that lives in the macOS menu bar and shows live metrics: battery level, Bluetooth device connections, CPU frequency (Intel only), CPU usage, disk usage, fan speed, GPU usage, memory, network usage, and temperature, voltage and power from various sensors. It supports many interface languages, several menu bar styles (bar chart, pie chart, line graph, numbers), customizable metrics, and alerts that play a sound or send a notification when a threshold is reached.</p>]]></description>
 </item>
 <item>
 <title>Switch 0.3.18</title>
 <link>https://macked.app/switch-window-switcher-mac.html</link>
 <guid isPermaLink="true">https://macked.app/switch-window-switcher-mac.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/42c3ebf54a3738d092b1d9078522922d-1779176253.webp" /&gt;&lt;br/&gt;macOS窗口级⌘Tab切换工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/42c3ebf54a3738d092b1d9078522922d-1779176253.webp" /><p><b>Window-level ⌘Tab switcher for macOS</b></p><p>Switch is a window switcher for macOS that changes the usual ⌘-Tab behavior from app-level to window-level cycling. Use ⌘-Tab to go forward, ⇧⌘Tab to go back, and ⌥-` to cycle windows within an app, including across multiple Spaces. Windows appear in a vertical list you can filter by typing. A Sticky mode lets you preview a window without committing to the switch, and shortcuts let you close a window (⌘W), quit an app (⌘Q) or hide it (⌘H). It is free, open source, notarized, and requires macOS 14 or later.</p>]]></description>
 </item>
 <item>
 <title>Itsycal 0.27.3</title>
 <link>https://macked.app/itsycal.html</link>
 <guid isPermaLink="true">https://macked.app/itsycal.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/01b6991cb578b60a9b7f1645e403cd09-1765807672.webp" /&gt;&lt;br/&gt;菜单栏日历应用</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/01b6991cb578b60a9b7f1645e403cd09-1765807672.webp" /><p><b>Menu bar calendar app</b></p><p>Itsycal is a compact menu bar calendar for macOS that integrates with the Calendar app so you can create and view events, join virtual meetings and see ISO week numbers. It has a clean, readable interface, an optional replacement for the system clock, dark mode, several font sizes, flexible keyboard shortcuts (including Vim-style movement and jumping to specific dates) and URL-scheme support. It is tiny and requires macOS 11 or later.</p>]]></description>
 </item>
 <item>
 <title>落格输入法 3.7.2</title>
 <link>https://macked.app/loginputmac3-crack.html</link>
 <guid isPermaLink="true">https://macked.app/loginputmac3-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/bfd7d564fe9a50d62575bcd9e29ee1b1-1690344487.webp" /&gt;&lt;br/&gt;双拼五笔输入工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/bfd7d564fe9a50d62575bcd9e29ee1b1-1690344487.webp" /><p><b>Shuangpin and Wubi input tool</b></p><p>LogInputMac3 is a high-performance Chinese input tool for macOS and iOS. It supports full Pinyin, Shuangpin, Wubi, Zhengma, Xima and Kuaibi, with custom code tables, auxiliary codes, Shuangpin schemes and expandable dictionaries, built on its three-dimensional whole-sentence engine. It offers full VoiceOver support for visually impaired users, many customization options such as themes and shortcuts, and iCloud backup of personal settings. Ongoing updates include smart Pinyin error correction and a panel word tool for faster, more accurate typing.</p>]]></description>
 </item>
 <item>
 <title>NotePlus 27.7.3</title>
 <link>https://macked.app/noteplus-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/noteplus-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/bc3171bd1913d78544a04b498867ce94-1792041904.webp" /&gt;&lt;br/&gt;macOS原生Markdown笔记软件</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/bc3171bd1913d78544a04b498867ce94-1792041904.webp" /><p><b>Native Markdown notes app for macOS</b></p><p>NotePlus is a native Markdown notes app from the TablePlus team for macOS, iOS and Windows, combining note-taking, to-do lists, kanban boards and AI chat. Its WYSIWYG editor renders headings, lists, tables, code blocks and images as you type, and notes can be linked with double brackets. Notes are stored as plain Markdown files in your own folder and can sync through iCloud Drive, Google Drive or Dropbox, with no account needed. Private notes can be encrypted and unlocked with a password, Touch ID or Face ID. AI chat works with your own API keys across multiple model providers.</p>]]></description>
 </item>
 <item>
 <title>Clop Pro 3.6.0</title>
 <link>https://macked.app/clop-pro-3-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/clop-pro-3-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/2950b7f850eeea01b3e6c475b733f846-1786016916.webp" /&gt;&lt;br/&gt;macos剪贴板文件自动处理工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/2950b7f850eeea01b3e6c475b733f846-1786016916.webp" /><p><b>Automatic clipboard and file optimizer for macOS</b></p><p>Clop Pro is a local image, video, PDF and clipboard optimizer for macOS. It automatically compresses images when you copy them, so they paste smaller into email, chat, notes, documents and web pages. It optimizes screenshots, screen recordings, GIF, HEIC, TIFF, MOV and PDF files, with cropping, resizing, format conversion, muting, speed changes and video encoding, using Apple Silicon media engines to save power. You can trigger it with shortcuts, the Finder menu, floating buttons or drop zones, and automate workflows (convert to WebP, watermark, batch resize, upload, email) with macOS Shortcuts.</p>]]></description>
 </item>
 <item>
 <title>Tuck Pro 1.3.5</title>
 <link>https://macked.app/tuck-pro-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/tuck-pro-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/e382f9d56e210cb2d6b3ed67c3ef1ed5-1789536232.webp" /&gt;&lt;br/&gt;Mac菜单栏图标隐藏</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/e382f9d56e210cb2d6b3ed67c3ef1ed5-1789536232.webp" /><p><b>Hide menu bar icons on Mac</b></p><p>Tuck is a native menu bar organizer for macOS 14 to 27 that tidies up the growing pile of app and system icons. In Push mode, one click hides the menu bar icons to the left of Tuck and another click restores them; on notched MacBooks, hidden items appear in a Shelf panel below the menu bar. You can drag icons to reorder them, set each to always show, always hide or follow the main toggle, and control it with shortcuts. Pro adds auto-hide, show-on-hover, per-app visibility rules and Shelf customization. It is under 10 MB with no telemetry; the free version has no time limit and Pro is a one-time license for up to three Macs.</p>]]></description>
 </item>
 <item>
 <title>Floodtide 1.4.7</title>
 <link>https://macked.app/floodtide-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/floodtide-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/e177e417fac704056b9922133b5e59f2-1788333334.webp" /&gt;&lt;br/&gt;macOS应用更新工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/e177e417fac704056b9922133b5e59f2-1788333334.webp" /><p><b>App updater for macOS</b></p><p>Floodtide is an app updater for macOS that reads the latest version information from each app&#x27;s own Sparkle update feed and from the Homebrew catalog, then scans supported apps and updates them in bulk. It needs no hand-maintained app database and no Homebrew installation, and it checks official downloads and checksums published by developers. Apps whose update source can&#x27;t be verified are listed clearly rather than guessed at. It offers one-click Update All, automatic backup before updating, undo of recent updates within seven days, and checks of code signature, Gatekeeper results and developer team before installing. It supports macOS 13 or later on Intel and Apple Silicon, keeps its app list on your Mac, and needs no account or special permissions.</p>]]></description>
 </item>
 <item>
 <title>HapticPad 1.10</title>
 <link>https://macked.app/hapticpad-trackpad-haptics-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/hapticpad-trackpad-haptics-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/ebed514190ebc69903b166ebc8eaf018-1782462884.webp" /&gt;&lt;br/&gt;Mac触控板网页触觉增强</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/ebed514190ebc69903b166ebc8eaf018-1782462884.webp" /><p><b>Web haptic feedback for the Mac trackpad</b></p><p>HapticPad turns links, buttons and input fields on web pages into subtle vibrations on a Force Touch trackpad, so browsing no longer relies only on visual cues. It works with a Mac app plus a Safari or Chrome extension: when the cursor hovers over a clickable or editable element, the extension identifies its type and tells the desktop app over a local connection to fire a haptic pulse, with a response delay under 10 ms. It offers 7 configurable haptic patterns, with single, double, triple or quadruple feedback for links, buttons and inputs. It runs locally and sends only the element type, never URLs, page content, keystrokes or analytics.</p>]]></description>
 </item>
 <item>
 <title>NovaPad 2.42</title>
 <link>https://macked.app/novapadgo-launcher-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/novapadgo-launcher-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/9113aafcb65084a833f7f8d5ce6238e4-1787123616.webp" /&gt;&lt;br/&gt;macOS应用启动器</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/9113aafcb65084a833f7f8d5ce6238e4-1787123616.webp" /><p><b>App launcher for macOS</b></p><p>NovaPadGo is an app launcher and manager for macOS that organizes scattered apps into a clear launch space using a folder-tree sidebar, quick search and custom categories. You can create folders and categories, move, delete or group apps in bulk, and add aliases for apps with hard-to-remember names. It supports favorites, hiding low-frequency or sensitive apps (with a count of hidden results in search), adjustable fonts, themes and folder icons, and showing app sizes with sorting by size. Drag and drop supports edge auto-scrolling, and the search bar is focused automatically when the app opens.</p>]]></description>
 </item>
 <item>
 <title>AnySearch Pro 3.2.1</title>
 <link>https://macked.app/anysearch-pro-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/anysearch-pro-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/7cfcaf42613c2b9ca21a1c85bceac599-1789970689.webp" /&gt;&lt;br/&gt;macOS文件搜索工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/7cfcaf42613c2b9ca21a1c85bceac599-1789970689.webp" /><p><b>File search tool for macOS</b></p><p>AnySearch Pro is a fast file search and disk content analysis tool for macOS that uses smart indexing and full-text search to find files among hundreds of thousands. A global hotkey opens a floating search panel from any app, and you can search by contains, prefix, suffix, exact match or wildcard. It supports combined filters (extension, type, size, modified date, folder scope, disk source) and searches the text of PDF, Markdown, Word, Excel and PowerPoint files, highlighting matches in snippets. Results support quick preview, opening, revealing in Finder, and copying names or paths. Real-time file system monitoring keeps the index current, including iCloud Drive and external USB and Thunderbolt disks.</p>]]></description>
 </item>
 <item>
 <title>OnDevice OCR Pro 3.3</title>
 <link>https://macked.app/ondevice-ocr-pro-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/ondevice-ocr-pro-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/2269960c7c642078498a39a9d9b963ac-1781679245.webp" /&gt;&lt;br/&gt;macOS文档批量OCR识别处理工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/2269960c7c642078498a39a9d9b963ac-1781679245.webp" /><p><b>Batch OCR tool for documents on macOS</b></p><p>OnDevice OCR Pro is an offline OCR and batch document processing tool for Mac that turns scans, images and PDFs into full-text searchable content. It runs entirely on your Mac with no cloud or subscription, so sensitive files stay local, which suits legal, medical, financial and office use. It can watch folders and process new documents automatically, with batch recognition, auto-rotation, image enhancement and smart skipping of already digital PDFs. Built-in multilingual OCR covers Chinese, English, Japanese, Korean, German and more, and it can extract text only to save disk space. It is well suited to invoices, receipts, contracts and research material.</p>]]></description>
 </item>
 <item>
 <title>Balance 2.6</title>
 <link>https://macked.app/balance-focus-time-tracker-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/balance-focus-time-tracker-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/b1d4e83d325484b0067a1aadefebdcbc-1778569180.webp" /&gt;&lt;br/&gt;专注时间追踪计时器</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/b1d4e83d325484b0067a1aadefebdcbc-1778569180.webp" /><p><b>Focus time tracker and timer</b></p><p>Balance is a time-tracking timer for Mac for study, work and freelancing. It combines focus timing, the Pomodoro technique, break reminders and hour logging so you start and stop tasks deliberately. You can track time per workspace and project, switch between regular timing and focus sessions, and log billable hours. It also provides a work-life balance score, log, month and year views, goals and exportable reports. It integrates with macOS through the menu bar, Spotlight, Shortcuts and Siri, with a clean interface.</p>]]></description>
 </item>
 <item>
 <title>Typeface 4.5.1</title>
 <link>https://macked.app/typeface-crack.html</link>
 <guid isPermaLink="true">https://macked.app/typeface-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/bb150cced5e9c4f2ef5c1c1b6968af95-1677132530.webp" /&gt;&lt;br/&gt;专业字体管理工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/bb150cced5e9c4f2ef5c1c1b6968af95-1677132530.webp" /><p><b>Professional font manager</b></p><p>Typeface is a beautiful font manager that helps you choose the right fonts for your designs. It organizes your font library with flexible tags and improves your workflow with live font previews. The new version adds detailed metadata lists, custom sorting and partial font families, supports many font formats, and can import Adobe fonts and manage font collections. The PRO version unlocks character overviews, OpenType feature inspection and dynamic previews.</p>]]></description>
 </item>
 <item>
 <title>Vinyls 3.2</title>
 <link>https://macked.app/vinyls-record-player-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/vinyls-record-player-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/b69381fcdf541af42097a431dd0f69b3-1778569437.webp" /&gt;&lt;br/&gt;模拟黑胶唱片AppleMusic播放器</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/b69381fcdf541af42097a431dd0f69b3-1778569437.webp" /><p><b>Vinyl record style player for Apple Music</b></p><p>Vinyls - Record Player is a retro music player for Apple Music users that turns your digital library into an interactive vinyl turntable. Album art spreads across a full record, the tonearm moves in real time as music plays, and you can drag the record to scrub, with realistic scratch sounds and haptic feedback. It works on iPhone, iPad, Mac and Apple TV, with full-screen playback, three-column browsing, keyboard control and widgets. You can customize accent colors and icons, use dark mode and dynamic backgrounds, and it supports AirPlay, SharePlay and music recognition.</p>]]></description>
 </item>
 <item>
 <title>ByteMail 1.7.0</title>
 <link>https://macked.app/bytemail-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/bytemail-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/7b34a7b7b4fbf682ffbd9d4035ae3d21-1792134023.webp" /&gt;&lt;br/&gt;Ai增强的原生Mac邮件客户端</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/7b34a7b7b4fbf682ffbd9d4035ae3d21-1792134023.webp" /><p><b>AI-enhanced native Mac email client</b></p><p>bytemail is a native Mac email client built with SwiftUI and AppKit, with no bundled browser engine. It supports Gmail, iCloud, Outlook, Microsoft 365, Yahoo, Fastmail and other IMAP accounts in one fast unified inbox. Features include conversation and classic views, instant cross-account and attachment search, smart labels, rule-based archiving, snooze, scheduled send, undo send, reminders and per-account signatures. It connects directly to your mail provider, keeps credentials in the macOS Keychain, and sends no mail, contacts or usage data through bytemail servers. Tracking pixels and tracking link parameters are stripped, and it flags spoofed domains and suspicious links. It also offers local summaries, smart replies and Rewrite, and connects to AI apps such as Claude, Codex and Cursor through MCP.</p>]]></description>
 </item>
 <item>
 <title>MacRest 2.2.1</title>
 <link>https://macked.app/macrest-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/macrest-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/382006cf7330aa36ea4bcd75c05cb948-1778211677.webp" /&gt;&lt;br/&gt;Mac休眠睡眠控制工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/382006cf7330aa36ea4bcd75c05cb948-1778211677.webp" /><p><b>Sleep control tool for Mac</b></p><p>MacRest is a sleep management tool for macOS that finds apps secretly keeping your Mac awake and, the first time it happens, asks whether to allow or block them. It remembers your choice for each app and applies it automatically afterward, so your Mac can really sleep when it should. You can set sleep timing separately for power and battery, it waits intelligently during music, video calls or large file transfers, and it offers a sleep countdown, temporary keep-awake and menu bar status. It runs locally with low resource use, needs no account, cloud sync or complicated permissions, and respects your privacy.</p>]]></description>
 </item>
 <item>
 <title>DiskFox 1.2.1</title>
 <link>https://macked.app/diskfox-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/diskfox-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/2f29d13e3eab98c23e7bd7a9c18fa663-1791774857.webp" /&gt;&lt;br/&gt;macOS 磁盘空间分析</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/2f29d13e3eab98c23e7bd7a9c18fa663-1791774857.webp" /><p><b>Disk space analysis for macOS</b></p><p>DiskFox is a disk space analyzer and storage change tracker for macOS. It builds a scan baseline and compares scans over time to show what is using space, when it grew and why. It recognizes more than 60 kinds of storage that tend to pile up, including Apple Intelligence models, Xcode data, simulator runtimes, device backups, Docker disk images, app caches and Time Machine local snapshots, and it separates measured results from guessed causes. You can review large files, app usage and exact duplicates, see the impact and expected space recovered, then confirm; most selected files go to the Trash and nothing is cleaned automatically. Scans read only file sizes, dates and locations, duplicate checks run locally, nothing is uploaded, and no account is needed.</p>]]></description>
 </item>
 <item>
 <title>Backdrop 2.10.1</title>
 <link>https://macked.app/backdrop-wallpaper-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/backdrop-wallpaper-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/bd6f071b3cf3e7f4a6bc20d09bcf6745-1753325029.webp" /&gt;&lt;br/&gt;macOS强大的4K动态壁纸引擎</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/bd6f071b3cf3e7f4a6bc20d09bcf6745-1753325029.webp" /><p><b>Powerful 4K live wallpaper engine for macOS</b></p><p>Backdrop is a live wallpaper and video desktop tool for macOS that turns your desktop and lock screen into smooth visual scenes. It supports 4K video wallpapers, browsing community creations, importing your own videos, multi-display playback and playlists. You can filter community wallpapers by style, color, mood, resolution or creator, or quickly make your own background from a video. It is optimized for Mac with hardware acceleration, plays smoothly on Retina and multi-screen setups, and lowers resource use when apps are full screen or the Mac is on battery. Its lock screen video wallpaper support keeps the desktop and lock screen visually consistent.</p>]]></description>
 </item>
 <item>
 <title>Almighty 2.13.2</title>
 <link>https://macked.app/almighty-crack.html</link>
 <guid isPermaLink="true">https://macked.app/almighty-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/dd08313f7a7bb616b7a7148e80bf46fd-1694155072.webp" /&gt;&lt;br/&gt;macOS快捷操作增强工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/dd08313f7a7bb616b7a7148e80bf46fd-1694155072.webp" /><p><b>Quick-action enhancement tool for macOS</b></p><p>Almighty is an app with more than 50 Mac tweaks to improve your experience. It lets you easily customize settings such as hiding desktop icons, masking keyboard input, and showing the cursor and keystroke visualization. It manages system settings like clearing the clipboard, converting text to plain text, scheduled shutdown and dark mode, offers deep Dock and Xcode customization (Dock appearance, build times, disabling auto-restore), and tunes Finder settings such as showing or hiding files and adding a Quit option. Everything is reachable from the menu bar. It is written entirely in Swift, is native to the Mac and collects no data.</p>]]></description>
 </item>
 <item>
 <title>DockDuck 1.1.9</title>
 <link>https://macked.app/dockduck-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/dockduck-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/25159251045247aa7fcf0fde1487ebeb-1788939725.webp" /&gt;&lt;br/&gt;macOS双栏文件管理器</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/25159251045247aa7fcf0fde1487ebeb-1788939725.webp" /><p><b>Dual-pane file manager for macOS</b></p><p>DockDuck is a native macOS file manager written entirely in Swift, compatible with Apple Silicon and Intel Macs and requiring macOS 15 Sequoia or later. It focuses on fast launch, low resource use and smooth browsing, combining tabs, pinned files, tags, instant search, smart folders, panes and workspaces in one window. Dual-pane and multi-column views suit side-by-side browsing, moving and comparing, and folder comparison shows identical, modified or one-sided items. It also offers batch renaming, a file shelf, compression and extraction, image conversion, PDF merging, folder sync, SFTP, SMB, WebDAV and FTP support, and SSH key access to remote files, plus grid, list, column and gallery views, live preview, remappable shortcuts, and terminal and editor integration.</p>]]></description>
 </item>
 <item>
 <title>Gloss 2.3.0</title>
 <link>https://macked.app/gloss-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/gloss-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/f6ce99d6d3278e60401457dd75949c64-1790577310.webp" /&gt;&lt;br/&gt;macOS应用文本快捷处理工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/f6ce99d6d3278e60401457dd75949c64-1790577310.webp" /><p><b>Text expansion tool for macOS apps</b></p><p>Gloss is a native macOS text expansion app that instantly turns short keywords into full text, emoji, dates or runnable scripts, in every app on your Mac. You create trigger words and map them to plain text, emoji, dynamic dates or JavaScript snippets; when you type a trigger anywhere, Gloss watches keystrokes system-wide and replaces it with the full content, with no copy-paste or window switching. It has a smart expansion engine with programmable snippets, a built-in emoji and symbol library, per-app rules and several glossary presets. Gloss is privacy-first, and all processing happens locally.</p>]]></description>
 </item>
 <item>
 <title>LaunchMe 2.07.0</title>
 <link>https://macked.app/launchme-launchpad-crack.html</link>
 <guid isPermaLink="true">https://macked.app/launchme-launchpad-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/c659b14193c87016bfc4760a2ce39ac1-1762502501.webp" /&gt;&lt;br/&gt;macOS启动台Launchpad替代品</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/c659b14193c87016bfc4760a2ce39ac1-1762502501.webp" /><p><b>Launchpad replacement for macOS</b></p><p>LaunchMe is a full-screen workspace launcher for macOS 26 Tahoe and macOS 27 that replaces the removed Launchpad and adds file search, clipboard history, a calculator, music and weather widgets, live wallpapers and automation workflows. It organizes apps, folders, project files and widgets in one immersive interface, and you can save Spaces presets to launch all the apps and files for a task in one click. You can customize folder colors, emoji, covers, app icons, icon size and system icon appearance, hide titles or apps, and summon it with trackpad gestures, hot corners, multi-display support and custom shortcuts. Settings and paths are managed locally, and it pauses its process when hidden to save resources.</p>]]></description>
 </item>
 <item>
 <title>Marked 3.2.21</title>
 <link>https://macked.app/marked-3-markdown-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/marked-3-markdown-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/aafecd5a8d56a417df4fd1490e7f9b72-1779084788.webp" /&gt;&lt;br/&gt;macOS专业Markdown编辑预览工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/aafecd5a8d56a417df4fd1490e7f9b72-1779084788.webp" /><p><b>Professional Markdown preview tool for macOS</b></p><p>Marked 3 is a Markdown preview and proofreading tool for Mac, built around live rendering, attractive themes and strong export options, aimed at writers, developers, editors and technical documentation work. It works alongside your usual text editor to show the final result as you write, and adds grammar checking, style hints, repeated-word highlighting, document statistics and table of contents generation. It includes many themes, custom CSS and style management, exports to PDF, HTML, DOCX and EPUB, and works with Scrivener, MarsEdit, Ulysses, Obsidian-style calls and many Markdown processors, covering writing, review and publishing.</p>]]></description>
 </item>
 <item>
 <title>Diarly 3.6.3</title>
 <link>https://macked.app/diarly-crack.html</link>
 <guid isPermaLink="true">https://macked.app/diarly-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/01663e49e744b5a630f6f531fab50a23-1756347609.webp" /&gt;&lt;br/&gt;Markdown格式数字日记助手</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/01663e49e744b5a630f6f531fab50a23-1756347609.webp" /><p><b>Markdown digital journal assistant</b></p><p>Diarly is a journaling app for Mac that makes it easy to record and manage your personal stories and memories. It supports data encryption and password protection, a built-in Markdown editor with live preview, calendar and tag search, and iCloud sync across Mac, iPhone and iPad. It also offers activity tracking with writing goals, a highly customizable interface (fonts, themes, templates), easy import of existing journals, daily prompts to build a writing habit, and mood tracking to support self-awareness and mental well-being.</p>]]></description>
 </item>
 <item>
 <title>UninstallGuard 1.0.10</title>
 <link>https://macked.app/uninstallguard-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/uninstallguard-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/fbd920182a182ba39002a61a4b2c6fe8-1791776449.webp" /&gt;&lt;br/&gt;macOS应用卸载软件</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/fbd920182a182ba39002a61a4b2c6fe8-1791776449.webp" /><p><b>App uninstaller for macOS</b></p><p>UninstallGuard is a Mac app uninstaller for macOS 14 and later that finds the leftover files an app scatters around the system and shows clear evidence to help you decide what to delete. You can pick an app from the sidebar, drag one into the window, or start from the Finder context menu. Results show file paths, sizes, confidence levels and the exact reason for each match; nothing is selected by default, and items go to the Trash only after you choose and confirm. Items are labeled safe to remove, likely leftover, needs review or in use, running apps are blocked from removal, and name-only matches are never treated as safe. It covers app data, helpers, launch items, containers, system extensions and Homebrew installs, and can scan for orphaned files from already-removed apps. A history records original paths, Trash locations and failures, and it bundles no optimizers or unrelated tools.</p>]]></description>
 </item>
 <item>
 <title>Spokenly 2.31.3</title>
 <link>https://macked.app/spokenly-voice-to-text-ai-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/spokenly-voice-to-text-ai-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/19430d9bb7a660ba0f6e2691c763a21f-1765622863.webp" /&gt;&lt;br/&gt;Mac专业AI语音转文本工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/19430d9bb7a660ba0f6e2691c763a21f-1765622863.webp" /><p><b>Professional AI speech-to-text tool for Mac</b></p><p>Spokenly is an AI speech-to-text and dictation app for macOS, iPhone and iPad for quickly writing emails, messages, notes, meeting records, document drafts and AI prompts by speaking naturally. It uses modern speech models such as Whisper, Apple Speech Analyzer and NVIDIA Parakeet for real-time transcription, automatic detection of over a hundred languages, and handling of accents, background noise and technical terms. You can switch between high-accuracy online models and offline local models for more privacy, where voice data stays on the device. It offers automatic punctuation and formatting, history, keyboard dictation, push-to-talk shortcuts, clipboard dictation, AI prompt rewriting and custom API access.</p>]]></description>
 </item>
 <item>
 <title>BoltAI 2.18.1</title>
 <link>https://macked.app/boltai-crack.html</link>
 <guid isPermaLink="true">https://macked.app/boltai-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/2bcf437a3175a5b6349872b40b4f6607-1717040164.webp" /&gt;&lt;br/&gt;macOS强大的AI聊天助手</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/2bcf437a3175a5b6349872b40b4f6607-1717040164.webp" /><p><b>Powerful AI chat assistant for macOS</b></p><p>BoltAI is a high-performance native Mac AI app that lets you switch between more than 300 AI models in one application. It supports Intel and Apple Silicon on macOS 13 or later, and gives you a unified workspace for OpenAI, Anthropic, Google and other AI services without switching apps or browser tabs. It has workflow tools for professionals, including project management, multi-thread chat, branching and reusable agents, and multimodal features to analyze PDFs, screenshots and code. Chat history is stored locally and not used for model training. No sign-up is required; just add your API keys to start.</p>]]></description>
 </item>
 <item>
 <title>Zipic 1.10.6</title>
 <link>https://macked.app/zipic-crack.html</link>
 <guid isPermaLink="true">https://macked.app/zipic-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/a56472ac90e331b277b942f6dad25f98-1747359520.webp" /&gt;&lt;br/&gt;macOS图像批量压缩工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/a56472ac90e331b277b942f6dad25f98-1747359520.webp" /><p><b>Batch image compression tool for macOS</b></p><p>Zipic is an efficient image compression app for macOS 12 and later, with a Windows 10 version coming soon. You get 25 free compressions per day or can upgrade for unlimited use. It handles single images or large batches quickly while keeping good quality, with high compression ratios (often over 90%) and near-lossless results, supporting JPEG, PNG, WebP, HEIC, AVIF, TIFF and ICNS. It offers hotkeys, automatic folder watching, quick menu access and drag and drop. Compression happens locally with no network transfer, and it stays smooth even with more than 10,000 images. The Pro version adds more control, automatic compression and API integration.</p>]]></description>
 </item>
 <item>
 <title>Air Explorer 2.1.0</title>
 <link>https://macked.app/air-explorer-mac-crack.html</link>
 <guid isPermaLink="true">https://macked.app/air-explorer-mac-crack.html</guid>
 <pubDate>Sun, 18 Oct 2026 12:03:42 +0000</pubDate>
-<description>&lt;img src="https://pic.macked.app/static/1b6e8b94fb83ab5e23c921e330805261-1691767562.webp" /&gt;&lt;br/&gt;macOS专业多网盘管理工具</description>
+<description><![CDATA[<img src="https://pic.macked.app/static/1b6e8b94fb83ab5e23c921e330805261-1691767562.webp" /><p><b>Professional multi-cloud storage manager for macOS</b></p><p>Air Explorer is a multi-cloud storage manager for macOS that manages more than 50 services, including Google Drive, OneDrive, Dropbox, S3, Baidu Netdisk, Aliyun Drive and iCloud, in one interface, with support for multiple accounts. You can transfer files between your Mac and the cloud, or between cloud services, by drag and drop, without saving to local disk first and with no transfer limit. For sync and backup you can create mirror or two-way sync tasks between cloud folders or between your Mac and the cloud, run several tasks at once, and schedule them. It can encrypt file contents and names on upload, and offers unified cross-cloud search, share links, command-line automation and natural-language cloud management.</p>]]></description>
 </item>
 </channel>
 </rss>
