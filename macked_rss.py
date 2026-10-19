@@ -34,10 +34,37 @@ REQUEST_DELAY = 1.0
 
 
 def fetch(url):
-    r = requests.get(url, headers=HEADERS, timeout=30)
-    r.raise_for_status()
-    r.encoding = "utf-8"
-    return r.text
+    """Fetch a page. Tries plain requests, then a Chrome-like client, then a reader proxy."""
+    last = None
+    # 1) plain request (works from home connections)
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        r.encoding = "utf-8"
+        return r.text
+    except requests.RequestException as e:
+        last = e
+    # 2) Chrome-like TLS fingerprint (helps against Cloudflare bot checks)
+    try:
+        from curl_cffi import requests as cr
+        r = cr.get(url, impersonate="chrome", timeout=30, headers={"Accept-Language": HEADERS["Accept-Language"]})
+        if r.status_code == 200 and "<html" in r.text.lower():
+            return r.text
+    except Exception:
+        pass
+    # 3) reader proxy that loads the page in a real browser and returns HTML
+    try:
+        r = requests.get(
+            "https://r.jina.ai/" + url,
+            headers={"X-Return-Format": "html", "Accept": "text/html"},
+            timeout=90,
+        )
+        r.encoding = "utf-8"
+        if r.status_code == 200 and "<h2" in r.text:
+            return r.text
+    except requests.RequestException:
+        pass
+    raise last or requests.RequestException("all fetch methods failed")
 
 
 _translator = None
