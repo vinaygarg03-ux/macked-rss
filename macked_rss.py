@@ -58,7 +58,7 @@ def _gt():
 def _batch(items):
     """Translate several lines in ONE request (far fewer requests -> no rate limit)."""
     global _blocked
-    if _blocked:
+    if _blocked or os.environ.get("NO_GOOGLE"):
         return
     for attempt in range(3):
         try:
@@ -104,7 +104,7 @@ def translate(text):
         return text
     if text in _cache:
         return _cache[text]
-    if _blocked:
+    if _blocked or os.environ.get("NO_GOOGLE"):
         return None
     _batch([text])
     return _cache.get(text)
