@@ -1000,5 +1000,143 @@
     "summary": "TrellisWM是一款面向Apple芯片Mac的原生窗口管理工具，运行于macOS 14 Sonoma及更高版本，通过嵌套空间和可缩放桌面视图重新组织真实应用窗口。用户可以将窗口拖到其他窗口或屏幕边缘进行停靠，在多个层级的空间之间缩放浏览，也能通过触控板手势或快捷键快速查看全部窗口、进入上一级空间、聚焦当前窗口和切换相邻区域。软件支持拖动分隔线同步调整窗口大小，窗口最小化后会由邻近窗口自动填充空间，恢复时仍回到原位置，并可按显示器分别保存布局。专业版提供无限停靠窗口、跨应用标签组、保存视图、URL命令以及未来的Windows版本支持；免费版保留停靠、嵌套、缩放、实时预览和键盘导航等核心功能。",
     "summary_en": null,
     "tagline_en": null
+  },
+  "https://macked.app/excalidrawz-mac.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "ExcalidrawZ 是基于 SwiftUI 构建的原生 Excalidraw 客户端，支持 macOS、iPadOS 和 iOS，在保留熟悉绘图画布的同时，提供适合 Apple 平台的文件管理与交互体验。软件支持分组整理、自定义排序、本地文件夹访问和 iCloud 同步，可直接编辑多种 Excalidraw 文件，并通过历史检查点回顾与恢复修改。绘图过程中可导入 PDF，将 Mermaid 图表转换为可编辑内容，插入 LaTeX 公式、函数图像和数学模板，也能使用 Excalidraw 协作功能共同绘制。内置 AI 助手支持读取、创建与修改图稿，结合图片理解内容，并在应用生成结果前预览方案；MCP 服务可让兼容的 AI 客户端访问绘图、文件和历史等功能。针对敏感内容，软件提供本地身份验证、文件与历史检查点加密、恢复密钥及逐文件 AI 可见性控制。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/mountmate-mac.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "MountMate 是一款面向 macOS 的原生菜单栏外置硬盘管理工具，适合经常连接移动硬盘、桌面硬盘或其他外部存储设备的用户。无需打开“磁盘工具”或启动终端，用户即可从菜单栏快速挂载和卸载已连接的硬盘，并查看当前连接设备、挂载状态以及可用存储空间，复制大文件前也能及时确认剩余容量。对于长期连接外置硬盘的 Mac mini、Mac Studio 用户，MountMate 可以帮助减少不必要的后台唤醒、硬盘转动、噪音与额外磨损，让存储设备只在需要时运行。软件采用 macOS 系统 API 构建，界面融入系统菜单栏，安装后无需复杂配置即可使用；所有状态信息均在本地处理，不需要账户，不包含分析、遥测或网络请求，适合重视隐私和系统简洁性的用户。MountMate 同时开放源代码，方便用户了解项目实现、反馈问题并参与改进。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/input-source-pro.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Input Source Pro是一款能自动切换输入法并提供适时提示的macOS应用，让每一次输入都游刃有余。它可以在长按鼠标左键、切换输入法或者在切换应用时，展示当前正在使用的输入法类型。Input Source Pro可以为不同的应用设定默认的输入法类型，使得在每次使用时不再需要浪费时间手动切换输入法。它甚至可以根据浏览器当前页面自动切换输入法，目前已支持Safari、Chrome、Edge、Firefox、Brave、Vivaldi以及Arc浏览器。该软件目前处于测试阶段并免费使用，支持macOS 11及以上版本，也可通过Homebrew进行安装。如果你是多输入法用户，这款软件能帮助你避免弄混输入法的情况，提高你的工作效率。 长按鼠标左键、切换输入法以及在切换 App 时，展示当前正在使用的输入法类型。 为不同 App 设定默认的输入法类型，在每次使用时不再浪费时间手动切换。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/free-download-manager-fdm-mac.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Free Download Manager(FDM)是一款强大的现代下载加速器和管理工具，适用于Windows、macOS、Android和Linux。它提供了快速、安全和高效的下载体验，支持从流行网站下载视频、处理种子和磁力链接，并具有代理支持以及HTTP/HTTPS/FTP/BitTorrent支持等功能。FDM的用户界面友好且设计现代，可在不同平台上灵活调整流量使用、组织下载、控制文件优先级，并能有效下载大文件和恢复中断的下载。它还可以将下载速度提高到10倍，支持无广告、无恶意软件的完全免费使用，并兼容主流浏览器。 Free Download Manager 是一款强大的现代下载加速器和管理工具，适用于 Windows、macOS、Android 和 Linux。它能够有效地提升下载速度，并整理管理各种下载任务。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/capture-quick-notes-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Quick Notes – Capture 是一款面向 iPhone、iPad、Mac、Apple Vision 与 Apple Watch 的快速记录与想法收集工具，核心体验围绕低摩擦输入、即时整理和跨应用流转展开。它适合把临时灵感、待办清单、网页链接、图片附件、语音内容和提醒事项先集中捕捉，再按需要导出到 Obsidian、Things、Todoist、iA Writer、Craft、OmniFocus、Fantastical、Apple 日历、提醒事项等常用工具。软件支持 iCloud 同步、桌面与锁屏小组件、分享扩展、Siri 与快捷指令、日期和 URL 自动识别、文档扫描、列表排序、合并与拆分记录等功能，既能作为日常脑内清空入口，也能充当不同效率系统之间的中转站。其界面强调简洁稳定，避免复杂工作流带来的干扰，让用户在灵感出现时快速保存，并在合适的时间再处理、归档或执行。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/netutilus-network-utility-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Netutilus: Network Utility 是一款专为 Mac 设计的专业网络诊断工具，集成了 8 款经典且强大的网络实用功能，帮助用户轻松排查网络问题、监控连接状态并进行高级诊断。Netutilus 保留了用户喜爱的传统 macOS 网络工具的所有优点，同时以现代化的界面设计和新增的强大功能进行了全面升级。它提供基于 TCP 的 Ping 测试，配备实时延迟图表和详细统计信息；支持 Traceroute 和可视化 Traceroute（Gold Tier），可逐跳追踪数据包路径或在交互式世界地图上查看路由信息；内置速度测试功能，利用 Cloudflare 全球网络测量下载、上行、延迟和抖动；DNS 查询支持自定义 DNS 服务器，查询 A、AAAA、MX、NS、TXT、CNAME、SOA、PTR 等多种记录类型；",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/darkroom-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Darkroom是一款集照片和视频编辑于一体的高级应用，适用于iPad和iPhone，深度融合iOS和iPadOS的最新特性，为所有级别的摄影师提供了快速、强大且易于使用的编辑工具。它提供广泛的免费工具，支持编辑Live照片、RAW图像和人像照片，并具备实时色彩分级的视频编辑功能。其核心功能包括iOS上最易用的曲线和选择性颜色工具、人像模糊编辑、RAW编辑、完整的相册管理以及个性化滤镜创建能力。Darkroom还支持批量处理、无需导入的即时访问、集成的标签管理器和Siri快捷方式，提供了一个功能丰富的编辑套件，现已推出macOS版本。通过其先进的AI编辑技术和专业级功能，Darkroom为用户带来了与Adobe Lightroom和Canva相媲美的编辑体验，使其成为摄影和视频项目的理想选择。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/agenda-notes-meets-calendar-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Agenda是一款荣获苹果设计大奖的跨平台笔记应用，通过独创的时间线方式将日历事件无缝融入笔记系统，帮助用户同时管理过去记录、当前任务与未来计划，支持为笔记添加日期或直接关联日历事件、标记“On the Agenda”快速查看重点项目、丰富的文本编辑功能（标题、列表、表格等）、文件附件预览、项目分类整理、多设备iCloud或Dropbox同步以及多人协作共享笔记，免费版功能完整无时间限制，Pro版可通过年订阅或一次性终身购买解锁全部高级功能，让个人与团队在商务、工程、科研、教育及创意领域更高效地推进项目与规划生活。 Agenda 是一款荣获苹果设计大奖的 macOS（及 iOS）笔记应用，它独创地将日历事件与笔记深度融合，通过时间线式组织方式帮助用户同时管理过去、现在和未来的任务与项目，让日常规划、会议准备和项目推进变得更加高效有序，特别适合商务人士、工程师、教师、学生及创意工作者使用。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/hamhub-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "HamHub – 你的私人影音专家是一款面向多设备家庭影音管理与播放的 macOS 应用，能够把云盘、媒体服务器和本地/网络资源统一整合到一个清晰的资料库中，帮助用户把零散的视频文件整理成可检索、可续播、可同步的私人影视中心。它支持阿里云盘、百度云盘、Google Drive、WebDAV、SMB，以及 Plex、Emby、Jellyfin、IPTV、FTP/FTPS 等多种来源，还能自动识别电影、电视剧、综艺等结构，智能生成封面、详情与剧集分类。应用内置高兼容播放器，支持 4K、杜比视界、HDR、Dolby Atmos、ISO 蓝光原盘、多音轨与丰富字幕格式，并提供画中画、连续播放、手势控制、倍速等观影体验。收藏、观看进度和播放记录可在 iPhone、iPad、Mac、Apple TV 间同步，适合希望高效管理私人影音库的用户。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/screens-5-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Screens让您能够轻松远程控制Mac、Windows电脑、Linux电脑或Raspberry Pi，无论您是在家中、咖啡店还是世界其他角落。这是一个多功能的远程桌面解决方案，以其快速、安全和可靠著称，为您提供流畅的设备控制体验。通过安装Screens Connect，您可以从世界任何地方访问您的电脑，而且Screens还完全整合了Tailscale，使得远程连接Linux电脑或Raspberry Pi变得简单。Screens的幕帘模式可以保护您的隐私，安全连接功能保证了与计算机的安全连接，支持SSH密钥增加安全性。它还提供了无障碍的Mac登录、显示屏选择、剪贴板共享、会话选择等功能，并且兼容Raspberry Pi 5，支持文件传输和易于使用的界面，同时还可以帮助朋友和家人通过免费的Screens Assist工具。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/day-one-journal-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Day One是一款荣获苹果年度应用殊荣、全球超1500万下载并拥有20万五星好评的传奇数字日记神器（支持iPhone、iPad、Mac与Apple Watch跨平台无缝使用），重新定义了私人生活记录方式，让用户随时随地通过无限文字、无限照片/视频*、音频、Markdown富文本格式等多媒体形式安全记录人生点滴，凭借端到端加密、密码/Touch ID/Face ID保护、自动备份与PDF/纯文本/JSON等多种导出方式确保100%隐私不泄露，同时提供每日提醒通知、独特每日写作提示、自定义模板、Today今日回顾、On This Day时光重温、标签/收藏/智能搜索、地图位置视图等强大功能，帮助用户轻松养成记录习惯、整理不同主题日记*、随时回顾珍贵回忆，是追求极致私密、安全、美观且跨设备体验的日记爱好者与重度生活记录者的终极信赖之选。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/orbitring-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "OrbitRing是一款简单直观的macOS应用启动器，独特的圆形设计为用户提供快速访问应用程序的方式，从而显著提升工作效率。OrbitRing以其流畅轻巧的特性，将应用程序围绕鼠标排列，提供自然顺畅的操作体验。它具备快捷高效的特点，用户可以轻松访问所需应用，且拥有多种个性化选项，以完美适应用户的使用习惯。OrbitRing在资源使用上非常轻量，能够与macOS无缝集成，为提升用户的生产力提供了理想的工具。 OrbitRing 是一款简单直观的 macOS 应用启动器，采用独特的圆形设计，实现快速访问应用程序，显著提升用户的工作效率。其独特的环形布局围绕鼠标提供应用程序的快速访问，为用户带来流畅而自然的启动体验。 轻松高效 : 采用围绕鼠标的圆形布局，用户可以轻松访问所需应用，实现快速启动和操作。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/guitar-wiz-chords-tuner-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Guitar Wiz: Chords & Tuner是一款专为Mac、iPad和iPhone平台打造的全能吉他伴侣应用，融合了海量和弦库、实时调音器、节拍器、和弦辅助、歌曲创作工具以及乐谱扫描等多项实用功能。应用提供交互式和弦图谱，支持通过名称、音符或虚拟指板快速查找，每种和弦均附有指法建议、高品质音频样本以及音乐理论解析，帮助用户深入理解音程、转位和常用场景。Chord Assist功能借助设备麦克风实时监听演奏，点亮指板对应位置以提升准确度；交互式和弦进行与内置吉他、贝斯和鼓伴奏让练习更具音乐性。Song Maker允许用户快速搭建歌曲结构、选择不同风格回放并导出WAV文件，Songsheet Scanner则通过计算机视觉识别印刷和弦谱并自动存入收藏夹。每日一和弦、20余种备选调弦、菜单栏快捷节拍器以及Apple Watch配套支持，让练习贯穿全天候场景。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/iptv-pro-smart-player-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "IPTV Pro – Smart Player 是一款面向 Apple 设备的原生 IPTV 播放器，支持 iPhone、iPad、Mac 与 Apple TV，在直播电视、电影点播和剧集浏览之间提供统一而清爽的观看体验。它允许用户自行导入合法的第三方内容源，兼容 Xtream Codes 与 M3U 播放列表，并把内容按分类、收藏和常用习惯进行整理，减少翻找频道和节目时的操作负担。软件强调流畅导航、稳定播放和更一致的界面表现，还提供继续观看、离线观看、播放列表管理与跨设备云同步等功能，适合希望在苹果生态中获得更顺手 IPTV 管理与播放体验的用户。 IPTV Pro – Smart Player 是一款专为 Apple 生态打造的原生 IPTV 播放器，面向 iPhone、iPad、Mac 与 Apple TV 提供统一的观看和管理体验。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/pastel-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Pastel是一款面向开发者与设计创作者的色彩管理工具，用来捕捉、整理和复用配色方案。它支持从照片和文件中分析主色，也可以手动挑选颜色，快速建立可持续扩展的色板库；在 iCloud 的帮助下，配色资料能够在多设备间同步，便于在 iPhone、iPad、Mac 和 Apple Vision 上持续整理。应用内提供多种取色方式，包括色轮、RGB 滑杆和蜡笔式选择器，还能从自建颜色库中直接调用命名颜色。Pastel 还面向开发工作流，支持复制 RGB、Hex、Objective-C、Swift、SwiftUI 等代码格式，并可将调色板以像素位图、屏幕尺寸图像或 Procreate 可用形式导出，兼顾界面设计、插画绘制和像素创作需求。 Pastel 是一款专注于色彩捕捉、配色整理与跨设备复用的工具，适合开发者、插画师和需要长期维护色彩系统的创作者使用。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/hotlaunch-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "HotLaunch是一款高效的应用启动器，旨在快捷地切换和打开应用程序、文件夹、文件和网址。该工具具备多个独特特性，包括支持组合快捷键（如Option、Control、Command、Shift和Fn）来显示切换窗口视图，并允许用户在视图中通过长按和点击其他按键来移动选择项。一旦选定项目，释放切换窗口视图的快捷键即可自动打开所选项。用户可以通过鼠标点击快速打开和切换应用、目录、文件和网址，并支持动态添加和删除应用及文件，调整显示顺序，并配置快捷键，使整个操作更加灵活高效。 HotLaunch是一款高效的应用启动工具，使用户能够轻松切换和打开应用程序、文件、文件夹及URLs。通过简洁的界面和强大的快捷键功能，HotLaunch旨在提高日常工作效率，帮助用户快速访问所需内容。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/automailsender-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "AutoMailSender 是一款面向 macOS 的轻量级邮件自动发送工具，专注于通过 SMTP 快速、安全地发送文件。用户只需将文件拖放到应用窗口、专属收件人投放区或浮动投放入口，即可按预设规则发送给个人或群组，适合摄影师交付图库、企业发送发票文档、教师分发课程资料、设计师分享素材等高频文件邮件场景。它支持 Gmail、Outlook、Yahoo、iCloud、Office365 以及自定义 SMTP 服务器，可为不同收件人、群组或文件夹设置主题、正文、抄送、密送、颜色和图标，并提供文件大小检查、受阻文件类型保护、可选加密 ZIP、发送确认、发送通知与已发送邮件保存等实用能力。软件强调本地化与隐私安全，凭据存入 macOS 钥匙串，SMTP 连接使用 TLS/SSL，不包含广告、追踪或数据收集，并支持 18 种界面语言、深色模式和内置 SMTP 设置帮助。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/alttab-pro-window-switcher-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "AltTab Pro是一款面向 macOS 的窗口切换增强工具，将类似 Windows Alt Tab 的直观切换体验带到 Mac 上，让用户可以查看所有打开窗口并快速跳转到目标窗口。它提供高质量窗口缩略图、实时预览、深色模式、窗口控制、触控板手势等基础能力，适合经常在多应用多窗口之间工作的用户。Pro 版本进一步加入应用图标与窗口标题等不同显示样式，可在缩略图式预览、类似 Dock 的图标列表和紧凑文字列表之间切换；支持通过输入窗口标题或应用名称即时搜索目标窗口，减少大量窗口中的滚动查找；缩略图会根据窗口数量自动调整尺寸，保持可读性和空间利用率；还可配置最多 9 组独立键盘快捷键，并为不同工作流设置专属按键与过滤条件。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/tuna-new-modern-launcher-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Tuna 是一款面向 macOS 的全新现代化启动器，基于 Quicksilver 的经典交互理念重新设计，并使用原生 Swift 从底层构建，强调速度、键盘驱动和模式化操作体验。它适用于 macOS 15 Sequoia 或更新系统，提供 Fuzzy Mode、Combo Mode、Text Mode 与 Talk Mode 等多种输入与执行方式，用户可以通过模糊搜索快速定位应用、文件或动作，也能用组合指令完成更复杂的工作流。Tuna 支持扩展机制，并计划引入第三方扩展能力，让启动器不只用于打开应用，也能逐步承担自动化、文本处理、命令触发和日常效率入口的角色。整体界面走现代 macOS 风格，适合希望用键盘减少鼠标操作、提升系统导航效率、寻找 Quicksilver 精神继承者的 Mac 用户。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/widgetscape-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "Widgetscape 是一款专为 macOS 打造的原生桌面小组件工具，提供 31 款覆盖时间、效率、系统监控与生活信息的小组件，可将日程、天气、音乐播放、硬件状态及开发活动直接呈现在桌面上。软件采用统一网格布局，支持八种尺寸，每种尺寸都有独立设计的内容排布，拖动时自动吸附对齐，也能自由放置。用户可通过 23 套配色、明暗模式及玻璃、实色、描边、透明四种表面样式调整外观，并为不同显示器和桌面空间分别设置位置。特色功能包括沿屏幕边缘展示日程的 Day Timeline、读取本地 AI 编程工具日志的 Token Pulse，以及查看 Git 分支和变更的 Repo Pulse。正在播放组件支持 Music、Spotify、Safari 与 Chrome 的媒体信息和播放控制。软件使用 Swift 开发，不依赖网页视图，仅在内容变化时重绘，不可见组件停止工作。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/extrabar-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "ExtraBar是一款为Mac用户定制的菜单栏管理工具，提供即时访问应用程序、深层链接和自定义操作，而无需任何权限。它让用户能够创建个性化的操作，以更符合自己的工作流程。与传统的macOS菜单栏不同，ExtraBar允许用户根据自己的需求灵活配置，摆脱固定的图标和有限的功能。用户可以为设计、开发或管理等职业定制快捷方式，并将常用文件和应用程序组织在一个直观的管理界面中。ExtraBar支持深层链接，能够直接跳转到需要的地方，使工作更加高效。ExtraBar无需系统级权限，用户只需下载并添加应用，就可以使用。现在还提供一次性支付的终身访问特惠，首次购买费用为9.99欧元，用户可享受所有功能及未来更新。ExtraBar致力于让您的菜单栏像您的工作方式一样个性化和高效。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/spacelauncher-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "SpaceLauncher 是一款面向 macOS 的键盘快捷操作工具，可将空格键或其他自定义按键设为引导键，通过按住引导键并输入单个按键或连续按键序列，快速启动应用、打开网址与文件夹、执行菜单命令、模拟组合键及运行脚本。软件能够自动区分正常输入空格与触发快捷操作，保留快速点按、连续打字以及 Photoshop 等应用中的空格拖动画布手势，也支持 Shift加空格输入多个连续空格。快捷键提示窗口会根据当前序列展示下一步可用操作，并可搜索全部快捷方式、调整显示位置和出现延迟，常用项目还会逐渐弱化，让不熟悉的绑定更醒目。每项快捷操作都能限定适用应用，使同一按键在 Finder、文本编辑器等不同环境中执行对应任务，也可对指定应用完全停用。用户能够混合使用空格键、Caps Lock、功能键、单个修饰键或组合键作为不同引导方式，并在不松开引导键的情况下连续运行多个动作。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/buholaunchpad-mac-crack.html": {
+    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "summary": "BuhoLaunchpad是一款为用户找回经典、全屏App启动方式的应用，提供简单直观的界面，使得在Mac上浏览和启动应用程序变得轻松 effortless。用户可以免费下载并获得终身授权码，应用支持macOS Tahoe 26及其M系列和Intel Mac设备，同时具备快捷键操作功能。BuhoLaunchpad的方格布局允许用户快速搜索和拖放重新排列应用，支持自定义文件夹管理，帮助用户保持工作空间的整洁。它还提供无缝的旧版Launchpad布局导入，确保升级macOS时不影响工作流程。结合流畅的操作体验与精准的响应，使用户无论是使用键盘、触控板还是鼠标，都能轻松地导航和使用该App。 BuhoLaunchpad 是您熟悉的启动台应用，它让您重新找回简单、全屏且直观的 App 启动方式。",
+    "summary_en": null,
+    "tagline_en": null
   }
 }
