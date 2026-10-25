@@ -1138,5 +1138,137 @@
     "summary": "BuhoLaunchpad是一款为用户找回经典、全屏App启动方式的应用，提供简单直观的界面，使得在Mac上浏览和启动应用程序变得轻松 effortless。用户可以免费下载并获得终身授权码，应用支持macOS Tahoe 26及其M系列和Intel Mac设备，同时具备快捷键操作功能。BuhoLaunchpad的方格布局允许用户快速搜索和拖放重新排列应用，支持自定义文件夹管理，帮助用户保持工作空间的整洁。它还提供无缝的旧版Launchpad布局导入，确保升级macOS时不影响工作流程。结合流畅的操作体验与精准的响应，使用户无论是使用键盘、触控板还是鼠标，都能轻松地导航和使用该App。 BuhoLaunchpad 是您熟悉的启动台应用，它让您重新找回简单、全屏且直观的 App 启动方式。",
     "summary_en": null,
     "tagline_en": null
+  },
+  "https://macked.app/opendisplay-mac.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "OpenDisplay是一款免费开源的macOS扩展显示工具，可将iPhone、iPad甚至闲置Mac变成Mac的第二或第三块屏幕，提供真正的扩展桌面而非简单镜像。软件由Mac端Sender与接收端Receiver配合运行，支持USB有线连接和WiFi连接，USB模式最高可达60FPS，采用硬件H.264编码、低延迟传输与自动发现机制，画面保持Retina级清晰度。用户可以同时连接最多三台iPhone或iPad，并在系统设置中自由排列显示器；设备支持触控点击、拖拽、双指滚动和横竖屏切换，适合聊天窗口、日志、文档、开发工具等场景。OpenDisplay无需注册账号、订阅、转接硬件或相同Apple ID，支持不同用户的Apple设备互联，数据通过设备间直连传输，不依赖服务器和遥测服务。项目采用GPL-3.0许可证，支持自行编译、审查代码与社区贡献。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/berthly-mac.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "Berthly是一款面向Apple Silicon Mac的原生macOS容器管理应用，为Apple的container工具提供类似Docker Desktop的图形化体验。它常驻菜单栏，并通过SwiftUI窗口统一管理镜像、容器、虚拟机、网络、卷和容器日志，用户无需频繁使用命令行即可完成镜像拉取、Dockerfile或Containerfile构建、容器创建运行、资源查看与实时日志监控。软件支持拖放文件启动构建、记忆构建参数并一键重建，提供容器CPU内存网络图表、收藏状态提醒、后台构建进度追踪和镜像更新检测，还能在发现新镜像后按原配置重建容器并保留卷数据。Berthly内置SwiftTerm终端、命令面板和完整键盘快捷键，支持私有镜像仓库登录、网络与卷清理，以及Apple container工具链的引导安装和守护进程管理。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/puremac-mac.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "PureMac是一款面向 macOS 的原生清理与应用卸载工具，强调透明、可审查和可恢复的清理流程，适合希望释放磁盘空间又不想依赖夸张扫描提示的用户。它可以在拖入应用后查找偏好设置、缓存、容器、启动代理和日志等残留内容，也能扫描早已删除应用留下的孤儿文件，并通过智能扫描处理系统垃圾、用户缓存、Xcode DerivedData、Homebrew、npm、yarn、pnpm、Docker 以及 AI 应用日志等常见占用来源。软件会显示每个待处理项目的真实路径，让用户在删除前逐项确认，所有移除操作都通过系统接口进入废纸篓，误删后仍可恢复。PureMac 不包含遥测、分析、账户或网络回传机制，对高风险系统路径采用代码级排除策略，适合重视隐私、安全边界和开源透明度的 Mac 用户。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/docky-mac.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "Docky 是一款面向 macOS 14 Sonoma 及更高版本的原生 Dock 替代工具，可与系统 Dock 并行使用、同步其位置，也能隐藏系统 Dock 并完整接管桌面边缘区域。它允许用户将常用应用、文件夹、小组件、智能堆栈、分隔符和空白区域自由组合，把传统图标栏扩展为贴合个人工作流的操作中心。内置 Launchpad 提供全屏应用启动、即时搜索、键盘导航、自定义网格与全局快捷键；实时窗口切换器能够在确认切换前，于窗口原本所在位置展示预览，帮助用户快速识别不同桌面空间中的目标窗口。日历、提醒事项、电池、天气、系统状态和正在播放等信息可直接显示在 Dock 中，小组件还能堆叠于单个位置并循环查看。应用文件夹支持内联浏览、弹出面板、嵌套导航、快速查看和拖放操作，应用图标也可通过本地图片或精选资源进行替换。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/widgetify-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "Widgetify是一款专为macOS设计的桌面个性化工具，提供了丰富的高度可定制化小部件，让用户可以按照自己的喜好设计桌面，让桌面成为提醒自己重要人物、地点和话语的地方。通过Widgetify，用户可以展示个人照片、倒计时至即将到来的事件、在桌面上保留常用应用程序快捷方式、一目了然地查看天气等等。每个小部件都可以精确调整，以符合用户所期望的外观和功能，包括颜色、背景、大小和主题的广泛选择。Widgetify让用户能够创造并随时间轻松改变完美的桌面墙美观。其中包括照片浏览、音乐播放状态控制（支持Spotify、Apple Music和歌词显示）、自定义日期时间钟、应用快捷方式与文件夹组织器、Day Master、待办事项与便签、天气状况与预报、时区追踪以及统计数据与翻页时钟等多种受欢迎的小部件。 Widgetify是一款让您前所未有地个性化桌面的软件，提供了广泛的高度可定制的小部件。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/avif-converter-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "AVIF Converter是一款专为Mac设计的离线批量图像转换工具，可将PNG、JPG、HEIC等多种图片转换为AVIF，也支持将AVIF导出为PNG，并通过更高效的压缩方式在相同画质下显著缩减文件体积。所有处理均在本机完成，无需把重要图片上传到网络，适合摄影师、设计师、开发者以及需要优化网站和云端存储空间的用户。软件支持HDR、广色域、10位与12位色深、完整透明通道和动画AVIF输出，可拖放单张图片、文件夹、目录，甚至直接从Safari等浏览器拖入素材。用户能够同时输出多种图片类型，并通过质量、无损、色度抽样、编码速度、最大宽高、文件名前后缀等选项控制结果。应用还提供水印、转换预览、预设切换、Finder Quick Look快速查看等功能，近期版本加入CMYK输入支持并改善大尺寸图片预览、动画AVIF处理和批量转换稳定性。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/nex-terminal-ssh-sftp-client-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "Nex Terminal-SSH & SFTP client 是一款原生开发的 SSH 终端与 SFTP 文件管理工具，面向需要在 Mac、iPhone、iPad 等设备上远程登录服务器的开发者、运维人员和技术用户。它支持服务器与分组管理、会话列表、iCloud 多设备同步、外接键盘操作、深浅色外观切换和丰富终端主题，减少重复输入主机地址、端口、密码或密钥的繁琐流程。软件内置文件管理能力，可进行上传、下载、压缩、解压、复制、删除、重命名、权限修改、路径复制、图片预览与搜索，并能跟随 SSH 路径快速定位。高级使用场景中，它还提供多跳跳板机、端口转发、片段脚本、断点续传、终端搜索、关键字高亮、字符编码设置与带语法高亮的文本编辑器，适合在移动端与桌面端完成服务器维护、文件处理和远程开发工作。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/waterkit-drink-water-tracker-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "WaterKit 是一款面向 macOS、iPhone、iPad 与 Apple Watch 的饮水记录和补水提醒工具，通过直观进度、动态角色与成就挑战帮助用户建立稳定的喝水习惯。软件提供 45 种饮品类型，可记录水、茶、咖啡、果汁、牛奶、运动饮料和汤等摄入内容，并允许调整饮品顺序、自定义图标颜色、设置常用杯量及切换毫升、盎司和升等单位。系统会结合体重、性别与活动数据推荐每日目标，配合 80 种通知文案、5 类提醒语气、19 种声音及分时场景识别，在不同时间提供更自然的提示。用户可从日、周、月、年维度查看饮水与咖啡因统计，通过月度热力图、近七日洞察和百分制习惯评分了解长期表现。软件支持 Apple 健康数据读写、iCloud 实时同步、Siri 语音记录、实时活动、锁屏与桌面小组件，Mac 菜单栏水滴还会随当天摄入量动态变化。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/eye-monitor-break-reminders-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "Eye Monitor – Break Reminders是一款需要与macOS应用搭配使用的iOS应用程序，已在Hacker News、Product Hunt和sspai.com等平台获得关注，并在13个国家的健康与健身类应用中排名第一。该应用能够在Mac的疲劳值达到预设阈值时，通过通知提醒用户，防止他们在离开电脑休息时沉迷于手机。其macOS版本是一个完全自动化的疲劳监测和提醒工具，旨在帮助用户休息、放松和减轻疲劳。Eye Monitor会自动分析用户的行为，例如鼠标、触控板、滚轮运动以及键盘输入，及时通知用户达到疲劳阈值。该应用可以用作休息提醒、水分补充提醒、伸展提醒、使用屏幕时间提醒、RSI提醒等，以帮助用户维护眼部健康和改善坐姿相关问题。 Eye Monitor是一款旨在帮助用户减少视觉疲劳和保持健康的应用程序，需配合macOS版本使用。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/glimpsewords-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "GlimpseWords是一款为macOS打造的菜单栏记单词应用，它把词汇学习融入你每天查看时间电量或无线网络状态的碎片瞬间。无需打开专门软件也无需安排固定学习时间，只要瞥一眼菜单栏就能看到当前单词的拼写发音释义和例句，让新词自然进入记忆。应用支持英语日语韩语三大语种，提供日常场景与考试备考等多类词库，包括JLPT各等级与TOPIK系列内容。智能轮换可按你设定的十秒到五分钟间隔自动刷新，已掌握的词可标记为已知后不再出现，也可设为模糊以增加复习频率，还能收藏到我的词库并通过搜索快速定位。点击菜单栏单词会展开精美玻璃风格详情卡片，支持自动发音美音英音切换释义显示方式自定义以及短语例句的显示隐藏。软件采用原生macOS设计语言，界面轻量流畅资源占用低，并支持深色模式多种主题配色字体大小样式调节以及应用内快捷键，帮助在校学生与职场人士以更自然的方式持续扩充词汇量。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/1001-tvs-screen-mirroring-app-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "1001 TVs雨燕投屏是一款专业级屏幕镜像工具，由专注核心功能的团队开发，支持将手机或平板屏幕无线镜像到Mac（可同时镜像多台手机/平板窗口，支持自由缩放、全100屏、强制1旋转、自动适配原始比例 TVs是一款专业、暂停/恢复屏幕镜像投控制），同时也能屏将Mac的主屏工具，由专注或扩展屏镜像核心到电视、另一镜像台PC/Mac/功能的团队手机/平板等设备，实现低打造延迟高清，支持实时传输、将音视频完美手机同步或、平板长期稳定连接，所有屏幕实时数据仅在本地镜像到Mac网络传输确保隐私安全，用户（可还可享受同时连接直接在镜像屏多上台绘图标注设备并、自由文件互传等缩放窗口附加功能，只需、全在手机与接收屏显示端安装应用并、强制旋转、连接同一Wi-Fi自动，即适可快速开启配比例、镜像操作，带来随时德国品质般的可靠暂停恢复体验。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/notchnook-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "NotchNook是一款为macOS用户设计的应用，通过利用MacBook顶部的刘海区域，提供了全新的功能体验。该应用能够轻松访问媒体控制、日历事件、短语和其他实用功能，极大提升了日常任务的效率。用户可以通过刘海快速控制音乐播放，查看日历活动，而无需打开全屏应用，同时支持实时活动展示，让用户随时掌握日程安排。NotchNook还允许用户临时存储和传输文件，通过拖放操作将文件存放在托盘中或快速通过AirDrop发送到其他设备。用户还可以通过反射小部件快速预览摄像头，为视频通话做好准备。即使在没有刘海的屏幕上，NotchNook同样保持优雅的功能，支持多显示器设置，适应不同工作站布局，成为提高生产力的实用工具中心。通过流畅的滚动滑动操作，NotchNook确保了用户的良好体验，从而真正实现了日常工作的便利性。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/crewtower-ai-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "CrewTower是一款面向macOS用户的原生AI代理会话管理工具，将Claude Code、Codex、Cursor、Gemini CLI、Qwen Code、opencode等桌面应用、编辑器和终端中的任务集中呈现在Mac顶部的刘海区域或其他显示器上的悬浮胶囊中。用户无需频繁切换窗口，就能查看任务进度、上下文使用量、运行状态、完成提醒以及需要处理的请求，并可直接批准或拒绝支持的命令、回答问题、选择方案、审阅计划和提交反馈。对于危险操作，CrewTower会显示清晰警告并提供单次、本次会话或始终允许等选项；Jump功能则能带用户返回准确的应用窗口、标签页、终端窗口、面板或tmux窗格。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/muffle-hazeover-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "Muffle是一款macOS Sonoma及以上版本专属的极简专注神器，它通过智能模糊除当前活动窗口外的所有界面内容（包括桌面、其他窗口、通知等），有效屏蔽视觉干扰、降低认知负荷，帮助用户进入深度工作、心流状态或ADHD友好环境，同时适用于屏幕共享/演示时保护隐私、减少分心，核心操作只需猛晃鼠标即可瞬间切换模糊/清晰状态，支持精细调节模糊强度（最高68%）与窗口变暗程度（最高45%），采用原生Swift开发性能极致优化、闲置时CPU占用近乎为零，提供7天免费试用与一次性购买Pro终身授权（$7.99特价支持2台设备、无限更新），是追求极致专注、厌倦桌面杂乱、需要强力防干扰机制的程序员、创作者、远程办公者和重度多任务用户的轻量级生产力护眼利器。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/caxton-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "Caxton是一款面向macOS的原生大文件编辑器，专门处理普通文本编辑器难以打开的生产日志、数据库导出文件、超大CSV、JSON导出和崩溃报告。它采用Memory-mapped I/O、piece-table文档模型与分层行索引，可完整打开并索引最高达10GB、超过8000万行的文件，同时只渲染当前视口内容，让超长单行压缩文件也能顺畅滚动。软件提供日志跟随模式、全文搜索、正则匹配、批量替换、多条件过滤、原始行号保留和大文件分段打开功能；CSV模式支持分隔符自动识别、表头冻结、类型推断、百万级行列排序、单元格编辑、列拆分合并提取与去重。Caxton基于AppKit和Swift构建，不依赖Electron或网页视图，支持深色模式、标签页、原生文件对话框、系统服务和打印功能，文件默认留在本机，不上传、不进行云端处理，也不包含遥测。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/walltune-wallpaper-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "WallTune 是一款面向 macOS 多显示器桌面环境的动态壁纸工具，重点解决普通壁纸应用只能镜像同一画面、无法记住物理显示器的问题。它可以把一张全景壁纸连续铺展到两台、三台或更多显示器上，也能为每块屏幕单独指定图片、视频、文件夹、缩放方式与循环播放规则。软件通过硬件指纹识别显示器，断开、重连或重启后仍可恢复对应设置，并能根据当前显示器拓扑自动匹配已保存的桌面配置。WallTune 采用原生 macOS 菜单栏界面，支持 MP4、MOV、M4V 与常见图片格式，内置壁纸库、播放列表、对齐助手、智能暂停、专注模式联动和快捷指令自动化，适合使用外接屏、竖屏、超宽屏或经常切换办公场景的 Mac 用户。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/deskrest-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "DeskRest是一款智能休息提醒工具，旨在帮助用户改善眼睛疲劳、姿势和工作生活平衡。它提供短暂的20秒和长达3分钟的休息提醒，以帮助用户放松眼睛，调整姿势和恢复精力。DeskRest能够智能检测用户的工作状态，在繁忙时暂停提醒，同时支持视频通话和专注模式的识别。用户可以创建个性化的休息例程，结合自定义背景和声音提示，确保休息体验符合个人需求。同时，它还帮助用户设定工作时间，减少无尽的工作，提升工作与生活的平衡感。DeskRest的丰富功能和用户自定义选项使其成为改善工作日健康和生产力的有效工具。 DeskRest 是一款智能的休息提醒工具，旨在减少眼睛疲劳、改善身体姿势，并促进工作与生活的平衡。通过精美的非侵入性提醒，DeskRest 帮助用户养成健康的工作习惯，提高工作效率。 智能休息提醒 : DeskRest 提供短暂的 20 秒休息和 3 分钟长休息，以帮助用户放松眼睛和调整姿势。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/refine-ai-grammar-checker-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "Refine是一款以隐私为优先的语法检查器，专为Mac用户设计，提供本地处理的AI写作辅助，使您在各类应用中无缝实现高效语法检查。与基于云的工具不同，Refine将所有内容在本地处理，确保您的文本不被上传或监控，速度极快，随时可用，适合在飞机、咖啡店等无网络环境中使用。该应用与Apple Messages、Mail、Safari、Chrome、Pages、Word等多个应用兼容，无需任何设置，用户可直接开始写作并获得即时的语法建议。Refine支持50多种语言的语法检查，并允许用户使用母语书写时自动提供翻译建议，确保写作流程不被打断。此外，用户可以选择实时检查或手动控制，自定义提示以匹配个人风格，通过一次性购买59美元的许可证，即可享有应用的所有功能与更新，而无需订阅。Refine还提供30天的退款保证及针对学生和教育工作者的折扣。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/typeseer-ai-1-5-3-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "TypeSeer是一款面向 macOS 的本地人工智能写作辅助工具，可在邮件、备忘录、Slack、浏览器及多数 Mac 应用的输入框中提供灰色文字续写建议。用户按 Tab 键即可逐词接受，继续输入、改写内容或按 Esc 时建议会自动让开，不会擅自修改原文。软件在 Apple Silicon 芯片上直接运行开放语言模型，模型完成首次下载后可离线生成内容，键入文字、文档和建议均不会发送到服务器。可选的个性化学习会从已经完成的句子中提取常用姓名、专业术语和表达习惯，并允许逐条查看、导出或删除记录。它还支持触发词文本片段、日期时间与剪贴板占位符、一键拼写修正、上下文感知单词补全，以及使用兼容指令模型进行可审阅的语法检查。TypeSeer能够自动识别同一文档中的语言变化，为十五种语言提供专用词表和拼写验证，并可读取当前窗口中的对话内容来改善回复。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/screensage-pro-mac-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "ScreenSage Pro是一款专为macOS设计的专业屏幕录制和教程创建工具，旨在帮助用户轻松制作产品演示和教程。它具有零学习曲线的优点，支持智能鼠标跟踪和动态焦点，使得录制更具吸引力。用户可以利用自动捕捉的功能为录制内容生成实时注释和多语言字幕，同时还能显示关键盘快捷键。ScreenSage Pro支持多麦克风录音，确保音频质量，并且可以通过AI技术实现背景去除，保护隐私信息。该软件还允许用户将录制的视频转化为具有电影效果的专业内容，并即将推出3D设备模型嵌入和动态背景处理功能，进一步提升演示的视觉效果。ScreenSage不仅支持macOS录制，还允许用户与iOS设备进行跨平台录制，方便进行多角度内容创作。提供多种订阅计划，包括专业版、最佳价值版和终身版，满足不同用户的需求，适合各类师生、创意工作者以及企业专业人士使用。",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/final-cut-pro-creator-studio-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "Final Cut Pro是一款现已纳入Apple Creator Studio订阅套件的专业视频剪辑软件，与Logic Pro、Pixelmator Pro、Motion、Compressor及MainStage等强大创作工具共同组成一站式创意平台，专为macOS 15.6及以上系统优化、深度适配最新Apple Silicon芯片，提供革命性的磁性时间线、AI驱动的转录字幕生成、Transcript Search自然语言搜索对话、Visual Search智能物体动作查找、Beat Detection自动音乐节拍对齐、AI Magnetic Mask自动跟踪隔离人物物体形状、Smart Conform一键适配方形/竖屏输出等前沿智能功能，同时具备强大的媒体库组织（自定义关键词/收藏/智能合集）、高性能多格式支持（ProRes/ProRes RAW/RED等）、可高度自定义的2D/3D字幕…",
+    "summary_en": null,
+    "tagline_en": null
+  },
+  "https://macked.app/logic-pro-creator-studio-make-music-crack.html": {
+    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "summary": "Logic Pro是一款苹果公司推出的专业音乐制作软件，现已纳入Apple Creator Studio订阅套件，与Final Cut Pro、Motion等创意应用一同提供，它内置海量乐器、效果器、循环与采样素材，支持Stem Splitter分离混音音频、Smart Tempo自动适配节奏、Live Loops即时构建、Flex Time/Pitch精细调整、Quick Swipe Comping快速合成、Track Alternatives多版本管理以及Mastering Assistant一键母带处理，新推出的AI Session Players包含Synth Player、Bass Player、Keyboard Player、Drummer等虚拟乐手可生成动态键盘、贝斯与合成器表演，新增Simple Pad、Modulated Pad、Rhythmic Chords及多种808…",
+    "summary_en": null,
+    "tagline_en": null
   }
 }
