@@ -36,6 +36,17 @@ REQUEST_DELAY = 1.0
 def fetch(url):
     """Fetch a page. Tries plain requests, then a Chrome-like client, then a reader proxy."""
     last = None
+    # 0) optional relay (e.g. a Cloudflare Worker) set via FETCH_PROXY
+    proxy = os.environ.get("FETCH_PROXY")
+    if proxy:
+        try:
+            r = requests.get(proxy, params={"url": url}, timeout=60)
+            r.encoding = "utf-8"
+            if r.status_code == 200 and "<html" in r.text.lower():
+                return r.text
+            print(f"  relay returned {r.status_code} for {url}", file=sys.stderr)
+        except requests.RequestException as e:
+            print(f"  relay error: {e}", file=sys.stderr)
     # 1) plain request (works from home connections)
     try:
         r = requests.get(url, headers=HEADERS, timeout=30)

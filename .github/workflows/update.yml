@@ -19,6 +19,10 @@ jobs:
           python-version: "3.12"
       - run: pip install requests beautifulsoup4 deep-translator curl_cffi
       - run: python macked_rss.py --pages 2
+        env:
+          FETCH_PROXY: ${{ secrets.FETCH_PROXY }}
+          TRANSLATOR: mymemory
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
       - name: Commit changes
         run: |
           git config user.name "github-actions"
