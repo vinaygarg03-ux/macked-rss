@@ -40,11 +40,11 @@ def fetch(url):
     proxy = os.environ.get("FETCH_PROXY")
     if proxy:
         try:
-            r = requests.get(proxy, params={"url": url}, timeout=60)
+            r = requests.get(proxy, params={"url": url}, headers=HEADERS, timeout=60)
             r.encoding = "utf-8"
             if r.status_code == 200 and "<html" in r.text.lower():
                 return r.text
-            print(f"  relay returned {r.status_code} for {url}", file=sys.stderr)
+            print(f"  relay returned {r.status_code} for {url} | server={r.headers.get('server')} | relay body: {clean(r.text)[:160]}", file=sys.stderr)
         except requests.RequestException as e:
             print(f"  relay error: {e}", file=sys.stderr)
     # 1) plain request (works from home connections)
