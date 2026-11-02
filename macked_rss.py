@@ -93,9 +93,81 @@ def _gt():
     return _translator
 
 
+def _hard_cut(text, limit):
+    out = []
+    while text:
+        n = len(text)
+        while len(text[:n].encode("utf-8")) > limit:
+            n -= 1
+        out.append(text[:n])
+        text = text[n:]
+    return out
+
+
+def _split_chunks(text, limit=400):
+    """Split text into pieces under `limit` bytes, preferring sentence ends."""
+    parts = [x for x in re.split(r"(?<=[。！？；.!?;])\s*", text) if x]
+    chunks, cur = [], ""
+    for part in parts:
+        for piece in _hard_cut(part, limit):
+            if cur and len((cur + piece).encode("utf-8")) > limit:
+                chunks.append(cur)
+                cur = piece
+            else:
+                cur += piece
+    if cur:
+        chunks.append(cur)
+    return chunks
+
+
+_mm_blocked = False
+
+
+def _mymemory(text):
+    """Free translation via MyMemory (no key). Returns None on failure/quota."""
+    global _mm_blocked
+    out = []
+    for chunk in _split_chunks(text):
+        params = {"q": chunk, "langpair": "zh-CN|en"}
+        if os.environ.get("MYMEMORY_EMAIL"):
+            params["de"] = os.environ["MYMEMORY_EMAIL"]
+        for attempt in range(3):
+            try:
+                r = requests.get("https://api.mymemory.translated.net/get", params=params, timeout=30)
+                j = r.json()
+                t = (j.get("responseData") or {}).get("translatedText", "") or ""
+                status = str(j.get("responseStatus"))
+                if "ALL AVAILABLE FREE TRANSLATIONS" in t.upper() or status == "429":
+                    print("  MyMemory daily limit reached - will continue next run", file=sys.stderr)
+                    _mm_blocked = True
+                    return None
+                if status == "200" and t and "MYMEMORY WARNING" not in t.upper():
+                    out.append(htmllib.unescape(t).strip())
+                    break
+            except Exception as e:
+                print(f"  MyMemory error: {e}", file=sys.stderr)
+            time.sleep(3 * (attempt + 1))
+        else:
+            return None
+        time.sleep(1)
+    return " ".join(out)
+
+
+def _mymemory_batch(items):
+    for item in items:
+        if _mm_blocked:
+            return
+        res = _mymemory(item)
+        if res:
+            _cache[item] = res
+
+
 def _batch(items):
     """Translate several lines in ONE request (far fewer requests -> no rate limit)."""
     global _blocked
+    if os.environ.get("TRANSLATOR") == "mymemory":
+        _mymemory_batch(items)
+        return
     if _blocked or os.environ.get("NO_GOOGLE"):
         return
     for attempt in range(3):
@@ -288,7 +360,7 @@ def build_rss(items):
             "<item>",
             f"<title>{esc(it['title'], quote=False)}</title>",
             f"<link>{esc(it['link'], quote=False)}</link>",
-            f'<guid isPermaLink="true">{esc(it["link"], quote=False)}</guid>',
+            (f'<guid isPermaLink="false">{esc(it["link"], quote=False)}#r{it["rev"]}</guid>' if it.get("rev") else f'<guid isPermaLink="true">{esc(it["link"], quote=False)}</guid>'),
             f"<pubDate>{it['pubDate']}</pubDate>",
             f"<description>{build_description(it)}</description>",
             "</item>",
@@ -342,6 +414,11 @@ def main():
         entry = state.setdefault(post["link"], {"pubDate": now, "summary": None})
         if not entry.get("pubDate"):
             entry["pubDate"] = now
+        # an existing post whose title changed (e.g. new app version) counts as new
+        if entry.get("title") and entry["title"] != post["title"]:
+            entry["pubDate"] = now
+            entry["rev"] = entry.get("rev", 0) + 1
+        entry["title"] = post["title"]
 
         if not args.no_summary and not entry.get("summary"):
             try:
@@ -363,6 +440,7 @@ def main():
         else:
             post["summary"] = entry.get("summary") or ""
         post["pubDate"] = entry["pubDate"]
+        post["rev"] = entry.get("rev", 0)
 
     with open(args.output, "w", encoding="utf-8") as f:
         f.write(build_rss(posts))
