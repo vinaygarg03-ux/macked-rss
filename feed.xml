@@ -5,7 +5,7 @@
 <link>https://macked.app/</link>
 <description>MacKed 最新发布 (unofficial scraped feed)</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 03 Nov 2026 14:35:17 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 16:42:57 +0000</lastBuildDate>
 <generator>macked_rss.py</generator>
 <item>
 <title>macOS Golden Gate 27</title>
@@ -96,7 +96,7 @@
 <link>https://macked.app/clash-verge-rev.html</link>
 <guid isPermaLink="true">https://macked.app/clash-verge-rev.html</guid>
 <pubDate>Tue, 03 Nov 2026 12:56:58 +0000</pubDate>
-<description><![CDATA[<img src="https://pic.macked.app/static/3ef04151b1322b793ccd25e01d709726-1721369910.webp" /><p><b>Cross-platform Clash graphics client</b></p><p>Clash Verge Rev/ByWave是一个基于Tauri为Windows、MacOS、Linux操作系统开发的Clash Meta图形用户界面(GUI)软件。该软件专注于Clash Meta核心的开发与维护，不再包含Clash核心。Clash Verge主要特点包括对配置文件的管理与增强（支持yaml和Javascript）、改进的用户界面和自定义主题颜色、内置Clash.Meta(mihomo)核心、系统代理设置和保护等。此外，Clash Verge还提供了一系列高级功能，如展示局域网IP信息、设置页面一键复制环境变量、服务模式安装逻辑优化、支持订阅代理组、节点和规则的可视化编辑，以及扩展脚本支持。移除了内核授权改为服务模式实现，增加了自动填充本地订阅名称、重大更新处理逻辑、订阅的单独指定扩展配置/脚本、可视化规则编辑器和编辑器新增工具栏按钮等功能。</p>]]></description>
+<description><![CDATA[<img src="https://pic.macked.app/static/3ef04151b1322b793ccd25e01d709726-1721369910.webp" /><p><b>Cross-platform Clash graphics client</b></p><p>Clash Verge Rev/ByWave is a Clash Meta graphical user interface (GUI) software based on Tauri for Windows, MacOS, Linux operating systems. The software focuses on the development and maintenance of the Clash Meta core and no longer includes the Clash core. Key features of Clash Verge include profile management and enhancements (support for yaml and Javascript), an improved user interface and custom theme colors, built-in Clash. Meta (mihomo) core, system proxy setup and protection, etc. In addition, Clash Verge provides a range of advanced features, such as displaying LAN IP information, setting page one-click replication environment variables, optimization of service mode installation logic, support for visual editing of subscription proxy groups, nodes, and rules, and extended scripting support. Removed kernel authorization and changed to service mode implementation, adding features such as autofill local subscription names, significant update processing logic, individually specified extension configuration/scripts for subscriptions, visual rule editor, and new toolbar buttons for editors.</p>]]></description>
 </item>
 <item>
 <title>Kaku 0.28.0</title>
