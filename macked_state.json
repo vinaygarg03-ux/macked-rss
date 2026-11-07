@@ -35,17 +35,19 @@
     "title": "Stats 3.0.24"
   },
   "https://macked.app/switch-window-switcher-mac.html": {
-    "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "Switch 是一款专为 macOS 设计的先进窗口切换工具，它革新了传统的 ⌘-Tab 操作模式，从应用级切换转变为直接在窗口级别进行高效循环切换。用户可以通过 ⌘-Tab 向前切换窗口，使用 ⇧⌘Tab 向后切换，还能在应用内部通过 ⌥-` 快捷键快速操作，支持跨多个 Space 桌面进行窗口切换。界面呈现垂直列表布局，便于浏览所有打开窗口，并支持实时输入文字进行过滤查找。Switch 引入 Sticky 模式，可以在当前窗口上打开选择器实现预览而不立即提交切换，同时提供可选的停止灯按钮、⌘W 关闭选中窗口、⌘Q 退出应用、⌘H 隐藏应用等丰富快捷操作，并集成原生 macOS 设置面板进行个性化配置。软件完全免费开源，经过公证，支持 macOS 14 及更高版本，适合追求高效多任务处理的用户显著提升窗口管理和生产力。",
     "summary_en": "Switch is a window switcher for macOS that changes the usual ⌘-Tab behavior from app-level to window-level cycling. Use ⌘-Tab to go forward, ⇧⌘Tab to go back, and ⌥-` to cycle windows within an app, including across multiple Spaces. Windows appear in a vertical list you can filter by typing. A Sticky mode lets you preview a window without committing to the switch, and shortcuts let you close a window (⌘W), quit an app (⌘Q) or hide it (⌘H). It is free, open source, notarized, and requires macOS 14 or later.",
     "tagline_en": "Window-level ⌘Tab switcher for macOS",
-    "title": "Switch 0.3.20"
+    "title": "Switch 0.3.23",
+    "rev": 1
   },
   "https://macked.app/itsycal.html": {
     "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
     "summary": "Itsycal是一款紧凑的菜单栏日历，专为macOS用户设计，兼具实用性和简洁性。Itsycal集成了Mac的日历应用，允许用户创建和展示日历事件，还支持加入虚拟会议，并显示ISO周号。它具有整洁易读的界面和可配置的系统时钟替换功能，并提供暗黑模式和多种字体大小选项。Itsycal还支持灵活的快捷键配置，包括丰富的键盘操作，例如Vim风格的移动和特定日期跳转。用户可通过URL方案进行操作，直观的设计和极小的体积使其成为高效管理日历事件的理想工具。用户可以从macOS 11及以上版本下载Itsycal，享受其带来的便捷日历管理体验。 Mowglii是一款专为macOS设计的迷你菜单栏日历应用，它的精致设计和实用功能使用户可以方便地管理日历和活动。Itsycal与Mac的日历应用无缝集成，让用户能够轻松创建和显示日历事件，加入虚拟会议，并且能够使用ISO周数功能，提高了日历的实用性。",
     "summary_en": "Itsycal is a compact menu bar calendar for macOS that integrates with the Calendar app so you can create and view events, join virtual meetings and see ISO week numbers. It has a clean, readable interface, an optional replacement for the system clock, dark mode, several font sizes, flexible keyboard shortcuts (including Vim-style movement and jumping to specific dates) and URL-scheme support. It is tiny and requires macOS 11 or later.",
-    "tagline_en": "Menu bar calendar app"
+    "tagline_en": "Menu bar calendar app",
+    "title": "Itsycal 0.28.0"
   },
   "https://macked.app/loginputmac3-crack.html": {
     "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
@@ -94,19 +96,20 @@
     "title": "NovaPad 2.44.30"
   },
   "https://macked.app/anysearch-pro-mac-crack.html": {
-    "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "AnySearch Pro 是一款专为 macOS 打造的高速文件搜索与磁盘内容分析工具，通过智能索引和全文检索技术，在数十万文件中快速定位目标。用户可从任意应用按下全局快捷键呼出悬浮搜索面板，无需打断当前工作流程，并能按包含、前缀、后缀、精确匹配或通配符查找文件。软件支持扩展名、文件类型、大小、修改日期、文件夹范围及磁盘来源等组合筛选，也可检索 PDF、Markdown、Word、Excel 和 PowerPoint 文档中的文字内容，匹配位置会以摘要形式突出显示。搜索结果支持快速预览、直接打开、在访达中显示、选择打开方式以及复制文件名或路径。实时文件系统监控会持续更新索引，并覆盖 iCloud 云盘、USB 与 Thunderbolt 外接磁盘；设备断开后仍可保留索引，重新连接时执行增量更新。",
     "summary_en": "AnySearch Pro is a fast file search and disk content analysis tool for macOS that uses smart indexing and full-text search to find files among hundreds of thousands. A global hotkey opens a floating search panel from any app, and you can search by contains, prefix, suffix, exact match or wildcard. It supports combined filters (extension, type, size, modified date, folder scope, disk source) and searches the text of PDF, Markdown, Word, Excel and PowerPoint files, highlighting matches in snippets. Results support quick preview, opening, revealing in Finder, and copying names or paths. Real-time file system monitoring keeps the index current, including iCloud Drive and external USB and Thunderbolt disks.",
     "tagline_en": "File search tool for macOS",
-    "title": "AnySearch Pro 3.5.0"
+    "title": "AnySearch Pro 3.5.1",
+    "rev": 1
   },
   "https://macked.app/ondevice-ocr-pro-mac-crack.html": {
-    "pubDate": "Fri, 06 Nov 2026 09:58:03 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "OnDevice OCR Pro是一款面向Mac的离线OCR与批量文档处理工具，可将扫描件、图片和PDF转换为可全文检索的内容，帮助用户在几秒内定位文字、日期和关键信息。它完全本地运行，不依赖云端或订阅，敏感文件始终留在Mac上，适合对隐私要求较高的法律、医疗、财务和办公场景。软件支持文件夹监控，能自动接收并处理新文档，配合批量识别、自动旋转、图像增强与智能跳过数字化PDF等能力，显著提升整理效率。内置多语言OCR，覆盖中文、英文、日文、韩文、德语等多种语言，还能仅提取文本以节省磁盘空间，并支持通过AI智能体在后台完成自动化处理。界面支持拖放PDF、文件夹和图片即可开始操作，适合一次性归档大量扫描资料；自动校正方向后再进行识别，减少人工修正。它采用苹果最新视觉技术，识别精度和速度都很适合处理发票、收据、合同、研究资料等文件，并通过智能过滤机制跳过部分向量PDF，减少无效工作。",
     "summary_en": "OnDevice OCR Pro is an offline OCR and batch document processing tool for Mac that turns scans, images and PDFs into full-text searchable content. It runs entirely on your Mac with no cloud or subscription, so sensitive files stay local, which suits legal, medical, financial and office use. It can watch folders and process new documents automatically, with batch recognition, auto-rotation, image enhancement and smart skipping of already digital PDFs. Built-in multilingual OCR covers Chinese, English, Japanese, Korean, German and more, and it can extract text only to save disk space. It is well suited to invoices, receipts, contracts and research material.",
     "tagline_en": "Batch OCR tool for documents on macOS",
-    "title": "OnDevice OCR Pro 3.4.1",
-    "rev": 1
+    "title": "OnDevice OCR Pro 3.4.2",
+    "rev": 2
   },
   "https://macked.app/balance-focus-time-tracker-mac-crack.html": {
     "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
@@ -131,12 +134,12 @@
     "title": "Vinyls 3.3"
   },
   "https://macked.app/bytemail-mac-crack.html": {
-    "pubDate": "Thu, 05 Nov 2026 05:27:44 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "bytemail是一款面向Mac的原生邮件客户端，使用SwiftUI与AppKit构建，不捆绑浏览器内核，支持Gmail、iCloud、Outlook、Microsoft 365、Yahoo、Fastmail及其他IMAP邮箱，将多个账户整合到一个快速统一收件箱中。软件提供对话式与经典邮件视图、跨账户即时搜索、附件搜索、智能标签、未读筛选、规则自动归档、稍后处理、定时发送、撤回发送、邮件提醒和多账户签名等功能。它直接连接邮箱服务商，凭据保存在macOS钥匙串，邮件、联系人和使用数据不会经过bytemail服务器。跟踪像素与链接追踪参数会被清理，外部图片可按需加载，并能识别仿冒域名、品牌冒充和可疑链接。软件还支持本地摘要、智能回复与Rewrite，并通过MCP连接Claude、Codex、Cursor等AI应用，在用户确认后处理指定账户内容。",
     "summary_en": "bytemail is a native Mac email client built with SwiftUI and AppKit, with no bundled browser engine. It supports Gmail, iCloud, Outlook, Microsoft 365, Yahoo, Fastmail and other IMAP accounts in one fast unified inbox. Features include conversation and classic views, instant cross-account and attachment search, smart labels, rule-based archiving, snooze, scheduled send, undo send, reminders and per-account signatures. It connects directly to your mail provider, keeps credentials in the macOS Keychain, and sends no mail, contacts or usage data through bytemail servers. Tracking pixels and tracking link parameters are stripped, and it flags spoofed domains and suspicious links. It also offers local summaries, smart replies and Rewrite, and connects to AI apps such as Claude, Codex and Cursor through MCP.",
     "tagline_en": "AI-enhanced native Mac email client",
-    "title": "ByteMail 1.9.18",
-    "rev": 1
+    "title": "ByteMail 1.9.21",
+    "rev": 2
   },
   "https://macked.app/macrest-mac-crack.html": {
     "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
@@ -152,11 +155,12 @@
     "title": "DiskFox 1.3.4"
   },
   "https://macked.app/backdrop-wallpaper-mac-crack.html": {
-    "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "Backdrop 是一款面向 macOS 的动态壁纸与视频桌面工具，可将 Mac 桌面和锁定屏幕变成流畅的视觉场景。它支持 4K 视频壁纸、社区作品浏览、自定义视频导入、多显示器播放和播放列表管理，用户既能从大量社区创作中按风格、颜色、氛围、分辨率或创作者筛选，也能用自己的视频快速制作专属背景。软件针对 Mac 原生优化，采用硬件加速与高效渲染，在 Retina 屏幕和多屏环境下保持顺滑播放，并会在全屏应用或电池供电时智能降低资源占用，兼顾沉浸感、个性化和续航表现。它的锁定屏幕视频壁纸支持尤为突出，可让桌面与锁屏保持统一动态视觉效果，适合想要打造专注、放松、灵感氛围或个性化工作空间的 Mac 用户。",
     "summary_en": "Backdrop is a live wallpaper and video desktop tool for macOS that turns your desktop and lock screen into smooth visual scenes. It supports 4K video wallpapers, browsing community creations, importing your own videos, multi-display playback and playlists. You can filter community wallpapers by style, color, mood, resolution or creator, or quickly make your own background from a video. It is optimized for Mac with hardware acceleration, plays smoothly on Retina and multi-screen setups, and lowers resource use when apps are full screen or the Mac is on battery. Its lock screen video wallpaper support keeps the desktop and lock screen visually consistent.",
     "tagline_en": "Powerful 4K live wallpaper engine for macOS",
-    "title": "Backdrop 2.10.5"
+    "title": "Backdrop 2.10.6",
+    "rev": 1
   },
   "https://macked.app/almighty-crack.html": {
     "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
@@ -290,8 +294,9 @@
   "https://macked.app/strokemouse-mac.html": {
     "pubDate": "Mon, 19 Oct 2026 10:35:01 +0000",
     "summary": "StrokeMouse 是一款面向 macOS 14 Sonoma 及更高版本的开源鼠标与触控板手势自定义工具，可通过按住右键、中键或侧键绘制自由轨迹，也能按住单个 Fn、Control、Option、Shift 或 Command 修饰键移动指针完成触控板绘制，并实验性支持内置触控板上的三至五指轻触、双击、四向滑动及二至五指缩放与旋转。软件采用轨迹重采样、归一化、有限旋转和转折结构门控进行识别，匹配后可执行快捷键、启动应用、打开 URL、控制媒体、管理窗口以及运行 Shell 或 AppleScript。每条手势均可设置独立触发方式、目标应用和作用范围，并能锁定前台应用、指针所属应用或精确窗口。手势库提供搜索、筛选、排序、批量启停、删除及 JSON 导入导出，重复配置可选择跳过或强制导入。",
-    "summary_en": null,
-    "tagline_en": null
+    "summary_en": "StrokeMouse is an open-source mouse and trackpad gesture customization tool for macOS 14 Sonoma and higher that draws free tracks by holding down the right, middle, or side keys, moves the pointer while holding down a single Fn, Control, Option, Shift, or Command modifier key to complete trackpad drawing, and experimentally supports three-to-five finger touch, double click, four-way swipe, and two-to-five finger zoom and rotation on the built-in trackpad. The software uses trajectory resampling, normalization, limited rotation, and turn structure gating to identify, match, and execute shortcuts, launch apps, open URLs, control media, manage windows, and run Shell or AppleScript. Each gesture can set a separate triggering method, target application, and scope, and can lock the foreground application, the application to which the pointer belongs, or the precise window. The gesture library provides search, filtering, sorting, batch start-stop, deletion, and JSON import and export. Duplicate configurations can be selected to skip or force import.",
+    "tagline_en": "macOS Open Source Mouse Gesture Software",
+    "title": "StrokeMouse 0.0.41"
   },
   "https://macked.app/macpacker-mac.html": {
     "pubDate": "Mon, 19 Oct 2026 10:35:01 +0000",
@@ -553,8 +558,9 @@
   "https://macked.app/litpads-custom-soundboard-mac-crack.html": {
     "pubDate": "Tue, 20 Oct 2026 14:08:19 +0000",
     "summary": "LitPads 是一款面向音乐人、DJ、播客制作人、直播主、剧场与现场活动音控、内容创作者的自定义音效板应用，可在 Mac、iPhone 与 iPad 上创建多块音效板，导入自己的音频文件并以超低延迟触发播放。它支持一次性触发、循环、切换、按住播放等模式，每个 Pad 可独立调整音量、声像、淡入淡出、EQ、变调、剪辑范围与混响，并提供多声部叠放播放，适合现场演出、节目串场、舞台提示音、教堂与剧场 cue、TikTok/Reels 素材制作以及 OBS、Twitch、YouTube Live、Discord、Zoom 等直播工作流。Mac 端可配合虚拟音频驱动进行音频路由，MIDI 控制、轨道串联、自动压低、全局淡出、cue 列表和 iCloud 同步等功能让复杂演出流程更易管理。",
-    "summary_en": null,
-    "tagline_en": null
+    "summary_en": "LitPads is a custom soundboard app for musicians, DJs, podcasters, live streamers, theater and live event voice controls, and content creators that creates multiple soundboards on Mac, iPhone, and iPad, imports your own audio files, and triggers playback with ultra-low latency. It supports one-time triggering, looping, switching, press-and-hold playback and other modes. Each Pad can independently adjust the volume, audio, fade, EQ, tone change, clip range and reverb, and provide multi-voice playback. It is suitable for live performances, program crossovers, stage prompts, church and theater cue, TikTok/Reels material production, and live workflows such as OBS, Twitch, YouTube Live, Discord, and Zoom. The Mac side can be used with virtual audio drivers for audio routing. Functions such as MIDI control, track serialization, automatic depression, global fade-out, cue list, and iCloud synchronization make complex performance processes easier to manage.",
+    "tagline_en": "Mac Live Audio Routing Tool",
+    "title": "LitPads SoundBoard 1.9.8"
   },
   "https://macked.app/cooldock-mac-crack.html": {
     "pubDate": "Tue, 20 Oct 2026 14:08:19 +0000",
@@ -572,11 +578,12 @@
     "rev": 1
   },
   "https://macked.app/peakhour-internet-monitor-mac-crack.html": {
-    "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "PeakHour: Internet Monitor 是一款面向 macOS 的实时网络监控工具，将带宽、延迟、无线信号与连接健康状态集中呈现，适合排查视频会议卡顿、下载缓慢、网络中断及宽带表现不佳等问题。软件通过菜单栏和可视化仪表盘展示 Mac、路由器、运营商到互联网的连接路径，帮助判断性能瓶颈出现在哪一段，并支持监控具备 UPnP 或 SNMP 能力的路由器、交换机及 NAS。内置测速结合下载速度、上传速度和 RPM 响应能力评分，还可对照宽带套餐查看实际表现。Wi-Fi 分析可识别弱信号与干扰，历史图表则便于回看流量、延迟、拥塞及断线记录。基于 Apple Intelligence 的网络顾问可为连接评级，以通俗英语解释问题并提供建议，需要配备支持该能力的 Mac。",
     "summary_en": "PeakHour: Internet Monitor is a real-time network monitoring tool for macOS that centralizes bandwidth, latency, wireless signals, and connection health to troubleshoot video conferencing issues, slow downloads, network outages, and poor broadband performance. The software displays Mac, router, and carrier-to-Internet connectivity paths through menu bars and visual dashboards, helps determine where performance bottlenecks lie, and enables monitoring of UPnP or SNMP-capable routers, switches, and NAS. Built-in speed measurement combines download speed, upload speed, and rpm responsiveness ratings, and you can also see actual performance against your broadband plan. Wi-Fi analytics identifies weak signals and distractions, while historical charts make it easy to look back at traffic, delays, congestion, and disconnections. Apple Intelligence-based network consultants can rate connections, explain questions and advise in plain English, and require a Mac that supports that capability.",
     "tagline_en": "macOS Menu Bar Network Traffic Monitor",
-    "title": "PeakHour 6.2.2"
+    "title": "PeakHour 6.2.3",
+    "rev": 1
   },
   "https://macked.app/spyglass-mac-crack.html": {
     "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
@@ -629,8 +636,9 @@
   "https://macked.app/magpie-ai-mac.html": {
     "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
     "summary": "magpie 是一款面向 AI 编程代理的开源模型路由工具，可在 macOS、Windows 和 Linux 上运行，并通过本机网关统一连接不同代理与模型服务。添加 DeepSeek、Kimi、GLM、Qwen、Claude、OpenAI、Gemini、Ollama 等提供商后，便能在 Codex、Claude Code、Gemini CLI、OpenCode 等代理中选择相应模型，无需为每个代理重复配置密钥。magpie 能转换 OpenAI、Anthropic 和 Gemini 等接口格式，并保留流式响应、工具调用与推理能力；也支持将 Claude、ChatGPT 和 GitHub Copilot 等已登录订阅接入其他代理。用户可以为不同任务设置智能模型路由，按意图分配请求，也可根据账户额度、重置时间、速率限制和故障情况自动切换账户，减少请求中断。",
-    "summary_en": null,
-    "tagline_en": null
+    "summary_en": "magpie is an open source model routing tool for AI programming agents that runs on macOS, Windows, and Linux and unifies different agents and model services through a native gateway. After adding providers such as DeepSeek, Kimi, GLM, Qwen, Claude, OpenAI, Gemini, Ollama, etc., you can select the corresponding model among the agents such as Codex, Claude Code, Gemini CLI, OpenCode, etc., without duplicating the key configuration for each agent. magpie can convert interface formats such as OpenAI, Anthropic, and Gemini, and retain streaming response, tool call, and inference capabilities; it also supports connecting logged-in subscriptions such as Claude, ChatGPT, and GitHub Copilot to other agents. Users can set up intelligent model routing for different tasks, assign requests according to their intent, or automatically switch accounts according to account quota, reset time, rate limit, and fault conditions to reduce request interruptions.",
+    "tagline_en": "AI Programming Agent Model Switching",
+    "title": "magpie 0.1.3250"
   },
   "https://macked.app/openclip-mac.html": {
     "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
@@ -780,8 +788,9 @@
   "https://macked.app/streamvox-ai-voice-translator-mac-crack.html": {
     "pubDate": "Thu, 22 Oct 2026 11:15:05 +0000",
     "summary": "StreamVox 是一款专为 macOS 打造的 AI 实时语音翻译与字幕工具，可捕捉系统声音、麦克风输入或指定应用的音频，为在线会议、视频课程、直播、游戏、影视内容和面对面对话即时生成低延迟字幕。它支持 52 种输入语言与 60 种翻译语言，并提供通用、游戏、会议、影视直播、高精度和医疗六种模式，可根据场景优化术语、语气、人名、数字、药品名称及计量单位的识别效果。双向对话模式能够自动判断说话人和语言，以不同颜色展示双方内容，适合跨语言会议、面试、接待和客户支持。悬浮字幕窗口可始终置顶并锁定位置，支持段落或逐行阅读，也能调用 macOS 系统语音自然朗读译文。按应用捕捉功能可只监听 Zoom、Teams、Safari、FaceTime 等指定程序，减少其他声音干扰。",
-    "summary_en": null,
-    "tagline_en": null
+    "summary_en": "StreamVox is an AI real-time speech translation and subtitling tool for macOS that captures system sounds, microphone inputs, or audio from specific apps to generate real-time, low-latency subtitles for online meetings, video sessions, live streams, games, video content, and face-to-face conversations. It supports 52 input languages and 60 translation languages, and provides six modes: universal, game, conference, live video, high-precision, and medical. It can optimize the recognition effect of terminology, tone, person name, number, drug name, and unit of measurement according to the scene. The two-way dialogue mode automatically determines the speaker and language, displaying the content of both sides in different colors, suitable for cross-language meetings, interviews, reception and customer support. Sticky subtitle windows always stick to the top and lock the position, support paragraph or line-by-line reading, and can also call macOS system voice to read the translation naturally. By app capture, you can only listen to specified programs such as Zoom, Teams, Safari, FaceTime, etc. to reduce other sound interference.",
+    "tagline_en": "macOS Real-Time AI Speech Translation",
+    "title": "StreamVox 1.6.3"
   },
   "https://macked.app/bettermacwidgets-mac-crack.html": {
     "pubDate": "Fri, 06 Nov 2026 09:58:03 +0000",
@@ -794,8 +803,9 @@
   "https://macked.app/awesome-copy-crack.html": {
     "pubDate": "Thu, 22 Oct 2026 11:15:05 +0000",
     "summary": "Awesome Copy是一款为Apple用户设计的功能强大的剪贴板历史管理器，旨在提升速度、设计和隐私保护。它能够跟踪用户复制的所有内容，包括文本、图像、链接、文件和音乐，让用户可以随时快速访问、重用和组织剪贴板内容。此应用程序汇聚了一些实用的特色功能，例如灵感来源于动态岛的文件预览、iOS伴侣应用和全面的双向同步，确保Mac、iPhone和iPad之间的剪贴板历史安全无缝对接。在隐私方面，AwesomeCopy采用本地存储及iCloud加密，绝不跟踪使用数据或分享剪贴板内容，确保用户的隐私得到保护。用户还可以通过16种美丽主题个性化工作区，并享受Siri快捷方式集成、丰富的文本支持、以及多种高级功能如文字到语音播放、自动粘贴、以及可定制的全局热键。 AwesomeCopy 是一款功能全面的剪贴板历史管理器，专为重视速度、设计和隐私的 Apple 用户而构建。",
-    "summary_en": null,
-    "tagline_en": null
+    "summary_en": "Awesome Copy is a powerful clipboard history manager designed for Apple users to improve speed, design, and privacy. It tracks everything a user copies, including text, images, links, files, and music, allowing users to quickly access, reuse, and organize clipboard content at any time. The app brings together useful features like dynamic island-inspired file previews, the iOS companion app, and comprehensive two-way sync to ensure a secure and seamless docking of clipboard history between Mac, iPhone, and iPad. In terms of privacy, AwesomeCopy uses local storage and iCloud encryption, never tracking the use of data or sharing clipboard content to ensure that users' privacy is protected. Customize your workspace with 16 beautiful themes and enjoy Siri shortcut integration, rich text support, and advanced features like text-to-speech, auto-paste, and customizable global hotkeys. AwesomeCopy is a full-featured clipboard history manager built for Apple users who value speed, design, and privacy.",
+    "tagline_en": "macOS Clipboard Manager",
+    "title": "Awesome Copy 8.1b2"
   },
   "https://macked.app/spencer-mac-crack.html": {
     "pubDate": "Thu, 22 Oct 2026 11:15:05 +0000",
@@ -837,11 +847,12 @@
     "tagline_en": null
   },
   "https://macked.app/extradock-mac-crack.html": {
-    "pubDate": "Thu, 22 Oct 2026 11:15:05 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "ExtraDock是一款轻量级的应用程序，专为macOS用户设计，可以创建多个浮动Dock，从而提高工作效率。它支持macOS 12及以上版本，用户可以根据需要自定义多个Dock，每个Dock都可以设置独立的应用、文件夹、布局和行为。软件允许将Dock自由漂浮或固定在屏幕边缘，也支持根据需要自动隐藏或收起，节省屏幕空间。ExtraDock还具备全屏应用感知功能，在全屏模式下自动隐藏并在连接时恢复位置。同时，它提供多种颜色主题和可调整的Dock大小，允许用户根据个人工作流进行任意布局。用户可以通过拖拽方式轻松添加应用和文件夹，方便快捷。ExtraDock的性能经过优化，确保低CPU和内存使用，并提供流畅的动画体验。 ExtraDock是一款轻量级的应用程序，可让您在macOS上创建多个浮动的Dock。",
     "summary_en": "ExtraDock is a lightweight app designed for macOS users that improves productivity by creating multiple floating docks. It supports macOS 12 and above, and users can customize multiple docks as needed, each of which can set up separate apps, folders, layouts, and behaviors. The software allows the Dock to float freely or be fixed to the edge of the screen, and also supports automatic hiding or storing as needed, saving screen space. ExtraDock also has a full-screen app-aware feature that automatically hides in full-screen mode and recovers location when connected. At the same time, it offers multiple color themes and adjustable dock sizes, allowing users to make arbitrary layouts based on their individual workflows. Users can easily add apps and folders by dragging and dropping. ExtraDock's performance is optimized to ensure low CPU and memory usage and provide a smooth animation experience. ExtraDock is a lightweight application that allows you to create multiple floating Docks on macOS.",
     "tagline_en": "macOS Create Multiple Dock Tools",
-    "title": "extraDock 5.2.4-beta.4"
+    "title": "extraDock 5.2.5-beta.3",
+    "rev": 1
   },
   "https://macked.app/macwhisper-whisper-transcription-crack.html": {
     "pubDate": "Thu, 22 Oct 2026 11:15:05 +0000",
@@ -1092,11 +1103,12 @@
     "tagline_en": null
   },
   "https://macked.app/netutilus-network-utility-mac-crack.html": {
-    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "Netutilus: Network Utility 是一款专为 Mac 设计的专业网络诊断工具，集成了 8 款经典且强大的网络实用功能，帮助用户轻松排查网络问题、监控连接状态并进行高级诊断。Netutilus 保留了用户喜爱的传统 macOS 网络工具的所有优点，同时以现代化的界面设计和新增的强大功能进行了全面升级。它提供基于 TCP 的 Ping 测试，配备实时延迟图表和详细统计信息；支持 Traceroute 和可视化 Traceroute（Gold Tier），可逐跳追踪数据包路径或在交互式世界地图上查看路由信息；内置速度测试功能，利用 Cloudflare 全球网络测量下载、上行、延迟和抖动；DNS 查询支持自定义 DNS 服务器，查询 A、AAAA、MX、NS、TXT、CNAME、SOA、PTR 等多种记录类型；",
     "summary_en": "Netutilus: Network Utility is a professional network diagnostic tool designed for Mac that integrates 8 classic and powerful network utilities to help users easily troubleshoot network problems, monitor connection status, and perform advanced diagnostics. Netutilus retains all the benefits of the traditional macOS networking tools that users love, while being fully upgraded with a modern interface design and added power. It provides TCP-based ping testing with real-time latency charts and detailed statistics; supports Traceroute and visual Traceroute (Gold Tier) to track packet paths by hop or view routing information on an interactive world map; built-in speed testing to measure downloads, uplinks, latency and jitter using Cloudflare's global network; DNS query supports custom DNS servers, querying A, AAAA, MX, NS, TXT, CNAME, SOA, PTR and other record types;",
     "tagline_en": "macOS Web Toolkit",
-    "title": "Netutilus 1.21.0"
+    "title": "Netutilus 1.21.1",
+    "rev": 1
   },
   "https://macked.app/darkroom-crack.html": {
     "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
@@ -1182,11 +1194,12 @@
     "title": "Tuna 0.110"
   },
   "https://macked.app/widgetscape-mac-crack.html": {
-    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "Widgetscape 是一款专为 macOS 打造的原生桌面小组件工具，提供 31 款覆盖时间、效率、系统监控与生活信息的小组件，可将日程、天气、音乐播放、硬件状态及开发活动直接呈现在桌面上。软件采用统一网格布局，支持八种尺寸，每种尺寸都有独立设计的内容排布，拖动时自动吸附对齐，也能自由放置。用户可通过 23 套配色、明暗模式及玻璃、实色、描边、透明四种表面样式调整外观，并为不同显示器和桌面空间分别设置位置。特色功能包括沿屏幕边缘展示日程的 Day Timeline、读取本地 AI 编程工具日志的 Token Pulse，以及查看 Git 分支和变更的 Repo Pulse。正在播放组件支持 Music、Spotify、Safari 与 Chrome 的媒体信息和播放控制。软件使用 Swift 开发，不依赖网页视图，仅在内容变化时重绘，不可见组件停止工作。",
     "summary_en": "Widgetscape is a native desktop widget tool for macOS that provides 31 widgets covering time, efficiency, system monitoring, and life information to bring schedules, weather, music playback, hardware status, and development activities directly to the desktop. The software adopts a unified grid layout and supports eight sizes. Each size has an independently designed content layout. It automatically absorbs and aligns when dragging, and can also be placed freely. The user can adjust the appearance through 23 sets of color schemes, light and dark modes, and four surface styles: glass, solid color, stroke, and transparent, and set the position for different monitors and desktop spaces. Featured features include a Day Timeline that displays the schedule along the edge of the screen, Token Pulse that reads the logs of local AI programming tools, and Repo Pulse that looks at Git branches and changes. The Playing component supports media information and playback controls for Music, Spotify, Safari, and Chrome. The software is developed using Swift, does not rely on web view, redraws only when the content changes, and the invisible components stop working.",
     "tagline_en": "macOS Native Desktop Widget",
-    "title": "Widgetscape 1.4.4"
+    "title": "Widgetscape 1.4.5",
+    "rev": 1
   },
   "https://macked.app/extrabar-mac-crack.html": {
     "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
@@ -1253,15 +1266,17 @@
   "https://macked.app/waterkit-drink-water-tracker-mac-crack.html": {
     "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
     "summary": "WaterKit 是一款面向 macOS、iPhone、iPad 与 Apple Watch 的饮水记录和补水提醒工具，通过直观进度、动态角色与成就挑战帮助用户建立稳定的喝水习惯。软件提供 45 种饮品类型，可记录水、茶、咖啡、果汁、牛奶、运动饮料和汤等摄入内容，并允许调整饮品顺序、自定义图标颜色、设置常用杯量及切换毫升、盎司和升等单位。系统会结合体重、性别与活动数据推荐每日目标，配合 80 种通知文案、5 类提醒语气、19 种声音及分时场景识别，在不同时间提供更自然的提示。用户可从日、周、月、年维度查看饮水与咖啡因统计，通过月度热力图、近七日洞察和百分制习惯评分了解长期表现。软件支持 Apple 健康数据读写、iCloud 实时同步、Siri 语音记录、实时活动、锁屏与桌面小组件，Mac 菜单栏水滴还会随当天摄入量动态变化。",
-    "summary_en": null,
-    "tagline_en": null
+    "summary_en": "WaterKit is a drinking water logging and rehydration reminder tool for macOS, iPhone, iPad, and Apple Watch that helps users establish stable drinking habits through intuitive progress, dynamic characters, and achievement challenges. The software offers 45 drink types to record water, tea, coffee, juice, milk, sports drinks, and soups, and allows you to adjust the order of drinks, customize icon colors, set your favorite cups, and switch between milliliters, ounces, and liters. The system will combine weight, gender, and activity data to recommend daily goals, with 80 notification texts, 5 types of reminder tones, 19 sounds, and time-sharing scenarios to provide more natural prompts at different times. Users can view drinking water and caffeine statistics from the daily, weekly, monthly, and yearly dimensions, and understand long-term performance through monthly heat maps, recent seven-day insights, and percentage habit scores. The software supports Apple health data reading and writing, iCloud real-time synchronization, Siri voice recording, real-time activities, lock screen and desktop widgets, and the Mac menu bar water droplets will also change dynamically with the intake of the day.",
+    "tagline_en": "Menu bar to view today's water in real time",
+    "title": "WaterKit 1.1.3"
   },
   "https://macked.app/eye-monitor-break-reminders-crack.html": {
-    "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "Eye Monitor – Break Reminders是一款需要与macOS应用搭配使用的iOS应用程序，已在Hacker News、Product Hunt和sspai.com等平台获得关注，并在13个国家的健康与健身类应用中排名第一。该应用能够在Mac的疲劳值达到预设阈值时，通过通知提醒用户，防止他们在离开电脑休息时沉迷于手机。其macOS版本是一个完全自动化的疲劳监测和提醒工具，旨在帮助用户休息、放松和减轻疲劳。Eye Monitor会自动分析用户的行为，例如鼠标、触控板、滚轮运动以及键盘输入，及时通知用户达到疲劳阈值。该应用可以用作休息提醒、水分补充提醒、伸展提醒、使用屏幕时间提醒、RSI提醒等，以帮助用户维护眼部健康和改善坐姿相关问题。 Eye Monitor是一款旨在帮助用户减少视觉疲劳和保持健康的应用程序，需配合macOS版本使用。",
     "summary_en": "Eye Monitor – Break Reminders, an iOS app that works with macOS apps, has gained traction on platforms like Hacker News, Product Hunt, and sspai.com, and ranks # 1 in health and fitness apps in 13 countries. The app alerts users when their Mac's fatigue reaches a preset threshold and prevents them from indulging in the phone while away from the computer. Its macOS version is a fully automated fatigue monitoring and alerting tool designed to help users rest, relax, and reduce fatigue. Eye Monitor automatically analyzes the user's behavior, such as mouse, trackpad, scroll wheel movement, and keyboard input, to notify the user that the fatigue threshold has been reached. The app can be used as a rest reminder, hydration reminder, stretch reminder, screen time reminder, RSI reminder, etc. to help users maintain eye health and improve sitting-related issues. Eye Monitor is an app designed to help users reduce visual fatigue and stay healthy, and works with macOS versions.",
     "tagline_en": "Smart break reminder tool",
-    "title": "Eye Monitor 13.1.20"
+    "title": "Eye Monitor 13.1.21",
+    "rev": 1
   },
   "https://macked.app/glimpsewords-mac-crack.html": {
     "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
@@ -1354,7 +1369,8 @@
     "pubDate": "Sat, 31 Oct 2026 15:15:51 +0000",
     "summary": "Ember: Journal & Life Archive 是一款把日记与人际记忆档案结合起来的私人记录工具，可在 iPhone、iPad 和 Mac 上使用。写下日常时，只需在文字中提及某个人，相关内容便会汇集到对方的个人页面，逐步呈现共同经历、相识时间与联系脉络；还可按家庭、工作或校园等圈子整理人物，并用故事记录跨越多年的生活篇章。动态回顾会在合适的日期重新呈现旧记忆，也会温和提醒你留意许久未联系的人。软件提供日历、地图与人物关系图，帮助从日期、地点和关系网络浏览人生片段，并支持搜索整个档案及照片中的文字。你可以加入照片、视频、语音备忘录、Apple Music 歌曲和天气，也能导入 Day One、Apple Journal 与通讯录资料。日记保存在设备上，可用 Face ID、Touch ID 或密码锁定，并通过个人 iCloud 私密同步；",
     "summary_en": "Ember: Journal & Life Archive is a private logging tool that combines diary and interpersonal memory archives for iPhone, iPad, and Mac. When writing down daily, just mention a person in the text, and the relevant content will be gathered on the other person's personal page, gradually presenting the common experience, the time of acquaintance and the context of contact; You can also organize people by circles, such as home, work or campus, and use stories to record chapters of life that span many years. Dynamic retrospectives reimagine old memories on the right dates and gently remind you to keep an eye out for people you haven't been in touch with for a long time. The software provides calendars, maps, and people maps to help you navigate through life's snippets from dates, places, and networks, as well as support for searching text throughout your archives and photos. You can add photos, videos, voice memos, Apple Music songs, and weather, and import Day One, Apple Journal, and contacts. The diary is saved on the device and can be locked with Face ID, Touch ID or password and synced privately via personal iCloud;",
-    "tagline_en": "Private life diary software"
+    "tagline_en": "Private life diary software",
+    "title": "Ember 1.6.6"
   },
   "https://macked.app/tap-autoclicker-crack.html": {
     "pubDate": "Sat, 31 Oct 2026 15:15:51 +0000",
@@ -1425,11 +1441,12 @@
     "tagline_en": "Flexible AI writing tools"
   },
   "https://macked.app/notchy-mac-crack.html": {
-    "pubDate": "Sat, 31 Oct 2026 15:15:51 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "Notchy 是一款原生 macOS 灵动岛与效率工具，将屏幕刘海区域变成可交互的控制中心，并能在没有刘海的 Mac 和外接显示器上以悬浮胶囊形式运行。软件整合音乐播放、同步歌词、剪贴板历史、文件暂存、番茄计时、窗口吸附和系统状态提示，让常用操作集中在屏幕顶部，减少切换窗口与查找菜单的次数。针对开发场景，它可追踪 Claude Code、Codex、Cursor、Copilot 等工具的用量、额度窗口与费用，显示智能体活动、权限请求和长时间命令的执行状态。人脸解锁通过摄像头、Apple Vision 本地识别与活体检测实现，面部特征和密码保存在 macOS 钥匙串中，属于便捷解锁功能，不等同于苹果 Face ID 的红外深度识别。Notchy 还提供应用独立音量、AirPods 电量、OCR 图片文字搜索、会议提词、日历提醒及快捷指令入口，支持自定义面板、手势和多项实时活动并列显示。",
     "summary_en": "Notchy is a native macOS agile island and efficiency tool that turns the bangs area of the screen into an interactive control center that can run as a suspended capsule on Macs and external monitors without bangs. The software integrates music playback, synchronized lyrics, clipboard history, file staging, pomodoro timing, window snapping, and system status prompts to focus common actions at the top of the screen, reducing the number of switching windows and lookup menus. For development scenarios, it can track the usage, quota window and expenses of Claude Code, Codex, Cursor, Copilot and other tools, and display the execution status of agent activities, permission requests and long-time commands. Face unlocking is achieved through camera, Apple Vision local recognition and live detection. Facial features and passwords are saved in the macOS keychain, which is a convenient unlocking function, not equivalent to the infrared depth recognition of Apple Face ID. Notchy also provides app-independent volume, AirPods battery, OCR image text search, meeting suggestions, calendar reminders, and shortcut entries to support custom panels, gestures, and multiple real-time events displayed side-by-side.",
     "tagline_en": "macOS bangs augmentation tool",
-    "title": "Notchy 2.0.3"
+    "title": "Notchy 2.0.5",
+    "rev": 1
   },
   "https://macked.app/heyclicky-mac-crack.html": {
     "pubDate": "Sat, 31 Oct 2026 15:15:51 +0000",
@@ -1504,12 +1521,12 @@
     "rev": 1
   },
   "https://macked.app/onlyswitch.html": {
-    "pubDate": "Tue, 03 Nov 2026 12:56:58 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "OnlySwitch是一款功能强大的macOS菜单栏应用程序，提供了一系列开关，旨在简化用户的日常工作流程，例如隐藏桌面图标、切换暗模式及隐藏新款MacBook Pro的挖槽。用户可以在状态栏中轻松控制这些功能，并且可以根据需要定制显示的开关和快捷方式。自版本1.7起，用户可以将自定义的快捷方式导入OnlySwitch，并从版本2.0开始支持键盘快捷键操作。应用程序还支持Apple小部件，用户可将相关开关和按钮放置在桌面或通知中心，方便快捷地访问。OnlySwitch支持在各种macOS浏览器中切换，能够保持用户的浏览历史，并允许用户根据自己的需求添加或移除功能。该软件提供30天的免费试用，可以通过Homebrew安装或手动下载。 OnlySwitch 是一款功能强大的菜单栏应用，意在简化用户日常工作流程，例如隐藏桌面图标、切换暗黑模式以及隐藏新款 MacBook Pro 的刘海。",
-    "title": "OnlySwitch release_3.4.0",
+    "title": "OnlySwitch release_3.5.0",
     "summary_en": "OnlySwitch is a powerful macOS menu bar application that provides a series of switches designed to simplify the user's daily workflow, such as hiding desktop icons, switching dark mode, and hiding the grooves of the new MacBook Pro. The user can easily control these functions in the status bar, and the displayed switches and shortcuts can be customized as needed. Since version 1. As of 7, users can import custom shortcuts into OnlySwitch and support keyboard shortcuts from version 2.0. The app also supports Apple widgets, which allow users to place relevant switches and buttons on their desktops or notification centers for quick and easy access. OnlySwitch supports switching between various macOS browsers, keeping users' browsing history and allowing users to add or remove features based on their needs. The software comes with a 30-day free trial and can be installed via Homebrew or downloaded manually. OnlySwitch is a powerful menu bar app designed to streamline users' daily workflows, such as hiding desktop icons, switching between dark modes, and hiding the bangs of the new MacBook Pro.",
     "tagline_en": "Menu Bar System Switches Collection",
-    "rev": 1
+    "rev": 2
   },
   "https://macked.app/github-stars-manager-mac.html": {
     "pubDate": "Sun, 01 Nov 2026 14:56:46 +0000",
@@ -1732,11 +1749,12 @@
     "summary_en": "MoveMatic is a native dynamic design tool for macOS, built for product demos, App Store preview videos, social media marketing clips, and presentation animations. It supports setting the canvas to the Apple preview size, adds dynamic elements such as animated cursors, click hotspots, lens scaling, callout arrows, particle effects, pulses, and pathfollowing to the app interface, and can export MP4 videos. The software uses the visibility time span as the core unit of layer animation, and each layer can set independent entry and exit effects, which is convenient for quickly arranging the rhythm of the appearance and disappearance of elements. Timeline supports ripple editing, which automatically adjusts when you move a keyframe, span edge, sublayer, or video clip. MoveMatic also offers programmatic behavior without frame-by-frame settings, scene sequences, scene transitions, global audio, lens zoom layers, auto-drawing arrows, arbitrary layer particles, and batch mix-and-arrange features, as well as clip sheets with film thumbnails and precise entry and exit controls for fast production of crisp, sophisticated, and product-expressive Mac video content."
   },
   "https://macked.app/edgebar-mac-crack.html": {
-    "pubDate": "Tue, 03 Nov 2026 12:56:58 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "EdgeBar 是一款适用于 macOS 的菜单栏工具，可将 MacBook 触控板边缘变成音量、屏幕亮度和媒体播放控制区。默认沿右侧边缘滑动调节音量，沿左侧边缘滑动调节亮度，并显示与键盘调节时一致的系统提示；左右功能可以按习惯互换。双击右上角可快速静音，底部媒体条支持滑动切歌及双击播放或暂停，还能反转切歌手势方向。滑动时提供轻微触觉反馈，支持按住 Shift 与 Option 进行四分之一步幅调节，也可启用无需按键的精细滑动。软件允许调整边缘宽度，将滑动起始区域限制在边缘下方四分之三、二分之一或四分之一处，并配置修饰键要求与光标冻结，减少日常操作中的误触。菜单栏面板实时展示亮度与音量，提供触觉强度、浅色与深色外观、登录启动和自动更新设置，并可选支持 Magic Mouse 顶部边缘滑动。",
-    "title": "EdgeBar 1.9",
+    "title": "EdgeBar 1.12.1",
     "summary_en": "EdgeBar is a menu bar tool for macOS that turns the edges of your MacBook trackpad into volume, screen brightness, and media playback controls. By default, the volume is adjusted by swiping along the right edge, the brightness is adjusted by swiping along the left edge, and the system prompts that are consistent with the keyboard adjustment are displayed; the left and right functions can be swapped as usual. Double-click the top right corner to quickly mute, the bottom media bar supports swiping to cut songs and double-click to play or pause, and you can reverse the direction of the cut song gesture. Provides slight tactile feedback when swiping, supports quarter step adjustment while holding down Shift and Option, and enables fine swiping without the need for a key. The software allows you to adjust the width of the edge, limit the sliding start area to three-quarters, one-half, or one-quarter below the edge, and configure the modifier key requirements to freeze with the cursor to reduce false touches in daily operations. The menu bar panel displays brightness and volume in real time, provides tactile intensity, light and dark appearance, login activation and automatic update settings, and optionally supports Magic Mouse top edge sliding.",
-    "tagline_en": "macOS Trackpad Edge Controls Brightness Volume"
+    "tagline_en": "macOS Trackpad Edge Controls Brightness Volume",
+    "rev": 1
   },
   "https://macked.app/isle-mac-crack.html": {
     "pubDate": "Tue, 03 Nov 2026 12:56:58 +0000",
@@ -1837,11 +1855,12 @@
     "tagline_en": "Homebrew GUI Manager"
   },
   "https://macked.app/spacejump-mac-crack.html": {
-    "pubDate": "Tue, 03 Nov 2026 12:56:58 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "SpaceJump 是一款专为 macOS Spaces 桌面空间打造的效率工具，用来解决系统长期只能显示“Desktop 1、Desktop 2、Desktop 3”而难以辨认工作区的问题。它允许用户为每个 Space 设置名称、图标与颜色，并把这些自定义名称显示在菜单栏、Mission Control 和快速切换器中，让工作、写作、音乐、代码、设计、研究等场景可以清晰分区。用户可通过快捷键唤出 Quick Switcher，输入关键词筛选后快速跳转到目标空间，也能一键返回上一个位置。软件还支持拖拽窗口到不同 Space、为空间添加笔记和清单、设置独立热键、配置点击自动化操作，并提供按空间和应用统计的会话时间追踪、空闲检测与 CSV 导出。它采用原生 Swift 开发，体积轻量，适合多显示器用户、开发者、设计师、自由职业者、学生和远程工作者管理复杂桌面工作流。",
-    "title": "SpaceJump 3.0.2",
+    "title": "SpaceJump 3.0.3",
     "summary_en": "SpaceJump is a productivity tool created for the macOS Spaces desktop space to solve the problem that the system can only display \"Desktop 1, Desktop 2, Desktop 3\" for a long time and it is difficult to identify the workspace. It allows users to set names, icons, and colors for each Space, and display these custom names in the menu bar, Mission Control, and Quick Switcher, so that work, writing, music, code, design, research, and other scenarios can be clearly partitioned. Users can call up Quick Switcher through shortcuts, enter keywords to quickly jump to the target space after filtering, or return to the previous position with one click. The software also supports dragging windows to different spaces, adding notes and lists to spaces, setting independent hotkeys, configuring click automation, and providing session time tracking, idle detection, and CSV export by space and application statistics. Developed in native Swift, it is lightweight and suitable for multi-monitor users, developers, designers, freelancers, students, and remote workers managing complex desktop workflows.",
-    "tagline_en": "macOS Multi-Desk Space Manager"
+    "tagline_en": "macOS Multi-Desk Space Manager",
+    "rev": 1
   },
   "https://macked.app/readkit-reading-hub-rss-mac-crack.html": {
     "pubDate": "Tue, 03 Nov 2026 12:56:58 +0000",
@@ -2060,11 +2079,12 @@
     "tagline_en": "macOS Open Source Native Voice Input Tool"
   },
   "https://macked.app/swiftserver-crack.html": {
-    "pubDate": "Thu, 05 Nov 2026 14:59:29 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "SwiftServer是一款强大的iOS和macOS应用，旨在帮助系统管理员、开发者和IT专业人士随时随地监控和管理服务器。它提供实时的CPU、内存、存储、网络和Docker性能监控，所有数据都可以通过直观的仪表板轻松访问。用户可以轻松添加和组织服务器，使用SFTP进行文件管理，实现上传、下载和编辑，同时通过iCloud在设备间安全同步。SwiftServer的主要功能包括实时监控、全面的资源管理、代码片段执行、定制化终端以及跨设备同步等。用户反馈显示，该应用在服务器管理和资源监控方面表现卓越，尤其适合需要远程访问和实时数据的专业人士。 SwiftServer 是一款强大的服务器监控和管理工具，专为系统管理员、开发者和IT专业人士设计。它提供实时的服务器性能监控、文件管理以及全功能终端，确保用户随时随地掌控自己的服务器。",
-    "title": "SwiftServer 2.2.2",
+    "title": "SwiftServer 2.2.3",
     "summary_en": "SwiftServer is a powerful iOS and macOS app designed to help system administrators, developers, and IT professionals monitor and manage servers anytime, anywhere. It provides real-time CPU, memory, storage, networking, and Docker performance monitoring, all easily accessible through an intuitive dashboard. Users can easily add and organize servers, use SFTP for file management, upload, download, and edit, and securely sync across devices via iCloud. The main functions of SwiftServer include real-time monitoring, comprehensive resource management, code fragment execution, customized terminals, and cross-device synchronization. User feedback shows that the app excels in server management and resource monitoring, especially for professionals who need remote access and real-time data. SwiftServer is a powerful server monitoring and management tool designed for system administrators, developers, and IT professionals. It provides real-time server performance monitoring, file management, and a full-featured terminal, ensuring users have control over their servers anytime, anywhere.",
-    "tagline_en": "Server/Docker Monitoring Management Tool"
+    "tagline_en": "Server/Docker Monitoring Management Tool",
+    "rev": 1
   },
   "https://macked.app/pebble-minimal-menu-bar-timer-mac-crack.html": {
     "pubDate": "Thu, 05 Nov 2026 14:59:29 +0000",
@@ -2088,11 +2108,12 @@
     "tagline_en": "Professional PDF annotation and transfer tool for Mac"
   },
   "https://macked.app/reflow-audio-mac-crack.html": {
-    "pubDate": "Thu, 05 Nov 2026 14:59:29 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "Reflow是一款专为吉他、贝斯、鼓、钢琴等多种乐器设计的强大制谱与指法谱编辑器，已被全球数千音乐人连续十余年信赖，它提供直观的视觉键盘输入界面支持弦乐器（如吉他、贝斯、班卓、尤克里里）的指法谱编辑（含和弦图、弯音、刷弦等效果）、标准五线谱记谱（包括大谱表、跨谱连线等高级功能）、专业鼓谱（支持颤音、flam、drag等技巧），内置高质量Apple原生渲染引擎与合成器实现即时回放、独轨/静音、循环段、变速练习、实时编辑，核心功能完全免费无水印限制，订阅高级版可永久解锁无水印PDF导出、128种GM音色、多轨乐谱显示、节拍器、播放速度控制、MIDI键盘输入等特性，所有数据本地存储并支持iCloud同步、无需联网、无追踪无账号，兼容Guitar Pro文件读写、MusicXML导入、PDF导出打印与跨平台分享（iPhone、iPad、Mac均可用），由独立开发者自2011年起精心打造，致力于为音…",
-    "title": "Reflow 26.7",
+    "title": "Reflow 26.7.1",
     "summary_en": "Reflow is a powerful score and fingerprint editor designed for guitar, bass, drum, piano and many other musical instruments. It has been trusted by thousands of musicians around the world for more than ten consecutive years. It provides an intuitive visual keyboard input interface to support the fingerprint editing of string instruments (such as guitar, bass, banjo, ukulele) (including chord diagrams, bends, brushstrings and other effects), standard pentagram notation (including large spectral tables, cross-spectral wiring and other advanced functions). ), professional drum chromatography (supports tremolo, flam, drag, etc.), built-in high-quality Apple native rendering engine and synthesizer for instant playback, monorail/mute, loop segment, shifting exercise, real-time editing, core functions are completely free and watermark-free, subscribe to the premium version to permanently unlock watermark-free PDF export, 128 GM tones, multi-track music score display, metronome, playback speed control, MIDI keyboard input, etc., all data Local storage and support iCloud synchronization, no networking, no tracking, no account, compatible with Guitar Pro file reading and writing, MusicXML import, PDF export printing and cross-platform sharing (iPhone, iPad, Mac are available), carefully built by independent developers since 2011, dedicated to sound...",
-    "tagline_en": "Multi Instrument Sheet Music Editor"
+    "tagline_en": "Multi Instrument Sheet Music Editor",
+    "rev": 1
   },
   "https://macked.app/launchpalette-crack.html": {
     "pubDate": "Thu, 05 Nov 2026 14:59:29 +0000",
@@ -2186,11 +2207,12 @@
     "tagline_en": "Android Tablet to Mac Sidescreen"
   },
   "https://macked.app/miaoyan.html": {
-    "pubDate": "Fri, 06 Nov 2026 09:58:03 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "MiaoYan是一款轻量级的Markdown笔记本应用，旨在帮助用户轻松写出优美的句子。它具备纯本地使用的特点，确保安全性，同时支持语法高亮、黑暗模式和文档自动排版等功能。用户可以享受简约的三列设计，包括文件夹、文件列表和编辑器，提供良好的视觉体验。MiaoYan使用Swift5进行原生开发，性能优于传统的Web应用，且提供了众多快捷键以提升编辑效率。其他功能包括文档导出、内部跳转、图床支持以及对LaTeX、Mermaid、PlantUML和Markmap脑图的支持，使其成为一个多功能的写作工具。",
-    "title": "MiaoYan 4.7.1",
+    "title": "MiaoYan 4.8.0",
     "summary_en": "MiaoYan is a lightweight Markdown laptop app designed to help users easily write beautiful sentences. It features purely local use for security while supporting features such as syntax highlighting, dark mode, and automatic document layout. Users can enjoy a minimalistic three-column design that includes folders, file lists, and an editor for a great visual experience. MiaoYan uses Swift5 for native development, outperforms traditional web applications, and provides a number of shortcuts to improve editing efficiency. Other features include document export, internal jumps, graph bed support, and support for LaTeX, Mermaid, PlantUML, and Markmap brainstorming, making it a versatile writing tool.",
-    "tagline_en": "macOS Native Markdown Editor"
+    "tagline_en": "macOS Native Markdown Editor",
+    "rev": 1
   },
   "https://macked.app/iina.html": {
     "pubDate": "Fri, 06 Nov 2026 09:58:03 +0000",
@@ -2235,11 +2257,12 @@
     "tagline_en": "Powerful web video downloader"
   },
   "https://macked.app/nookx-crack.html": {
-    "pubDate": "Fri, 06 Nov 2026 09:58:03 +0000",
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
     "summary": "Nook X是一款专为macOS设计的高效交互工具，它能够模拟刘海屏，提供多种个性化功能，如日期、时间、天气温度显示、快捷启动和代办事项小组件。通过Nook X，用户可以将刘海区域打造成信息中心，极大地提升屏幕空间的利用率。该工具提供丰富的自定义选项，使用户能够根据个人需求调整显示内容和样式，从而在增强工作效率的同时与桌面风格完美融合。 个性化信息展示 ：Nook X 可以显示日期、时间、天气温度等信息，用户可以根据自己的需求自定义展示内容，创建一个符合个人风格的信息中心。 快捷启动 ：用户可以通过 Nook X 快速启动常用应用程序，方便高效地进行工作。 代办事项小组件 ：集成代办事项功能，帮助用户管理日常任务，提升工作效率。 临时笔记功能 ：允许用户快速记录临时笔记，方便随时捕捉灵感或重要信息。",
-    "title": "NookX 2026.11.03",
+    "title": "NookX 2026.11.07",
     "summary_en": "Designed for macOS, Nook X is an efficient interactive tool that emulates Liu Haiping and offers a variety of personalized features such as date, time, weather temperature display, quick launch, and to-do widgets. With Nook X, users can turn the Liuhai area into an information center, greatly improving the utilization of screen space. The tool offers a wealth of customization options that allow users to tailor the display and style to their individual needs, enhancing productivity while blending seamlessly with desktop style. Personalized display: Nook X can display information such as date, time, weather temperature, etc. Users can customize the display content according to their needs and create a personalized dashboard. Quick launch: Users can quickly launch common applications through Nook X for convenient and efficient work. To-do widget: integrate to-do function to help users manage daily tasks and improve work efficiency. Temporary Notes feature: allows users to quickly take temporary notes, making it easy to capture inspiration or important information at any time.",
-    "tagline_en": "Smart Island Dynamic Interactive Tool"
+    "tagline_en": "Smart Island Dynamic Interactive Tool",
+    "rev": 1
   },
   "https://macked.app/picmal-media-convert-compress-mac-crack.html": {
     "pubDate": "Fri, 06 Nov 2026 09:58:03 +0000",
@@ -2275,5 +2298,47 @@
     "title": "Lathe 1.4.0",
     "summary_en": "Lathe is a localized photo and video management tool for macOS that also supports audio and PDF file browsing for photographers, designers, content creators, and regular users who need to organize a large amount of media. No need to upload to the cloud, no need to register an account, open the specified folder to browse through the content with quick thumbnails, and use file name and metadata search, favorite folders, custom folder icons, tags, ratings, and color filtering to establish a clear material management process. It supports side-by-side comparison of images, automatically recognizes approximate bursts and recommends clearer retained versions, and quickly finds fully duplicated or visually similar images; histograms and highlight shadow crop tips help users spot exposure issues. Batch processing features override image optimization transformations, device-side enlargement, background removal or blurring, watermarking, clearing metadata, batch renaming, and PDF and video compression, video rotation rollover, fragment merging, reformatting, and cropping. Users can also create shareable storyboards and mood boards from the media for proposal, planning, or presentation.",
     "tagline_en": "macOS video assets photo management software"
+  },
+  "https://macked.app/extendfs-linux-ext-mac.html": {
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
+    "summary": "ExtendFS是一款面向macOS的只读Linux文件系统驱动，使用Swift编写，并基于Apple的FSKit实现对ext2、ext3和ext4文件系统的支持。安装并运行ExtendFS应用后，用户只需在系统设置中启用文件系统扩展，即可在连接采用Linux文件系统格式的外置硬盘、U盘或其他存储设备时自动挂载对应卷，也可以直接打开包含相关文件系统的磁盘映像，无需使用命令行工具或手动执行挂载操作。软件采用文件系统扩展架构，不需要安装传统内核扩展，也不必修改系统安全设置，能够更好地适配新版macOS的系统安全机制。ExtendFS同时兼容系统熟悉的mount命令，方便有终端操作需求的用户进行手动挂载和管理。该软件要求macOS 15.6或更高版本，适合需要在Mac上读取Linux磁盘、访问ext4存储内容、查看磁盘映像或进行跨平台文件传输的用户。",
+    "title": "ExtendFS 1.2.2",
+    "summary_en": "ExtendFS is a read-only Linux file system driver for macOS, written in Swift, and based on Apple's FSKit for ext2, ext3, and ext4 file system support. After installing and running the ExtendFS application, the user only needs to enable the file system extension in the system settings to automatically mount the corresponding volume when connecting to an external hard disk, USB flash drive or other storage device in the Linux file system format, or directly open the disk image containing the relevant file system without using command-line tools or manually performing the mount operation. The software adopts a file system extension architecture, does not require the installation of traditional kernel extensions, and does not have to modify system security settings, and can better adapt to the system security mechanism of the new version of macOS. ExtendFS is also compatible with the familiar mount command of the system, which is convenient for users with terminal operation needs to mount and manage manually. The software requires macOS 15. 6 or later for users who need to read Linux disks, access ext4 storage content, view disk images, or perform cross-platform file transfers on a Mac.",
+    "tagline_en": "Mac Read Linux Disk"
+  },
+  "https://macked.app/fluxmarkdown-quicklook-mac.html": {
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
+    "summary": "FluxMarkdown 是一款面向 macOS 的 Markdown 快速预览工具，专为 Finder 的 QuickLook 场景设计，按下空格即可即时查看文档内容，不必先打开编辑器。它不仅能渲染常见 Markdown，还支持 Mermaid 图表、KaTeX 数学公式、GitHub Flavored Markdown、目录面板、代码高亮与多种图表语法，适合程序员、技术写作者和文档整理者在文件浏览时快速确认排版与内容结构。软件还提供 PDF 和 HTML 导出、缩放与平移、滚动位置记忆、亮色暗色及系统主题切换，并可通过设置窗口调整渲染与编辑体验，对多种 Markdown 相关扩展名兼容度也很高。",
+    "title": "FluxMarkdown 1.45.774",
+    "summary_en": "FluxMarkdown is a Markdown quick preview tool for macOS, designed for Finder's QuickLook scene, which allows you to view the content of a document instantly by pressing a space, without having to open the editor first. It can not only render common Markdown, but also supports Mermaid charts, KaTeX mathematical formulas, GitHub Flavored Markdown, directory panels, code highlighting, and a variety of chart syntaxes. It is suitable for programmers, technical writers, and document organizers to quickly confirm the layout and content structure when browsing files. The software also provides PDF and HTML export, scaling and panning, scrolling position memory, light and dark color, and system theme switching, and can adjust the rendering and editing experience through the settings window, and has high compatibility with a variety of Markdown-related extensions.",
+    "tagline_en": "Markdown Quick Preview QuickLook Extension"
+  },
+  "https://macked.app/mindspace-mind-map-crack.html": {
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
+    "summary": "MindSpace是一款旨在快速创建简洁思维导图的应用，用户可以在Mac、iPad和iPhone上编辑导图，并随时导出图片或PDF以便在学习和工作中分享。该软件允许用户快速调整信息结构，通过不同颜色和格式区分思想，插入贴纸使信息更生动，并提供丰富的主题风格，以帮助用户建立知识的堡垒。MindSpace还支持快速捕捉灵感，把即时的创意转化为知识的一部分，呈现出极简的外观，使信息成为核心，减少干扰。同时，MindSpace确保数据安全，用户的数据完全拥有。用户可以轻松分享直观的思维导图来提升团队效率。该应用采用订阅模型，用户可选择月度或年度订阅，并需在订阅结束前24小时取消自动续订，当前订阅费不予退还，所有服务条款和注意事项请仔细阅读。",
+    "title": "MindSpace 1.10.29",
+    "summary_en": "MindSpace is an app designed to quickly create concise mind maps that users can edit on their Mac, iPad, and iPhone and export images or PDFs at any time to share while learning and working. The software allows users to quickly adjust the information structure, distinguish ideas by different colors and formats, insert stickers to make the information more vivid, and provide a rich theme style to help users build a fortress of knowledge. MindSpace also enables the quick capture of inspiration, turning instant ideas into a piece of knowledge with a minimalistic look that puts information at the heart and reduces distractions. At the same time, MindSpace ensures data security and full ownership of the user's data. Users can easily share intuitive mind maps to improve team efficiency. The app adopts a subscription model, users can choose monthly or annual subscriptions, and need to cancel the auto-renewal 24 hours before the end of the subscription, the current subscription fee is not refundable, all terms of service and precautions please read carefully.",
+    "tagline_en": "Lightweight, concise mind mapping tool"
+  },
+  "https://macked.app/pastepaw-clipboard-history-mac-crack.html": {
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
+    "summary": "PastePaw是一款面向macOS的隐私优先剪贴板历史管理工具，能够自动保存复制过的文本、图片、文件和文件夹，并记录来源应用，借助智能去重、历史数量限制和定期清理功能保持内容整洁。软件提供横向卡片与贴靠屏幕边缘的纵向栏两种布局，内置29款主题，可固定或拖动窗口以适应不同工作方式。按下空格即可预览剪贴板内容，Markdown和代码支持完整GitHub风格渲染及语法高亮，图片可进行OCR、实时文本识别、二维码和条形码扫描以及主体抠取，文本还支持格式化、编码转换、哈希生成和二维码生成。用户可以使用集合、智能集合和支持Touch ID的加密集合整理内容，并通过全文搜索、拖放、多选和批量粘贴快速取用。全局快捷键、自动粘贴和键盘导航让它能从任意应用快速调用。",
+    "title": "PastePaw 2.8.0",
+    "summary_en": "PastePaw is a privacy-first clipboard history management tool for macOS that automatically saves copied text, images, files, and folders, and records source apps to keep things neat with smart deduplication, history limits, and regular cleanup. The software offers two layouts, horizontal cards and vertical bars attached to the edges of the screen, with 29 built-in themes that can be fixed or dragged to fit different ways of working. Press the space to preview the clipboard content. Markdown and code support full GitHub style rendering and syntax highlighting. Images can be OCR, real-time text recognition, QR and barcode scanning, and subject extraction. Text also supports formatting, encoding conversion, hash generation, and QR code generation. Users can organize content with collections, smart collections, and encrypted collections that support Touch ID, and access it quickly with full-text search, drag-and-drop, multi-select, and bulk paste. Global shortcuts, auto-paste, and keyboard navigation make it quick to call from any app.",
+    "tagline_en": "Mac Clipboard Enhancer"
+  },
+  "https://macked.app/taphouse-homebrew-crack.html": {
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
+    "summary": "Taphouse是一款Mac平台的Homebrew图形用户界面工具，旨在以可视化的方式管理Homebrew包，让用户无需通过终端即可轻松操作。它提供了丰富的功能，包括一键安装和卸载程序、自动检测更新、服务管理、安全检测等，能帮助用户高效维护和管理软件包。Taphouse支持多种功能，比如将外部应用程序导入Homebrew、实时监控磁盘使用情况、背景自动更新和菜单栏快速访问等，让用户能够直观地浏览和管理其安装的程序。Taphouse采用了简单透明的定价模型，提供免费和专业版两种选择，用户可以根据需求购买许可证。通过Taphouse，用户能够享受简便的包管理体验，而不再依赖命令行，适合各种程度的用户使用。 Taphouse 是一款功能强大的 macOS 应用程序，专为 Homebrew 用户设计，提供图形化的包管理界面，极大地方便了用户在不使用终端的情况下管理 Homebrew 软件包。",
+    "title": "Taphouse 1.5.9.2",
+    "summary_en": "Taphouse is a Homebrew graphical user interface tool for Mac designed to manage Homebrew packages in a visual way, making it easy for users to operate without having to go through a terminal. It provides a wealth of features, including one-click installation and uninstallation programs, automatic detection of updates, service management, security detection, etc., to help users efficiently maintain and manage software packages. Taphouse supports a variety of features, such as importing external applications into Homebrew, monitoring disk usage in real time, automatic background updates, and quick access to the menu bar, allowing users to visually browse and manage their installed programs. Taphouse has a simple and transparent pricing model that offers both free and professional versions, allowing users to purchase licenses on demand. With Taphouse, users can enjoy a simple package management experience without relying on the command line, suitable for all levels of users. Taphouse is a powerful macOS app designed for Homebrew users with a graphical package management interface that makes it easy to manage Homebrew packages without using a terminal.",
+    "tagline_en": "Graphical Homebrew package management tool"
+  },
+  "https://macked.app/keylume-mac-crack.html": {
+    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
+    "summary": "Keylume是一款专为macOS设计的时尚屏幕键盘工具，适用于屏幕录制和现场演示场景。Keylume完整呈现Apple键盘的全貌，包括媒体键、箭头键以及所有修饰键，完美匹配真实Apple键盘的外观和布局，许多其他按键可视化工具仅显示修饰键组合或省略功能键，而Keylume则展示整个键盘。Keylume内置多种精美主题，并配备直观的主题编辑器，用户可以轻松创建个性化风格，还能保存主题、与他人分享或导入他人制作的主题。Keylume在屏幕录制开始时会自动弹出，并在录制停止后自动隐藏，检测响应仅需一秒，也支持通过三次轻敲fn键手动切换显示。Keylume支持悬停并轻敲fn启用自动隐藏模式，让键盘淡出并允许点击穿透，还能自由拖拽 reposition 和调整大小，位置信息会被自动记忆。用户可以设置应用忽略列表，避免备份工具或画中画实用程序等后台静默录制应用反复触发键盘显示。",
+    "title": "Keylume 2.3.6",
+    "summary_en": "Keylume is a stylish on-screen keyboard tool designed for macOS for screen recording and live demo scenes. Keylume provides a complete view of the Apple keyboard, including media keys, arrow keys, and all modifier keys, perfectly matching the look and layout of a real Apple keyboard, many other key visualization tools only show modifier key combinations or omit function keys, while Keylume shows the entire keyboard. Keylume has a variety of beautiful themes built in and an intuitive theme editor that makes it easy for users to create personalized styles, save themes, share them with others, or import themes made by others. Keylume automatically pops up at the start of screen recording and automatically hides after the recording stops, detecting the response in just one second, and also supports manually switching the display by tapping the fn key three times. Keylume supports hovering and tapping fn to enable auto-hiding mode, let the keyboard fade out and allow click penetration, and can freely drag and drag reposition and resize, position information will be automatically remembered. Users can set up app ignore lists to avoid repeated triggering of keyboard displays by background silent recording apps such as backup tools or picture-in-picture utilities.",
+    "tagline_en": "macOS Demo Keyboard Tool"
   }
 }
