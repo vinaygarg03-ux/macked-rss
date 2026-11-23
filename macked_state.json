@@ -36,12 +36,12 @@
     "rev": 3
   },
   "https://macked.app/switch-window-switcher-mac.html": {
-    "pubDate": "Thu, 19 Nov 2026 11:10:17 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "Switch 是一款专为 macOS 设计的先进窗口切换工具，它革新了传统的 ⌘-Tab 操作模式，从应用级切换转变为直接在窗口级别进行高效循环切换。用户可以通过 ⌘-Tab 向前切换窗口，使用 ⇧⌘Tab 向后切换，还能在应用内部通过 ⌥-` 快捷键快速操作，支持跨多个 Space 桌面进行窗口切换。界面呈现垂直列表布局，便于浏览所有打开窗口，并支持实时输入文字进行过滤查找。Switch 引入 Sticky 模式，可以在当前窗口上打开选择器实现预览而不立即提交切换，同时提供可选的停止灯按钮、⌘W 关闭选中窗口、⌘Q 退出应用、⌘H 隐藏应用等丰富快捷操作，并集成原生 macOS 设置面板进行个性化配置。软件完全免费开源，经过公证，支持 macOS 14 及更高版本，适合追求高效多任务处理的用户显著提升窗口管理和生产力。",
     "summary_en": "Switch is a window switcher for macOS that changes the usual ⌘-Tab behavior from app-level to window-level cycling. Use ⌘-Tab to go forward, ⇧⌘Tab to go back, and ⌥-` to cycle windows within an app, including across multiple Spaces. Windows appear in a vertical list you can filter by typing. A Sticky mode lets you preview a window without committing to the switch, and shortcuts let you close a window (⌘W), quit an app (⌘Q) or hide it (⌘H). It is free, open source, notarized, and requires macOS 14 or later.",
     "tagline_en": "Window-level ⌘Tab switcher for macOS",
-    "title": "Switch 0.3.24",
-    "rev": 2
+    "title": "Switch 1.0.0",
+    "rev": 3
   },
   "https://macked.app/itsycal.html": {
     "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
@@ -137,12 +137,12 @@
     "title": "Vinyls 3.3"
   },
   "https://macked.app/bytemail-mac-crack.html": {
-    "pubDate": "Sun, 22 Nov 2026 15:42:32 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "bytemail是一款面向Mac的原生邮件客户端，使用SwiftUI与AppKit构建，不捆绑浏览器内核，支持Gmail、iCloud、Outlook、Microsoft 365、Yahoo、Fastmail及其他IMAP邮箱，将多个账户整合到一个快速统一收件箱中。软件提供对话式与经典邮件视图、跨账户即时搜索、附件搜索、智能标签、未读筛选、规则自动归档、稍后处理、定时发送、撤回发送、邮件提醒和多账户签名等功能。它直接连接邮箱服务商，凭据保存在macOS钥匙串，邮件、联系人和使用数据不会经过bytemail服务器。跟踪像素与链接追踪参数会被清理，外部图片可按需加载，并能识别仿冒域名、品牌冒充和可疑链接。软件还支持本地摘要、智能回复与Rewrite，并通过MCP连接Claude、Codex、Cursor等AI应用，在用户确认后处理指定账户内容。",
     "summary_en": "bytemail is a native Mac email client built with SwiftUI and AppKit, with no bundled browser engine. It supports Gmail, iCloud, Outlook, Microsoft 365, Yahoo, Fastmail and other IMAP accounts in one fast unified inbox. Features include conversation and classic views, instant cross-account and attachment search, smart labels, rule-based archiving, snooze, scheduled send, undo send, reminders and per-account signatures. It connects directly to your mail provider, keeps credentials in the macOS Keychain, and sends no mail, contacts or usage data through bytemail servers. Tracking pixels and tracking link parameters are stripped, and it flags spoofed domains and suspicious links. It also offers local summaries, smart replies and Rewrite, and connects to AI apps such as Claude, Codex and Cursor through MCP.",
     "tagline_en": "AI-enhanced native Mac email client",
-    "title": "ByteMail 1.9.55",
-    "rev": 8
+    "title": "ByteMail 1.9.56",
+    "rev": 9
   },
   "https://macked.app/macrest-mac-crack.html": {
     "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
@@ -175,11 +175,12 @@
     "rev": 1
   },
   "https://macked.app/dockduck-mac-crack.html": {
-    "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "DockDuck是一款专为macOS打造的原生文件管理器，采用Swift完整开发，兼容Apple Silicon与Intel Mac，支持macOS 15 Sequoia及更高版本。它以快速启动、低资源占用和流畅浏览为核心体验，将标签页、固定文件、标签、即时搜索、智能文件夹、面板浏览和工作区整合到统一窗口中，帮助用户更高效地处理日常文件。双栏与多栏视图适合并排浏览、移动和比较文件，文件夹对比功能可以识别相同、已修改或仅存在于一侧的内容。DockDuck还提供批量重命名、文件暂存架、压缩与解压、图片转换、PDF合并、文件夹同步、SFTP服务器连接、SMB、WebDAV与FTP支持，并可通过SSH密钥安全访问远程文件。软件支持网格、列表、分栏和画廊视图，配备实时预览、属性信息、权限与元数据查看、路径历史、快捷操作、终端和编辑器调用，以及可重新映射的键盘快捷键。",
     "summary_en": "DockDuck is a native macOS file manager written entirely in Swift, compatible with Apple Silicon and Intel Macs and requiring macOS 15 Sequoia or later. It focuses on fast launch, low resource use and smooth browsing, combining tabs, pinned files, tags, instant search, smart folders, panes and workspaces in one window. Dual-pane and multi-column views suit side-by-side browsing, moving and comparing, and folder comparison shows identical, modified or one-sided items. It also offers batch renaming, a file shelf, compression and extraction, image conversion, PDF merging, folder sync, SFTP, SMB, WebDAV and FTP support, and SSH key access to remote files, plus grid, list, column and gallery views, live preview, remappable shortcuts, and terminal and editor integration.",
     "tagline_en": "Dual-pane file manager for macOS",
-    "title": "DockDuck 1.1.11.1"
+    "title": "DockDuck 1.1.12",
+    "rev": 1
   },
   "https://macked.app/gloss-mac-crack.html": {
     "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
@@ -544,11 +545,12 @@
     "title": "Barista 1.1.6"
   },
   "https://macked.app/stepgrab-step-by-step-guides-mac-crack.html": {
-    "pubDate": "Tue, 20 Oct 2026 14:08:19 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "StepGrab 是一款驻留在 macOS 菜单栏的操作流程记录与分步教程生成工具，可在用户点击完成工作流程时自动识别交互，并为每次点击截取画面、编号步骤、生成连贯且精确的操作说明，省去逐张截图和手工编写文档的重复工作。它能够正确捕捉菜单、下拉列表、弹窗、系统选择器、双击、键盘快捷键与滚动提示，并以接近原生 Mac 窗口的圆角和阴影样式整理画面。应用支持将结果导出为循环播放的 GIF、动态 PDF 或高清 MP4，还可调整配色、编号样式、布局、PDF 质量、浅色或深色外观并加入品牌标志。设备端 AI 可辅助撰写更自然的步骤文本，文字识别与元素定位也能提高菜单及弹窗描述的准确性。整个屏幕处理过程均在 Mac 本地完成，无需将录制内容上传云端，也无需账户即可开始使用；",
     "summary_en": "StepGrab is a workflow recording and step-by-step tutorial generation tool that resides in the macOS menu bar. It automatically recognizes interactions as users click through workflows, captures screenshots for each click, numbers the steps, and generates coherent and accurate operating instructions, eliminating the repetitive work of taking screenshots one by one and manually writing documentation. It accurately captures menus, drop-down lists, pop-up windows, system selectors, double-clicks, keyboard shortcuts, and scroll indicators, and arranges the visuals with rounded corners and shadows that closely resemble native Mac windows. The app supports exporting the results as a looping GIF, an animated PDF, or an HD MP4. You can also adjust the color scheme, numbering style, layout, PDF quality, light or dark appearance, and add a brand logo. On-device AI can help generate more natural step-by-step instructions, while text recognition and element localization can improve the accuracy of menu and pop-up descriptions. The entire screen processing procedure is completed locally on the Mac. There is no need to upload the recorded content to the cloud, and you can start using it without an account.",
     "tagline_en": "Creating Step-by-Step Tutorials for macOS",
-    "title": "StepGrab 1.7.0"
+    "title": "StepGrab 1.7.1",
+    "rev": 1
   },
   "https://macked.app/filebo-menu-bar-recent-files-mac-crack.html": {
     "pubDate": "Wed, 18 Nov 2026 04:44:28 +0000",
@@ -595,12 +597,12 @@
     "rev": 4
   },
   "https://macked.app/cooldock-mac-crack.html": {
-    "pubDate": "Sun, 22 Nov 2026 15:42:32 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "CoolDock 是一款面向 macOS Sonoma 及更高版本的智能第二 Dock 工具，它不会替换系统原有 Dock，而是在旁边提供一个可承载实时组件、快捷操作、应用入口和日常信息的独立停靠栏。用户可以把音乐播放、天气、日历事件、提醒事项、待办、番茄钟、系统状态、搜索、剪贴板、截图、文件架、下载目录、快速开关等内容集中到一个美观的动态 Dock 中，减少在多个应用之间切换的频率。软件强调本地优先和隐私优先，只有相关功能需要时才请求日历、提醒事项、照片、麦克风、辅助功能或自动化等权限。它还支持应用与文件夹固定、多个 Dock 配置、浮动布局、尺寸与外观调整、壁纸装饰以及适配外接显示器的现代 Mac 工作流，让用户按自己的习惯构建更高效、更个性化的桌面操作中心。",
     "summary_en": "CoolDock is an intelligent second Dock tool for macOS Sonoma and higher, which does not replace the original Dock of the system, but provides a separate docking bar next to it that can carry real-time components, shortcuts, application entrances, and daily information. Users can centralize music playback, weather, calendar events, reminders, to-dos, pomodoros, system status, searches, clipboards, screenshots, file shelves, download directories, quick switches, and more in one beautiful dynamic dock, reducing the frequency of switching between multiple apps. The software emphasizes local and privacy priorities, and only requests permissions such as calendars, reminders, photos, microphones, accessibility, or automation when required by the relevant features. It also supports app and folder fixing, multiple Dock configurations, floating layouts, resizing and appearance adjustments, wallpaper decoration, and modern Mac workflows with external displays, allowing users to build a more efficient and personalized desktop action center according to their own habits.",
     "tagline_en": "Mac Dock Enhancement Tool",
-    "title": "CoolDock 2.2.5-beta.1",
-    "rev": 3
+    "title": "CoolDock 2.2.5-beta.2",
+    "rev": 4
   },
   "https://macked.app/telunkey-mac-crack.html": {
     "pubDate": "Fri, 20 Nov 2026 08:24:02 +0000",
@@ -735,11 +737,12 @@
     "title": "Kaku 0.28.0"
   },
   "https://macked.app/tabflick-mac.html": {
-    "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "TabFlick 是一款适用于 macOS 的浏览器标签页切换与统一搜索工具，通过原生应用配合浏览器扩展，为 Chrome、Edge、Brave 等 Chromium 浏览器提供类似 Arc 的最近使用顺序切换体验。按住 Control 并轻按 Tab 即可浏览标签页，松开按键才确认切换，让两个常用页面之间的往返更加稳定，也不会将途经的标签误记为已使用。软件支持页面缩略图、横向条带与网格布局，并可按窗口保留独立的使用顺序。搜索面板可集中查找已打开及最近关闭的标签、书签、历史记录、收藏文件夹和已安装应用，支持中文全拼与拼音首字母匹配、单字符拼写容错以及根据选择记录调整结果排序。用户还可从任意应用唤出跨浏览器搜索，执行链接复制、页面重载、重复标签清理和文件夹打开等操作。固定标签恢复、闲置标签自动清理、菜单栏列表与自定义快捷键进一步简化日常管理。",
     "summary_en": "TabFlick is a browser tab switching and unified search tool for macOS that works with browser extensions through native apps to provide a recent Arc-like switching experience for Chrome, Edge, Brave, and other Chromium browsers. Hold down Control and tap Tab to browse the tabs, release the button to confirm the switch, make the round trip between the two commonly used pages more stable, and do not mistakenly mark the passing tag as used. The software supports page thumbnails, landscape bars, and grid layouts, and preserves a separate order of use by window. The search panel can centrally find open and recently closed tags, bookmarks, history, favorite folders, and installed apps. It supports full Chinese spelling and phonetic initial matching, single-character spelling error tolerance, and sorting according to the selection record. Users can also invoke cross-browser search from any app, perform link copying, page reload, repeat tag cleaning, and folder opening. Fixed label recovery, automatic cleanup of idle labels, menu bar lists, and custom shortcuts further simplify day-to-day management.",
     "tagline_en": "Mac Browser Tab Switcher",
-    "title": "TabFlick 0.26.3"
+    "title": "TabFlick 0.27.1",
+    "rev": 1
   },
   "https://macked.app/fanbar-mac.html": {
     "pubDate": "Fri, 13 Nov 2026 14:54:31 +0000",
@@ -840,12 +843,12 @@
     "rev": 1
   },
   "https://macked.app/bettermacwidgets-mac-crack.html": {
-    "pubDate": "Thu, 19 Nov 2026 11:10:17 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "BetterMacWidgets是一款面向macOS 15及以上版本、运行于Apple Silicon Mac的桌面小组件工具，将天气、音乐播放、系统状态、待办事项、便签、时钟、世界时间、日历、照片、加密货币、网络流量、蓝牙设备、应用启动器、快捷指令、计时器、秒表、单位换算器和密码生成器等内容直接放置在桌面上。软件提供25种小组件与20套主题，支持自由拖放和不可见吸附网格，让不同尺寸的小组件整齐排列；天气支持实时预报和自定义城市，音乐小组件可连接Spotify或Apple Music并进行播放控制，照片小组件可读取指定文件夹并播放动态幻灯片。液态玻璃外观支持透明悬浮与可调节磨砂效果，Pro版本还提供同尺寸小组件堆叠、桌面布局配置、跨显示器适配及按时间、前台应用或连接显示器自动切换。",
     "summary_en": "BetterMacWidgets is a desktop widget tool for macOS 15 and above running on Apple Silicon Mac that places weather, music playback, system status, to-dos, notes, clocks, world time, calendars, photos, cryptocurrencies, web traffic, Bluetooth devices, app launchers, shortcuts, timers, stopwatches, unit converters, and password generators directly on the desktop. The software provides 25 widgets and 20 themes, supports free drag and drop and invisible snap meshes, so that widgets of different sizes are neatly arranged; weather supports real-time forecasting and custom cities, music widgets can connect Spotify or Apple Music and playback control, and photo widgets can read specific folders and play dynamic slides. The liquid glass exterior supports transparent suspension and adjustable frosting, and the Pro version also offers the same size widget stacking, desktop layout configuration, cross-monitor adaptation, and automatic switching by time, front-end application, or connected display.",
     "tagline_en": "macOS High Face Desktop Widget",
-    "title": "BetterMacWidgets 2.17.0",
-    "rev": 4
+    "title": "BetterMacWidgets 2.18.0",
+    "rev": 5
   },
   "https://macked.app/awesome-copy-crack.html": {
     "pubDate": "Sat, 21 Nov 2026 14:33:18 +0000",
@@ -898,12 +901,12 @@
     "tagline_en": null
   },
   "https://macked.app/extradock-mac-crack.html": {
-    "pubDate": "Sun, 22 Nov 2026 15:42:32 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "ExtraDock是一款轻量级的应用程序，专为macOS用户设计，可以创建多个浮动Dock，从而提高工作效率。它支持macOS 12及以上版本，用户可以根据需要自定义多个Dock，每个Dock都可以设置独立的应用、文件夹、布局和行为。软件允许将Dock自由漂浮或固定在屏幕边缘，也支持根据需要自动隐藏或收起，节省屏幕空间。ExtraDock还具备全屏应用感知功能，在全屏模式下自动隐藏并在连接时恢复位置。同时，它提供多种颜色主题和可调整的Dock大小，允许用户根据个人工作流进行任意布局。用户可以通过拖拽方式轻松添加应用和文件夹，方便快捷。ExtraDock的性能经过优化，确保低CPU和内存使用，并提供流畅的动画体验。 ExtraDock是一款轻量级的应用程序，可让您在macOS上创建多个浮动的Dock。",
     "summary_en": "ExtraDock is a lightweight app designed for macOS users that improves productivity by creating multiple floating docks. It supports macOS 12 and above, and users can customize multiple docks as needed, each of which can set up separate apps, folders, layouts, and behaviors. The software allows the Dock to float freely or be fixed to the edge of the screen, and also supports automatic hiding or storing as needed, saving screen space. ExtraDock also has a full-screen app-aware feature that automatically hides in full-screen mode and recovers location when connected. At the same time, it offers multiple color themes and adjustable dock sizes, allowing users to make arbitrary layouts based on their individual workflows. Users can easily add apps and folders by dragging and dropping. ExtraDock's performance is optimized to ensure low CPU and memory usage and provide a smooth animation experience. ExtraDock is a lightweight application that allows you to create multiple floating Docks on macOS.",
     "tagline_en": "macOS Create Multiple Dock Tools",
-    "title": "extraDock 5.2.7-beta.2",
-    "rev": 5
+    "title": "extraDock 5.2.7-beta.3",
+    "rev": 6
   },
   "https://macked.app/macwhisper-whisper-transcription-crack.html": {
     "pubDate": "Thu, 22 Oct 2026 11:15:05 +0000",
@@ -1508,12 +1511,12 @@
     "tagline_en": "Mac Window Layout Save Recovery Tool"
   },
   "https://macked.app/vitals-mac-crack.html": {
-    "pubDate": "Sun, 22 Nov 2026 15:42:32 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "Vitals 是一款面向 macOS 的系统资源监控工具，可作为日常使用中的活动监视器替代方案，将应用及其辅助进程合并统计，直观呈现每个应用的 CPU、内存、能耗、磁盘和网络占用，帮助定位卡顿、发热与电量消耗的来源。软件支持自定义菜单栏读数与图表，保存最长一年的本地历史记录，并在应用持续高负载、内存增长或磁盘与网络活动异常时发送通知。针对开发场景，Vitals 按项目整理开发服务器及端口，标记闲置服务，展示 Docker 容器资源用量，追踪编程智能体会话及其启动的子进程，同时提供 AI 方案剩余额度、重置时间与令牌用量信息。内置 MCP 服务和命令行工具，可供 Claude、Codex、Cursor 或脚本查询系统状态。它还整合独立应用音量、温度与风扇、电池健康、蓝牙设备电量、GPU 和神经网络引擎监控。",
     "summary_en": "Vitals is a system resource monitoring tool for macOS that can be used as an alternative to activity monitors in daily use, combining the statistics of applications and their auxiliary processes to visually present the CPU, memory, energy consumption, disk, and network occupancy of each application, helping to locate sources of stuttering, heating, and power consumption. The software supports custom menu bar readings and charts, saves local history for up to a year, and sends notifications when applications continue to experience high loads, memory growth, or disk and network activity anomalies. For development scenarios, Vitals organizes development servers and ports by project, marks idle services, displays Docker container resource usage, tracks programming agent sessions and their launched subprocesses, and provides information on AI program balance, reset time, and token usage. Built-in MCP services and command-line tools for Claude, Codex, Cursor, or script queries for system status. It also integrates independent application volume, temperature and fan, battery health, Bluetooth device power, GPU and neural network engine monitoring.",
     "tagline_en": "macOS Activity Monitor Alternative",
-    "title": "Vitals 1.13.5",
-    "rev": 6
+    "title": "Vitals 1.13.8",
+    "rev": 7
   },
   "https://macked.app/actionclip-mac-crack.html": {
     "pubDate": "Sat, 31 Oct 2026 15:15:51 +0000",
@@ -1657,12 +1660,12 @@
     "tagline_en": "Flexible AI writing tools"
   },
   "https://macked.app/bloom-mac-crack.html": {
-    "pubDate": "Fri, 20 Nov 2026 08:24:02 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "Bloom是一款提升生产力的Finder替代应用，旨在为用户提供更精简、高效的文件管理体验。它具备多种强大功能，包括系统范围内的“前往文件夹”快捷方式和关键词搜索能力，让用户可以快速定位所需文件。Bloom的“Portal”窗口设计紧凑，便于在多任务中使用，同时支持查看压缩文件内容而无需解压。应用还提供智能列宽自动调整、先进的重命名功能、iCloud Drive支持以及便捷的文件夹操作等多种实用工具。 Bloom Mac 是一款改进的Finder替代工具，旨在通过强大的功能和多窗格布局来提升用户的工作效率和文件管理体验。它提供了直观的搜索和文件操作方式，使用户能够更高效地组织和访问文件。 多窗格布局 : Bloom支持多窗格布局，用户可以同时查看和管理多个文件夹，提高工作效率。 快速搜索体验 : 通过快捷键⌘⇧⏎，用户可以快速访问“前往文件夹”功能，支持按关键字搜索文件，搜索速度极快。",
-    "title": "Bloom 1.5.50",
+    "title": "Bloom 1.5.52",
     "summary_en": "Bloom is a productivity-enhancing alternative to Finder designed to provide users with a more streamlined and efficient file management experience. It has a number of powerful features, including a system-wide \"Go to Folder\" shortcut and keyword search capabilities, allowing users to quickly locate the files they need. Bloom's Portal window is designed to be compact and easy to use in multitasking, while allowing you to view the contents of a compressed file without decompressing it. The app also offers a variety of useful tools, including intelligent column width auto-adjustment, advanced renaming capabilities, iCloud Drive support, and easy folder manipulation. Bloom Mac is an improved Finder alternative designed to enhance user productivity and file management experience with powerful features and multi-pane layouts. It provides an intuitive way to search and manipulate files, enabling users to organize and access files more efficiently. Multi-pane layout: Bloom supports multi-pane layout, users can view and manage multiple folders at the same time, improve productivity. Quick search experience: With the shortcut ⌘ aves, users can quickly access the⇧ \"Go to folder\" function, which supports searching for files by keywords, and the search speed is extremely fast.",
     "tagline_en": "Increase efficiency with multi-pane file management",
-    "rev": 1
+    "rev": 2
   },
   "https://macked.app/apphub-launchpad-crack.html": {
     "pubDate": "Sun, 01 Nov 2026 14:56:46 +0000",
@@ -1776,12 +1779,12 @@
     "rev": 1
   },
   "https://macked.app/notchpad-mac-crack.html": {
-    "pubDate": "Fri, 20 Nov 2026 08:24:02 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "NotchPad是一款专为MacBook刘海屏设计的Mac安全记事本应用，它将记事本、剪贴板历史和可重复使用片段巧妙集成在MacBook的刘海区域，只需鼠标悬停即可快速访问，无需切换窗口或中断当前工作流程。NotchPad支持丰富的文本编辑功能，包括粗体、斜体、列表等格式，用户可以轻松固定重要笔记到顶部，并通过即时搜索快速找到所需内容。应用默认启用加密保护，所有数据均本地存储在Mac上，不会发送到任何服务器，确保隐私安全。NotchPad与Apple Notes实现双向同步，用户可以在应用内浏览和编辑Apple Notes，修改内容会即时回传到原生笔记应用中。同时支持拖拽导入超过50种文件类型，包括txt、Markdown、RTF、Word、PDF以及各种代码文件如Swift、Python、JavaScript等，导入后会保留丰富的文本格式。",
-    "title": "NotchPad 2.2.2",
+    "title": "NotchPad 2.2.3",
     "tagline_en": "Liuhai Area Quick Note Tool",
     "summary_en": "NotchPad is a Mac Security Notepad app designed for MacBook Liu Haiping that cleverly integrates notepads, clipboard history, and reusable snippets into the MacBook's Liuhai area, providing quick access with just a mouse hover without switching windows or interrupting current workflows. NotchPad supports rich text editing features, including bold, italics, lists, and other formats, so users can easily pin important notes to the top and quickly find what they need with an instant search. The app enables encryption protection by default, and all data is stored locally on your Mac and never sent to any server for privacy. NotchPad syncs with Apple Notes in both directions. Users can browse and edit Apple Notes in-app, and the changes are instantly returned to the native Notes app. It also supports more than 50 file types, including txt, Markdown, RTF, Word, PDF, and various code files such as Swift, Python, JavaScript, etc. After importing, it will retain a rich text format.",
-    "rev": 4
+    "rev": 5
   },
   "https://macked.app/ia-presenter-mac-crack.html": {
     "pubDate": "Mon, 02 Nov 2026 09:22:31 +0000",
@@ -2381,11 +2384,12 @@
     "rev": 2
   },
   "https://macked.app/picmal-media-convert-compress-mac-crack.html": {
-    "pubDate": "Fri, 06 Nov 2026 09:58:03 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "Picmal是一款专为Mac用户打造的轻量级离线媒体转换压缩神器，采用一次买断终身使用模式（仅需15.99美元，无订阅无续费），完全本地处理绝不上传统治隐私，支持批量转换图像、视频、音频格式（PSD转PNG、AI转SVG、MOV转MP4等几乎覆盖常见格式），可一键同时完成格式转换+体积压缩+尺寸调整，内置常用预设（网页优化、社交媒体、归档等）并允许深度自定义（色彩空间、编码器、比特率、移除元数据等），完美集成Finder右键菜单、Quick Actions和Shortcuts，拖拽文件夹或多选文件即可高效处理数百个文件，运行极快、体积小巧、纯本地无网络依赖、支持macOS全版本且适配Apple Silicon，深受220+用户好评，被誉为简单好用、速度飞快、替代在线工具和复杂软件的最佳选择，是设计师、内容创作者、开发者、日常用户处理批量媒体文件时省时省力、一次付费永久拥有的实用生产力利器。",
-    "title": "Picmal 2.1.1",
+    "title": "Picmal 2.4.0",
     "summary_en": "Picmal is a lightweight offline media conversion compression artifact designed for Mac users with a one-time buyout lifetime mode (only 15. $99, no subscription, no renewal), completely local processing is never the same as traditional privacy, supports batch conversion of image, video, audio formats (PSD to PNG, AI to SVG, MOV to MP4, etc. almost cover common formats), can complete format conversion + volume compression + size adjustment at the same time, built-in common presets (web optimization, social media, archiving, etc.) and allows deep customization (color space, encoder, bitrate, remove meta number) Perfectly integrated Finder right-click menu, Quick Actions and Shortcuts, drag and drop folders or multi-select files to efficiently process hundreds of files, run extremely fast, compact, purely local, no network dependency, support macOS full version and adapt to Apple Silicon, highly praised by 220 + users, known as the best choice for easy-to-use, fast, alternative online tools and complex software, is a designer, content creator, developer Daily users save time and labor when processing batches of media files, and have a practical productivity tool that is permanently owned by one-time payment.",
-    "tagline_en": "Offline Bulk Media Format Interchange Tool"
+    "tagline_en": "Offline Bulk Media Format Interchange Tool",
+    "rev": 1
   },
   "https://macked.app/winknotes-twinklingcard-crack.html": {
     "pubDate": "Fri, 06 Nov 2026 09:58:03 +0000",
@@ -2454,12 +2458,12 @@
     "tagline_en": "Graphical Homebrew package management tool"
   },
   "https://macked.app/keylume-mac-crack.html": {
-    "pubDate": "Fri, 13 Nov 2026 14:54:31 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "Keylume是一款专为macOS设计的时尚屏幕键盘工具，适用于屏幕录制和现场演示场景。Keylume完整呈现Apple键盘的全貌，包括媒体键、箭头键以及所有修饰键，完美匹配真实Apple键盘的外观和布局，许多其他按键可视化工具仅显示修饰键组合或省略功能键，而Keylume则展示整个键盘。Keylume内置多种精美主题，并配备直观的主题编辑器，用户可以轻松创建个性化风格，还能保存主题、与他人分享或导入他人制作的主题。Keylume在屏幕录制开始时会自动弹出，并在录制停止后自动隐藏，检测响应仅需一秒，也支持通过三次轻敲fn键手动切换显示。Keylume支持悬停并轻敲fn启用自动隐藏模式，让键盘淡出并允许点击穿透，还能自由拖拽 reposition 和调整大小，位置信息会被自动记忆。用户可以设置应用忽略列表，避免备份工具或画中画实用程序等后台静默录制应用反复触发键盘显示。",
-    "title": "Keylume 2.4.2",
+    "title": "Keylume 2.4.3",
     "summary_en": "Keylume is a stylish on-screen keyboard tool designed for macOS for screen recording and live demo scenes. Keylume provides a complete view of the Apple keyboard, including media keys, arrow keys, and all modifier keys, perfectly matching the look and layout of a real Apple keyboard, many other key visualization tools only show modifier key combinations or omit function keys, while Keylume shows the entire keyboard. Keylume has a variety of beautiful themes built in and an intuitive theme editor that makes it easy for users to create personalized styles, save themes, share them with others, or import themes made by others. Keylume automatically pops up at the start of screen recording and automatically hides after the recording stops, detecting the response in just one second, and also supports manually switching the display by tapping the fn key three times. Keylume supports hovering and tapping fn to enable auto-hiding mode, let the keyboard fade out and allow click penetration, and can freely drag and drag reposition and resize, position information will be automatically remembered. Users can set up app ignore lists to avoid repeated triggering of keyboard displays by background silent recording apps such as backup tools or picture-in-picture utilities.",
     "tagline_en": "macOS Demo Keyboard Tool",
-    "rev": 3
+    "rev": 4
   },
   "https://macked.app/supacode-ai-agent-mac.html": {
     "pubDate": "Sun, 08 Nov 2026 09:22:34 +0000",
@@ -2861,12 +2865,12 @@
     "rev": 2
   },
   "https://macked.app/itsytv-apple-tv-mac.html": {
-    "pubDate": "Sat, 14 Nov 2026 13:14:29 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "Itsytv 是一款将 Apple TV 遥控功能带到 macOS 菜单栏的原生开源应用，适合需要在 Mac 上快速操控电视、输入文字和管理播放状态的用户。它通过与 Siri Remote 相同的本地网络协议连接 Apple TV，提供方向键、确认、返回、主页、播放暂停及音量控制，响应直接且不依赖云端服务。用户可以使用紧凑的悬浮面板完成遥控操作，也能通过方向键、Return、Backspace、Escape 和空格键进行键盘导航，并在 Apple TV 文本框中实时输入内容。应用可展示当前播放项目的封面、标题、艺术家和进度，内置应用启动器能够列出已安装应用、获取图标并支持拖动排序。Itsytv 支持配对和切换多台 Apple TV，可为不同设备记忆面板位置、设置全局快捷键及登录自动启动。",
-    "title": "Itsytv 1.8.0",
+    "title": "Itsytv 1.9.1",
     "summary_en": "Itsytv is a native open source app that brings Apple TV remote control to the macOS menu bar for users who need to quickly control their TV, type text, and manage playback status on a Mac. It connects to Apple TV through the same local network protocol as Siri Remote, providing direction keys, confirmation, return, home page, playback pause, and volume control, responding directly and without relying on cloud services. Users can use a compact hover panel for remote control, keyboard navigation with arrow keys, Return, Backspace, Escape, and Spacebar, and enter content in the Apple TV text box in real time. Apps showcase the cover, title, artist, and progress of your current playback, and the built-in app launcher lists installed apps, gets icons, and supports drag-and-drop sorting. Itsytv supports pairing and switching between multiple Apple TVs, automatically starting for different device memory panel locations, setting global shortcuts, and logging in.",
     "tagline_en": "Mac Menu Bar Apple TV Remote Control Tool",
-    "rev": 1
+    "rev": 2
   },
   "https://macked.app/looq-quick-look-mac-crack.html": {
     "pubDate": "Wed, 11 Nov 2026 11:23:49 +0000",
@@ -2925,11 +2929,12 @@
     "tagline_en": "Automatically rename Mac screenshots"
   },
   "https://macked.app/folders-mini-mac-crack.html": {
-    "pubDate": "Thu, 12 Nov 2026 09:45:44 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "Folders Mini 是一款适用于 macOS 13 及更高版本的文件对话框增强工具，可在系统标准的打开与保存对话框旁显示完整的文件夹树，让用户直接点击目标文件夹完成跳转，减少逐层查找路径的操作。文件夹树涵盖收藏夹、个人主文件夹、内外置磁盘、网络共享与 WebDAV，也支持 iCloud Drive、Dropbox、OneDrive 和 Google Drive 等云存储位置。用户在对话框内切换目录时，树形选中状态会同步跟随，文件夹结构变化也会及时反映。软件支持调整主题、强调色、字号、行距、排序与可见性，并提供缩进辅助线、标签颜色及自定义文件夹图标，设置可通过 iCloud 在多台 Mac 间同步。通过文件夹上下文菜单，还能在 Finder 或偏好的终端中打开目录、管理收藏、复制文件夹或路径，以及设置颜色和文字标签。底部按钮可控制隐藏文件夹、软件包与应用的显示，支持简体和繁体中文；",
-    "title": "Folders Mini 1.0.1",
+    "title": "Folders Mini 1.1.0",
     "summary_en": "Folders Mini is a file dialog enhancement tool for macOS 13 and later. It displays a complete folder tree alongside the system's standard Open and Save dialogs, allowing users to directly click on the target folder to navigate to it, reducing the need to search through each level of the path. The folder tree covers Favorites, Personal Home Folders, Internal and External Disks, Network Shares, and WebDAV, and also supports cloud storage locations such as iCloud Drive, Dropbox, OneDrive, and Google Drive. When users switch directories within the dialog box, the selected state in the tree view will update accordingly, and changes to the folder structure will also be reflected in real time. The software supports adjusting themes, accent colors, font sizes, line spacing, sorting, and visibility, and provides indentation guides, tag colors, and custom folder icons. Settings can be synced across multiple Macs via iCloud. Using the folder context menu, you can also open directories in Finder or your preferred terminal, manage favorites, copy folders or paths, and set color and text labels. The buttons at the bottom control the display of hidden folders, software packages, and apps, and support both Simplified and Traditional Chinese;",
-    "tagline_en": "macOS File Dialog Enhancements"
+    "tagline_en": "macOS File Dialog Enhancements",
+    "rev": 1
   },
   "https://macked.app/pathbridge-mac-crack.html": {
     "pubDate": "Thu, 12 Nov 2026 09:45:44 +0000",
@@ -3040,19 +3045,20 @@
     "rev": 1
   },
   "https://macked.app/pastenow-crack.html": {
-    "pubDate": "Sat, 21 Nov 2026 14:33:18 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "PasteNow是一款Mac剪贴板管理工具，支持多设备数据同步和历史数据的重复使用。它可以通过规则对剪贴板内容进行智能分类，并提供多种列表样式如网格视图和简洁列表以展示内容。用户可以预览文本、链接和图像，还能将敏感应用添加至排除列表以保护隐私。PasteNow依托iCloud实现数据云同步，确保不同设备间能够共享剪贴板历史，并支持全键盘操作和自定义快捷键，以提高操作效率。用户还可以通过拖放功能来收集和整理剪贴板内容，并通过设置排除规则来选择性保存数据，提供便捷的预览与编辑功能。 PasteNow 是一款全新的剪贴板管理工具，支持多设备间的数据同步，允许用户方便地重复使用剪贴板历史数据，并通过规则将历史内容进行分类。 内容预览 : 可对剪贴板文本、链接、图像内容进行预览，支持 HEX 颜色显示。 丰富视图 : 提供网格视图、简洁列表、丰富列表等多种样式展示剪贴板内容。",
-    "title": "PasteNow 2.40",
+    "title": "PasteNow 2.41",
     "summary_en": "PasteNow is a Mac clipboard management tool that supports data synchronization across multiple devices and the reuse of historical data. It can intelligently categorize clipboard content based on rules and offers various list styles, such as grid views and simple lists, to display the content. Users can preview text, links, and images, and can also add sensitive apps to the exclusion list to protect their privacy. PasteNow relies on iCloud to achieve cloud-based data synchronization, ensuring that clipboard history can be shared across different devices. It also supports full keyboard operation and custom hotkeys to improve operational efficiency. Users can also collect and organize clipboard content using the drag-and-drop feature and selectively save data by setting exclusion rules, providing convenient preview and editing functions. PasteNow is a brand-new clipboard management tool that supports data synchronization across multiple devices, allowing users to easily reuse clipboard history data and categorize history content using rules. Content Preview: Preview clipboard text, links, and image content, with support for HEX color display. Rich views: Clipboard content can be displayed in a variety of styles, including grid view, simple list, and rich list.",
     "tagline_en": "Lightweight clipboard management tool for macOS",
-    "rev": 2
+    "rev": 3
   },
   "https://macked.app/qark-mac-crack.html": {
-    "pubDate": "Fri, 13 Nov 2026 14:54:31 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "Qark 是一款适用于 macOS 的径向菜单工具，将常用应用、文件、链接、快捷指令、文本和分组排列在鼠标指针周围，通过环形入口缩短访问路径。默认按住 Control、Option 和 R，移动到目标操作后松开即可执行，也可录制其他键盘快捷键，或使用非左键的鼠标按钮唤出菜单，并切换为轻按后点击的操作方式。软件提供七种设计与 Plain、Frost Glass、Liquid Glass 三种材质，支持调整圆环及槽位内容，让界面布局贴合个人工作习惯。分组项目可从所属槽位依次展开，打开、悬停、选择、关闭等七种交互事件均配有声音，还能选用其他设计的对应音效。Clean Keys 槽位可临时锁定键盘，方便擦拭清洁；圆环配置支持导出和导入，便于备份与恢复。在受支持的鼠标上，还能调整滚轮的段落或自由滚动模式。",
-    "title": "Qark 1.2.0",
+    "title": "Qark 1.3.2",
     "summary_en": "Qark is a radial menu tool for macOS that arranges frequently used apps, files, links, shortcuts, text, and groups around the mouse pointer, shortening the access path through circular entry points. By default, hold down Control, Option, and R, and release them after moving to the desired action to execute it. You can also record other keyboard shortcuts or use a mouse button other than the left button to bring up the menu and switch to the tap-and-click operation mode. The software offers seven designs and three materials – Plain, Frost Glass, and Liquid Glass – and allows you to customize the ring and slot content to tailor the interface layout to your personal work habits. Grouped items can be expanded sequentially from their respective slots. Seven interactive events, including opening, hovering, selecting, and closing, are all accompanied by sounds. Corresponding sound effects from other designs can also be selected. The Clean Keys slot can temporarily lock the keyboard for easy wiping and cleaning. The Ring configuration supports exporting and importing for convenient backup and restoration. On supported mice, you can also adjust the scroll wheel's notched or free-scrolling mode.",
-    "tagline_en": "Mac Ring Shortcut Menu"
+    "tagline_en": "Mac Ring Shortcut Menu",
+    "rev": 1
   },
   "https://macked.app/buhocleaner-crack.html": {
     "pubDate": "Fri, 13 Nov 2026 14:54:31 +0000",
@@ -3292,12 +3298,12 @@
     "tagline_en": "macOS Intelligent AI No-Code Automated Workflow"
   },
   "https://macked.app/snaggy-mac-crack.html": {
-    "pubDate": "Sun, 22 Nov 2026 15:42:32 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "Snaggy 是一款面向 macOS 的原生书签管理与稍后阅读工具，可通过统一快捷键保存不同浏览器的当前网页，将分散的链接集中到同一个资料库。默认快捷键为 ⌘D，仅在浏览器处于前台时接管收藏操作，也可自行修改。软件支持导入浏览器书签、固定标签页及 HTML 书签文件，并保留原有文件夹结构，方便迁移已有收藏。在符合条件的 Mac 上，它利用 Apple 设备端模型自动创建文件夹并整理链接；不满足条件时则按网站分类。内置阅读器支持屏蔽广告与跟踪器，提供文章阅读模式，读到末尾后自动标记已读，也能返回保存链接时使用的浏览器打开网页。用户可从菜单栏搜索收藏，通过本地 MCP 服务让 Claude、Codex、Cursor 等 AI 工具搜索和保存链接。资料库存储于本机，无需创建账户，可选择使用个人 iCloud 在多台 Mac 间同步，并支持导出 JSON、CSV 和 HTML。",
-    "title": "Snaggy 1.10",
+    "title": "Snaggy 2.0",
     "summary_en": "Snaggy is a native bookmark management and read-later tool for macOS. It allows you to save the current web page from different browsers using a unified shortcut key, consolidating scattered links into a single library. The default shortcut key is ⌘D. It only takes over the bookmarking operation when the browser is in the foreground, and you can also change it yourself. The software supports importing browser bookmarks, pinned tabs, and HTML bookmark files, preserving the original folder structure for easy migration of existing favorites. On eligible Macs, it uses Apple's on-device model to automatically create folders and organize links; when the requirements are not met, it categorizes them by website. The built-in reader supports blocking ads and trackers, offers a reading mode for articles, automatically marks articles as read upon reaching the end, and can open web pages in the browser used when the link was saved. Users can search their favorites from the menu bar and use local MCP services to enable AI tools like Claude, Codex, and Cursor to search for and save links. The database is stored locally, and no account creation is required. You can choose to use your personal iCloud to sync across multiple Macs, and it supports exporting to JSON, CSV, and HTML.",
     "tagline_en": "Cross-browser bookmarking tool for macOS",
-    "rev": 1
+    "rev": 2
   },
   "https://macked.app/putback-mac-crack.html": {
     "pubDate": "Wed, 18 Nov 2026 04:44:28 +0000",
@@ -3473,12 +3479,12 @@
     "tagline_en": "3D Garment Design Software for Mac"
   },
   "https://macked.app/hidden-bar.html": {
-    "pubDate": "Fri, 20 Nov 2026 08:24:02 +0000",
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
     "summary": "Hidden Bar 是一款 macOS 菜单栏图标隐藏工具。使用方法：在菜单栏按住 `⌘ Command` 键后会出现两个图标，「｜」和「>」，然后拖动想要折叠的图标移到「｜」图标左侧就可以了。点击「>」箭头图标就可以展开/折叠菜单栏图标。不过要注意一个逻辑问题，「>」图标不能放置在「｜」图标左侧，毕竟它不能把自己也折叠进去。",
-    "title": "Hidden Bar 1.13.2",
+    "title": "Hidden Bar 1.13.4",
     "summary_en": "Hidden Bar is a tool for hiding macOS menu bar icons. How to use: Hold down the `⌘ Command` key in the menu bar, and two icons will appear, \"｜\" and \">\". Then, drag the icon you want to collapse to the left of the \"｜\" icon. Click the \">\" arrow icon to expand/collapse the menu bar icons. However, pay attention to a logical issue: the \">\" icon cannot be placed to the left of the \"｜\" icon, as it cannot fold itself in.",
     "tagline_en": "Menu Bar Icon Hiding Tool",
-    "rev": 1
+    "rev": 2
   },
   "https://macked.app/omniroute-ai-gateway-mac.html": {
     "pubDate": "Wed, 18 Nov 2026 08:54:51 +0000",
@@ -3960,5 +3966,94 @@
     "title": "Fluent 2.3.11",
     "summary_en": "Fluent is a powerful AI writing assistant designed to improve users' writing efficiency and quality. As flexible as Spotlight, it can operate in any application, helping users with a variety of tasks such as translation, grammar correction, drafting emails and social media posts, and extracting key points. Fluent supports users in using their own cloud AI API keys (such as OpenAI, Gemini, and OpenRouter) and offers over 320 OpenRouter models, as well as various local AI models that can be loaded directly from a Mac, ensuring data security. Users can customize hotkeys and actions, use over 30 preset default actions, and preview results in real time through the smart panel, including Markdown rendering. Fluent is a tool designed to enhance writing productivity. It prioritizes privacy, does not collect user data, and supports fully offline work. Fluent Mac is a powerful AI writing assistant designed to improve your writing efficiency and quality. It offers a wide range of features, including translation, grammar correction, and drafting of emails and social media posts, and can seamlessly integrate with any application you are using.",
     "tagline_en": "Flexible AI Writing Tool"
+  },
+  "https://macked.app/spot-on-mac-crack.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "Spot On 是一款适用于 macOS 14 及更高版本的键盘启动器，可为常用应用绑定固定按键。按住 Caps Lock，再按下对应的字母、数字或符号，就能直达目标应用，无需输入搜索词、翻找 Dock 图标或反复按下 Command-Tab。同一组快捷键会根据应用状态执行不同操作：尚未运行时启动应用，已打开但不在前台时将其调到前台，已经位于前台时则轮换该应用的窗口。窗口轮换可限定在当前桌面，也可覆盖所有桌面。软件提供 40 多个按键位置，首次启动可为五款应用迅速分配字母，按 Caps Lock 加空格即可查看映射。快捷键不会随最近使用顺序或窗口位置变化，也可通过 iCloud Drive、Dropbox 或其他同步文件夹在多台 Mac 上保持一致。Spot On 使用 SwiftUI 原生构建，兼容已有的 Hyper 快捷键，还可选择将单击 Caps Lock 设为 Escape。",
+    "title": "Spot On 1.0.17",
+    "summary_en": "Spot On is a keyboard launcher for macOS 14 and later that allows you to assign fixed keys to frequently used apps. Hold down Caps Lock and then press the corresponding letter, number, or symbol to go directly to the target application without having to enter a search term, look for a Dock icon, or repeatedly press Command-Tab. The same set of hotkeys performs different actions depending on the application's status: it launches the application if it is not yet running, brings it to the foreground if it is open but not in the foreground, and cycles through the application's windows if it is already in the foreground. Window cycling can be limited to the current desktop or can cover all desktops. The software offers over 40 key positions. Upon first launch, you can quickly assign letters to five applications. Press Caps Lock plus the spacebar to view the mappings. Keyboard shortcuts do not change based on recent usage order or window position, and can also be kept consistent across multiple Macs via iCloud Drive, Dropbox, or other synced folders. Spot On is natively built with SwiftUI, is compatible with existing Hyper shortcuts, and also offers the option to set a single press of Caps Lock as Escape.",
+    "tagline_en": "Mac Fixed Application Shortcut Keys"
+  },
+  "https://macked.app/murmur-whisper-ai-mac-crack.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "Murmur 是一款面向 macOS 的本地 AI 语音工作室，可将脚本转换为自然语音，并在电脑上完成语音生成、克隆与设计，减少对云端服务、字符额度和持续订阅的依赖。用户可以选择内置或社区声音，为不同角色分配音色，导入文本或文件，调整语速与表达方式，并在项目时间线上修改单句、安排停顿及处理多说话人内容。软件支持导出 WAV，Mac 版还可导出 M4A；项目和批量队列适合制作播客、有声书、视频旁白、课程及游戏对白。Kokoro 模型随应用提供，其他语音模型可按需下载；可选 OmniVoice 模型覆盖 600 多种语言，实际语言支持因模型而异。完成模型安装后，语音生成可离线运行，脚本、生成音频和克隆素材保留在本机。Murmur 还提供命令行与 MCP 自动化能力，可用于脚本批处理和 AI 代理工作流。",
+    "title": "Murmur 1.0.31",
+    "summary_en": "Murmur is a native AI voice studio for macOS that converts scripts into natural-sounding speech and performs voice generation, cloning, and design on your computer, reducing reliance on cloud services, character limits, and ongoing subscriptions. Users can choose built-in or community voices, assign voices to different characters, import text or files, adjust speech speed and expression, and edit individual sentences, arrange pauses, and handle multi-speaker content on the project timeline. The software supports exporting to WAV, and the Mac version can also export to M4A. Projects and batch queues are suitable for creating podcasts, audiobooks, video voiceovers, courses, and game dialogues. The Kokoro model is provided with the application, and other speech models can be downloaded as needed. The optional OmniVoice models cover more than 600 languages, with actual language support varying by model. After the model installation is complete, speech generation can run offline, and the scripts, generated audio, and cloned materials are kept locally. Murmur also offers command-line and MCP automation capabilities, which can be used for script batch processing and AI agent workflows.",
+    "tagline_en": "macOS Text-to-Speech Software"
+  },
+  "https://macked.app/iconscape-mac-crack.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "Iconscape 是一款会随桌面图标布局变化的 macOS 动态壁纸应用。它根据屏幕和图标的位置、尺寸生成海湾、云间草甸、城市街区或滑雪道等景观。拖动文件后，地形会随之调整，相邻的图标可以共用一座小岛或一片屋顶，图标及其名称始终清晰可见。开启跟随桌面叠放后，景观也会适配叠放的位置，以及展开后显示的文件。壁纸可按当地日落时间或 macOS 深色模式切换昼夜，入夜后窗灯、灯笼和篝火会亮起。景观绘制完成后，由 macOS 驱动游泳者、缆车和萤火虫等场景元素的动画，桌面被窗口遮挡或开启低电量模式时会自动暂停。多显示器可各自设置场景并独立暂停，应用也会为锁定屏幕设置静态快照。Iconscape 常驻菜单栏，通过访达读取图标位置和尺寸，相关数据保留在本机。应用支持 macOS 14 Sonoma 及更高版本，兼容 Apple 芯片和 Intel Mac。",
+    "title": "Iconscape 1.2.16",
+    "summary_en": "Iconscape is a macOS dynamic wallpaper app that changes with the layout of desktop icons. It generates landscapes such as bays, meadows in the clouds, city blocks, or ski slopes based on the position and size of the screen and icons. After dragging a file, the terrain adjusts accordingly. Adjacent icons can share an island or a rooftop, and the icons and their names remain clearly visible at all times. After enabling \"Follow Desktop Stacking,\" the landscape will also adapt to the stacking position and the files displayed when expanded. The wallpaper can switch between day and night based on the local sunset time or the macOS dark mode. After nightfall, window lights, lanterns, and campfires will illuminate. Once the landscape has been rendered, macOS drives the animations of scene elements such as swimmers, cable cars, and fireflies. These animations automatically pause when the desktop is obscured by windows or when Low Power Mode is enabled. Multiple monitors can each set their own scenes and be paused independently, and the app will also set a static snapshot for the lock screen. Iconscape resides in the menu bar and reads icon positions and sizes through Finder, with the relevant data stored locally. The app supports macOS 14 Sonoma and later versions and is compatible with both Apple silicon and Intel-based Macs.",
+    "tagline_en": "Mac wallpapers that change with icons"
+  },
+  "https://macked.app/byectrlclick-mac-crack.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "ByeCtrlClick 是一款适用于 macOS 15 及以上版本的轻量菜单栏工具，用来阻止按住 Ctrl 左键单击时弹出的上下文菜单。启用后，拦截在 Finder、浏览器和游戏等应用中全局生效，鼠标右键和触控板双指轻点仍可正常打开菜单。菜单栏以笑脸表示拦截已开启，以方眼表情表示拦截已暂停，点击开关即可切换。在 Minecraft 等将 Ctrl 绑定为冲刺或蹲伏的游戏里，玩家可以按住 Ctrl 的同时点击，避免系统菜单打断操作。游戏模式还可让 Mac 保持唤醒、暂停 Time Machine 备份、显示 Metal 性能监视浮层，或退出用户选定的应用。安装后需要在系统设置中授予辅助功能权限，让软件能够在系统范围内过滤鼠标事件，该权限可随时撤销。应用无需注册账号，也不收集使用数据或运行分析统计。",
+    "title": "ByeCtrlClick 27.1",
+    "summary_en": "ByeCtrlClick is a lightweight menu bar tool for macOS 15 and later that prevents context menus from popping up when you hold down the Ctrl key and left-click. Once enabled, the blocking takes effect globally in applications such as Finder, browsers, and games. The menu can still be opened normally by right-clicking with the mouse or tapping with two fingers on the trackpad. In the menu bar, a smiley face indicates that blocking is enabled, and a square-eyed emoji indicates that blocking is paused. Click the switch to toggle. In games like Minecraft, where the Ctrl key is bound to sprinting or crouching, players can click while holding down the Ctrl key to prevent the system menu from interrupting their actions. Game Mode can also keep the Mac awake, pause Time Machine backups, display the Metal performance monitoring overlay, or quit user-selected apps. After installation, you need to grant accessibility permissions in the system settings to allow the software to filter mouse events system-wide. This permission can be revoked at any time. The app does not require an account to be registered, nor does it collect usage data or perform analytical statistics.",
+    "tagline_en": "macOS Global Disable Ctrl+Left Click"
+  },
+  "https://macked.app/focuscursor-highlight-markup-mac-crack.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "FocusCursor: Highlight &Markup 是一款适用于 macOS 的鼠标高亮与屏幕标注工具，适合会议演示、课堂教学和视频教程制作，帮助观众看清光标位置、移动轨迹与点击操作。软件可在指针周围显示跟随圆形或圆环，通过点击动画强调操作，并利用鼠标遮罩压暗屏幕其他区域，让注意力集中在当前讲解位置。屏幕绘图支持线条、矩形、圆形、椭圆和记号笔，可调整颜色、线宽及部分图形的填充，选中的绘图对象能够移动或删除，方便边演示边标记重点。鼠标效果支持组合使用，可分别保存不同跟随效果的设置，调整强度与中心偏移，并使用 SF Symbols 作为自定义跟随粒子图像。软件支持多显示器，在其他应用的全屏空间中也能保持鼠标效果可见，光标静止时会停止跟随粒子。配合菜单栏入口、快捷键开关、开机启动和隐藏 Dock 图标选项，便于按演示需要启用。",
+    "title": "FocusCursor 3.6.0",
+    "summary_en": null,
+    "tagline_en": "macOS Cursor Highlighting Tool"
+  },
+  "https://macked.app/sequence-mac-crack.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": null,
+    "title": "Sequence 1.4.4",
+    "tagline_en": "Mac Podcast Post-Production"
+  },
+  "https://macked.app/artcraft-studio-artcraft-launcher-apps-mac.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": null,
+    "title": "ArtCraft Studio 0.41.1",
+    "tagline_en": "macOS Open Source Creation Kit"
+  },
+  "https://macked.app/ohmyshot-mac.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "OhMyShot 是一款面向 Apple 芯片 Mac 的原生开源屏幕捕捉工具，适用于 macOS 26 及以上版本。它常驻菜单栏，空闲时不轮询，也不保持屏幕捕捉会话。截图支持跨屏选区、窗口、全屏、定时和滚动长截图，框选时可冻结画面，方便截取短暂出现的内容。截图后可从快捷卡片复制、保存、拖出或贴在屏幕上，也能添加箭头、序号和高亮，或将敏感信息模糊和像素化。内置端侧文字识别可复制并原位翻译图片中的文字，还能按截图内容检索历史记录；可选模型包能进一步处理中文、公式、表格和图表。录屏可导出 MP4 或 GIF，支持系统声音、麦克风和摄像头，录制后可在 Studio 中编辑并加入跟随光标的自动缩放。软件还提供置顶贴图、屏幕取色、边缘吸附像素尺，以及快捷指令和 Raycast 集成。 OhMyShot 将截图、录屏、标注和端侧文字识别集中在 macOS 菜单栏中。",
+    "title": "OhMyShot 0.4.0",
+    "summary_en": "OhMyShot is a native, open-source screen capture tool for Macs with Apple silicon, compatible with macOS 26 and later versions. It resides in the menu bar, does not poll when idle, and does not maintain a screen capture session. Screen capture supports cross-screen selection, windows, full screen, timed, and scrolling long screenshots. The screen can be frozen during selection, making it easy to capture content that appears briefly. After taking a screenshot, you can copy, save, drag out, or paste it onto the screen from the quick access card. You can also add arrows, numbers, and highlights, or blur and pixelate sensitive information. The built-in on-device text recognition feature can copy and translate text in images in situ, and can also search the history based on the content of screenshots. Optional model packages can further process Chinese, formulas, tables, and charts. Screen recordings can be exported as MP4 or GIF files, with support for system audio, microphone, and camera. After recording, they can be edited in Studio and enhanced with automatic zooming that follows the cursor. The software also offers pinned overlays, screen color picking, an edge-snapping pixel ruler, as well as shortcuts and Raycast integration. OhMyShot brings together screenshots, screen recordings, annotations, and on-device text recognition in the macOS menu bar.",
+    "tagline_en": "Open-source screenshot and screen recording tool for Mac"
+  },
+  "https://macked.app/maclc-player-mac.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "MacLC 是一款面向 Apple Silicon Mac 的原生开源视频播放器，基于 VLC 播放引擎构建，支持 MKV、MP4、AVI、WebM、TS、AV1、HEVC、FLAC、DTS 及多种字幕格式，无需额外安装编解码器。它可呈现 Dolby Vision、HDR10+、HDR10 和 HLG 内容，并能将普通 SDR 视频扩展到 HDR 屏幕的亮度范围；内置九种 GPU 放大方式、最高匹配屏幕刷新率的帧插值，以及突出对白的 Voice Boost。除了本地视频和音乐资料库，MacLC 还提供基于第三方扩展目录的内容浏览、边下载边播放种子、通过 yt-dlp 播放 YouTube 和网页视频，以及仍处于测试阶段的 AirPlay 与 Chromecast 投放。播放器包含实时播放统计、画面对比、均衡器和多种音效模式，界面采用原生 macOS 风格。",
+    "title": "MacLC 1.9",
+    "summary_en": "MacLC is a native, open-source video player for Apple Silicon Macs, built on the VLC playback engine. It supports MKV, MP4, AVI, WebM, TS, AV1, HEVC, FLAC, DTS, and various subtitle formats, without the need to install additional codecs. It can render Dolby Vision, HDR10+, HDR10, and HLG content, and can expand standard SDR video to the brightness range of HDR screens; It features nine built-in GPU upscaling methods, frame interpolation that matches the highest screen refresh rate, and Voice Boost to enhance dialogue. In addition to local video and music libraries, MacLC also offers content browsing based on third-party extension catalogs, torrent playback while downloading, YouTube and web video playback via yt-dlp, and AirPlay and Chromecast casting, which are still in the testing phase. The player includes real-time playback statistics, visual comparison, an equalizer, and various sound effect modes, with an interface designed in the native macOS style.",
+    "tagline_en": "Free, open-source media player for Mac"
+  },
+  "https://macked.app/lux.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "lux是一个开源的命令行程序，同类软件还有youtube-dl。用于从YouTube.com和其他一些视频网站下载视频。它提供了大量的选项，可以让用户按照自己的需求下载视频，例如选择视频质量、格式，或者只下载音频等。lux支持多线程下载，可以提高下载速度。此外，它还支持多种操作系统，包括Windows、macOS和Linux等。在使用上，需要一定的命令行基础，但其强大的功能和灵活性使它成为下载在线视频的首选工具。",
+    "title": "lux 1.51.0",
+    "summary_en": "lux is an open-source command-line program, similar to youtube-dl. It is used to download videos from YouTube.com and some other video sites. It offers a wide range of options that allow users to download videos according to their needs, such as selecting video quality, format, or downloading audio only, etc. lux supports multithreaded downloads, which can improve download speed. In addition, it supports multiple operating systems, including Windows, macOS, and Linux. In terms of usage, it requires a certain level of command-line knowledge, but its powerful features and flexibility make it the preferred tool for downloading online videos.",
+    "tagline_en": "Cross-platform command-line download tool"
+  },
+  "https://macked.app/bandizip365-crack.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "Bandizip是一款快速解压缩工具，提供多种功能和直观的用户界面，支持macOS操作系统。用户可以轻松解压缩常用的压缩文件格式，如ZIP、7-zip（7z）、RAR（包括RAR7）以及EGG和ALZ等，支持超过30种压缩格式的解压缩。Bandizip目前推出了按月订阅服务，用户可以享受与一次性购买相同的高级功能，并提供为期一周的免费试用。其主要功能包括强大的压缩、解压缩、浏览和编辑功能，支持多个操作系统版本，如Big Sur、Monterey、Ventura等。该软件的压缩功能使用多核心技术比Finder快6倍，支持AES256加密、4GB以上文件的压缩，并可以创建多卷ZIP和7z档案。在解压缩方面，Bandizip支持多种格式，允许用户查看档案文件列表、选择提取文件及简单的拖放操作。 Bandizip 是一款在 macOS 上提供快速解压缩速度、丰富功能和直观用户界面的压缩解压缩工具。",
+    "title": "Bandizip365 7.40",
+    "summary_en": "Bandizip is a fast decompression tool that offers a wide range of features and an intuitive user interface, and supports the macOS operating system. Users can easily extract common compressed file formats such as ZIP, 7-zip (7z), RAR (including RAR7), EGG, and ALZ, with support for extracting over 30 compressed file formats. Bandizip currently offers a monthly subscription service that allows users to enjoy the same premium features as a one-time purchase, with a one-week free trial. Its main features include powerful compression, decompression, browsing, and editing capabilities, and it supports multiple operating system versions, such as Big Sur, Monterey, Ventura, and more. The software's compression feature uses multi-core technology to be 6 times faster than Finder, supports AES256 encryption, compression of files larger than 4GB, and can create multi-volume ZIP and 7z archives. When it comes to decompression, Bandizip supports multiple formats, allowing users to view archive file lists, select files to extract, and perform simple drag-and-drop operations. Bandizip is a compression and decompression tool for macOS that offers fast decompression speeds, rich features, and an intuitive user interface.",
+    "tagline_en": "A powerful and versatile decompression tool for macOS"
+  },
+  "https://macked.app/movie-thumbnails-maker-mac-crack.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "Movie Thumbnails Maker是一款Mac上专为电影爱好者和内容创作者设计的强大缩略图生成工具，它支持AVI、WMV、RM、MPG、TS、MKV、MOV、FLV、MP4、RMVB、ASF、3GP、M4V、SWF等多种视频格式，通过一键操作即可快速从视频中批量截取精彩帧并生成精美电影概览图或GIF，支持自定义背景色、边框色、水印、元数据显示、网格宽高尺寸间距、时间戳标注、源图裁剪、视频起始结束节点设置、快速/精准寻址模式、实时视频播放预览等灵活参数，一次性处理多个电影文件并输出BMP、PNG、TIFF、JPEG、GIF等多种图像格式，让你轻松制作出专业级电影海报式缩略图集，无需猜测剧情内容即可第一时间直观把握最新影片精华，是影迷、视频博主和媒体整理者的高效一站式解决方案。",
+    "title": "Movie Thumbnails Maker 5.10.0",
+    "summary_en": "Movie Thumbnails Maker is a powerful thumbnail generation tool for Mac designed for movie enthusiasts and content creators. It supports various video formats such as AVI, WMV, RM, MPG, TS, MKV, MOV, FLV, MP4, RMVB, ASF, 3GP, M4V, SWF, etc. With just one click, it can quickly extract multiple exciting frames from videos and generate beautiful movie overview images or GIFs. It supports customizing background colors, border colors, watermarks, metadata display, and network features. Flexible parameters such as grid cell size spacing, timestamp annotation, source image cropping, video start and end point settings, quick/precise addressing mode, and real-time video playback preview allow you to process multiple movie files at once and output various image formats such as BMP, PNG, TIFF, JPEG, and GIF. This enables you to easily create professional-grade movie poster-style thumbnail sets, giving you an immediate and intuitive grasp of the latest movie highlights without having to guess the plot content. It is a must-have tool for movie fans. An efficient one-stop solution for video creators, vloggers, and media organizers.",
+    "tagline_en": "Video Movie Thumbnail Creator"
+  },
+  "https://macked.app/folders-pro-folders-file-manager-mac-crack.html": {
+    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "summary": "Folders File Manager 是一款面向 macOS 的专业文件管理器，以可持续展开、可自行排序的文件夹树为核心，将本地磁盘、网络共享、iCloud Drive、各类云存储、标签、最近文件与收藏夹集中呈现，帮助从 Windows 转用 Mac 的用户延续熟悉的资源管理习惯，也让需要清晰目录层级的资深用户更高效地浏览与整理文件。软件提供表格、列表、图标和画廊四种视图，并可按文件夹记忆显示设置，支持文件夹优先、文件优先及属性分组；通过标签页、多窗口、可保存标签组、可编辑路径栏、快速预览和信息面板构建流畅工作流。它覆盖剪切复制、冲突比较与文件夹合并、批量重命名、空白文件与文档创建、网络共享挂载、Spotlight 或全盘搜索、文件收集架及压缩操作，并能查看音视频、EXIF、权限和其他元数据。",
+    "title": "Folders Pro 2.13.1",
+    "summary_en": "Folders File Manager is a professional file manager for macOS. Centered around an expandable and sortable folder tree, it brings together local disks, network shares, iCloud Drive, various cloud storage services, tags, recent files, and favorites. It helps users transitioning from Windows to Mac maintain their familiar resource management habits, and also allows power users who need a clear directory hierarchy to browse and organize files more efficiently. . The software offers four viewing modes: Grid, List, Icons, and Gallery, and can remember display settings by folder. It supports folder priority, file priority, and grouping by attributes. It builds a smooth workflow through tabs, multiple windows, savable tab groups, an editable path bar, quick previews, and an info panel. It covers cut-and-paste, conflict comparison and folder merging, batch renaming, blank file and document creation, network share mounting, Spotlight or full-disk search, file collection and compression operations, and can view audio and video, EXIF, permissions, and other metadata.",
+    "tagline_en": "macOS File Manager"
   }
 }
