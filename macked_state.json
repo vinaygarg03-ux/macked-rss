@@ -137,12 +137,12 @@
     "title": "Vinyls 3.3"
   },
   "https://macked.app/bytemail-mac-crack.html": {
-    "pubDate": "Wed, 25 Nov 2026 10:59:50 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "bytemail是一款面向Mac的原生邮件客户端，使用SwiftUI与AppKit构建，不捆绑浏览器内核，支持Gmail、iCloud、Outlook、Microsoft 365、Yahoo、Fastmail及其他IMAP邮箱，将多个账户整合到一个快速统一收件箱中。软件提供对话式与经典邮件视图、跨账户即时搜索、附件搜索、智能标签、未读筛选、规则自动归档、稍后处理、定时发送、撤回发送、邮件提醒和多账户签名等功能。它直接连接邮箱服务商，凭据保存在macOS钥匙串，邮件、联系人和使用数据不会经过bytemail服务器。跟踪像素与链接追踪参数会被清理，外部图片可按需加载，并能识别仿冒域名、品牌冒充和可疑链接。软件还支持本地摘要、智能回复与Rewrite，并通过MCP连接Claude、Codex、Cursor等AI应用，在用户确认后处理指定账户内容。",
     "summary_en": "bytemail is a native Mac email client built with SwiftUI and AppKit, with no bundled browser engine. It supports Gmail, iCloud, Outlook, Microsoft 365, Yahoo, Fastmail and other IMAP accounts in one fast unified inbox. Features include conversation and classic views, instant cross-account and attachment search, smart labels, rule-based archiving, snooze, scheduled send, undo send, reminders and per-account signatures. It connects directly to your mail provider, keeps credentials in the macOS Keychain, and sends no mail, contacts or usage data through bytemail servers. Tracking pixels and tracking link parameters are stripped, and it flags spoofed domains and suspicious links. It also offers local summaries, smart replies and Rewrite, and connects to AI apps such as Claude, Codex and Cursor through MCP.",
     "tagline_en": "AI-enhanced native Mac email client",
-    "title": "ByteMail 1.9.62",
-    "rev": 11
+    "title": "ByteMail 1.9.64",
+    "rev": 12
   },
   "https://macked.app/macrest-mac-crack.html": {
     "pubDate": "Sun, 18 Oct 2026 12:03:42 +0000",
@@ -314,11 +314,12 @@
     "title": "StrokeMouse 0.0.41"
   },
   "https://macked.app/macpacker-mac.html": {
-    "pubDate": "Mon, 19 Oct 2026 10:35:01 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "MacPacker 是一款原生 macOS 归档管理工具，采用开源方式开发，可作为 Mac 上的 7-Zip 替代选择。它支持读取和解压超过 40 种归档、磁盘映像及压缩格式，包括 ZIP、RAR、7z、TAR、DMG、ISO 和多种复合压缩包。用户可以像浏览文件夹一样查看压缩包内容，无需先完整解压，也能深入访问嵌套归档，通过系统预览器查看文件，并将需要的文件拖放到目标位置，避免为少量内容解压整个大型归档。软件支持直接修改并重新保存 ZIP 归档，也可打开受密码保护及加密的归档。借助 Quick Look 与 Finder 扩展，用户能够按空格预览归档内容，或通过右键菜单解压到当前位置及指定文件夹。界面提供面包屑导航、可排序列表和接近 Finder 的键盘操作，并通过文件特征而非仅凭扩展名识别格式。",
     "summary_en": "MacPacker is a native macOS archive management tool developed as open-source software and serves as an alternative to 7-Zip on Mac. It supports reading and extracting over 40 archive, disk image, and compression formats, including ZIP, RAR, 7z, TAR, DMG, ISO, and various compound archives. Users can view the contents of compressed archives just like browsing folders, without needing to fully extract them first. They can also access nested archives, view files through the system's built-in previewer, and drag and drop the files they need to the desired location, avoiding the need to extract an entire large archive for just a small amount of content. The software supports directly modifying and re-saving ZIP archives, and can also open password-protected and encrypted archives. With Quick Look and Finder extensions, users can preview archived content by pressing the spacebar or extract it to the current location and a specified folder via the right-click menu. The interface offers breadcrumb navigation, sortable lists, and keyboard shortcuts similar to Finder, and identifies file formats based on their characteristics rather than just their extensions.",
     "tagline_en": "QuickLook Browse and Extract Tool for macOS Compressed Packages",
-    "title": "MacPacker 1.3.0"
+    "title": "MacPacker 1.3.1",
+    "rev": 1
   },
   "https://macked.app/cherry-studio.html": {
     "pubDate": "Fri, 20 Nov 2026 08:24:02 +0000",
@@ -671,11 +672,12 @@
     "tagline_en": null
   },
   "https://macked.app/magpie-ai-mac.html": {
-    "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "magpie 是一款面向 AI 编程代理的开源模型路由工具，可在 macOS、Windows 和 Linux 上运行，并通过本机网关统一连接不同代理与模型服务。添加 DeepSeek、Kimi、GLM、Qwen、Claude、OpenAI、Gemini、Ollama 等提供商后，便能在 Codex、Claude Code、Gemini CLI、OpenCode 等代理中选择相应模型，无需为每个代理重复配置密钥。magpie 能转换 OpenAI、Anthropic 和 Gemini 等接口格式，并保留流式响应、工具调用与推理能力；也支持将 Claude、ChatGPT 和 GitHub Copilot 等已登录订阅接入其他代理。用户可以为不同任务设置智能模型路由，按意图分配请求，也可根据账户额度、重置时间、速率限制和故障情况自动切换账户，减少请求中断。",
     "summary_en": "magpie is an open source model routing tool for AI programming agents that runs on macOS, Windows, and Linux and unifies different agents and model services through a native gateway. After adding providers such as DeepSeek, Kimi, GLM, Qwen, Claude, OpenAI, Gemini, Ollama, etc., you can select the corresponding model among the agents such as Codex, Claude Code, Gemini CLI, OpenCode, etc., without duplicating the key configuration for each agent. magpie can convert interface formats such as OpenAI, Anthropic, and Gemini, and retain streaming response, tool call, and inference capabilities; it also supports connecting logged-in subscriptions such as Claude, ChatGPT, and GitHub Copilot to other agents. Users can set up intelligent model routing for different tasks, assign requests according to their intent, or automatically switch accounts according to account quota, reset time, rate limit, and fault conditions to reduce request interruptions.",
     "tagline_en": "AI Programming Agent Model Switching",
-    "title": "magpie 0.1.3250"
+    "title": "magpie 0.1.4839",
+    "rev": 1
   },
   "https://macked.app/openclip-mac.html": {
     "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
@@ -685,12 +687,12 @@
     "title": "OpenClip 1.10.0"
   },
   "https://macked.app/wailbrew-homebrew.html": {
-    "pubDate": "Thu, 19 Nov 2026 11:10:17 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "WailBrew是一款为macOS设计的简约美观的Homebrew包管理图形界面（GUI），使得命令行工具的使用变得直观且现代化。用户可以通过简单的几次点击轻松安装、更新和卸载软件包，无需记忆复杂的命令或处理终端语法。WailBrew构建在Homebrew的可靠基础上，提供安全的操作流程和全面的错误处理，确保包管理的顺利进行。它支持实时筛选和详细信息搜索，帮助用户管理成千上万的公式和cask应用。WailBrew不仅适合喜欢图形界面的普通用户，也为开发者提供通过Homebrew命令行安装的方式，展现了其实用性和灵活性。WailBrew让Homebrew的强大功能通过美丽的界面，变得更加简单易用。 WailBrew 是一个极简且美观的 Homebrew 软件包管理图形用户界面（GUI），为 macOS 用户提供了直观现代的操作体验，让命令行工具的强大功能触手可及。",
     "summary_en": "WailBrew is a sleek and minimalist Homebrew package management graphical user interface (GUI) designed for macOS, making the use of command-line tools intuitive and modern. Users can easily install, update, and uninstall software packages with just a few simple clicks, without having to memorize complex commands or deal with terminal syntax. Built on the solid foundation of Homebrew, WailBrew offers a secure operation process and comprehensive error handling to ensure smooth package management. It supports real-time filtering and detailed information searches, helping users manage thousands of formulas and cask applications. WailBrew is not only suitable for ordinary users who prefer graphical interfaces, but also provides developers with a way to install via the Homebrew command line, demonstrating its practicality and flexibility. WailBrew makes Homebrew's powerful features even easier to use through a beautiful interface. WailBrew is a minimalist and visually appealing graphical user interface (GUI) for Homebrew package management. It offers macOS users an intuitive and modern operating experience, making the powerful capabilities of command-line tools easily accessible.",
     "tagline_en": "Homebrew Graphical Interface Management Tool",
-    "title": "WailBrew 0.15.0",
-    "rev": 1
+    "title": "WailBrew 0.15.1",
+    "rev": 2
   },
   "https://macked.app/motrixnext-mac.html": {
     "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
@@ -739,20 +741,20 @@
     "title": "Kaku 0.28.0"
   },
   "https://macked.app/tabflick-mac.html": {
-    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "TabFlick 是一款适用于 macOS 的浏览器标签页切换与统一搜索工具，通过原生应用配合浏览器扩展，为 Chrome、Edge、Brave 等 Chromium 浏览器提供类似 Arc 的最近使用顺序切换体验。按住 Control 并轻按 Tab 即可浏览标签页，松开按键才确认切换，让两个常用页面之间的往返更加稳定，也不会将途经的标签误记为已使用。软件支持页面缩略图、横向条带与网格布局，并可按窗口保留独立的使用顺序。搜索面板可集中查找已打开及最近关闭的标签、书签、历史记录、收藏文件夹和已安装应用，支持中文全拼与拼音首字母匹配、单字符拼写容错以及根据选择记录调整结果排序。用户还可从任意应用唤出跨浏览器搜索，执行链接复制、页面重载、重复标签清理和文件夹打开等操作。固定标签恢复、闲置标签自动清理、菜单栏列表与自定义快捷键进一步简化日常管理。",
     "summary_en": "TabFlick is a browser tab switching and unified search tool for macOS that works with browser extensions through native apps to provide a recent Arc-like switching experience for Chrome, Edge, Brave, and other Chromium browsers. Hold down Control and tap Tab to browse the tabs, release the button to confirm the switch, make the round trip between the two commonly used pages more stable, and do not mistakenly mark the passing tag as used. The software supports page thumbnails, landscape bars, and grid layouts, and preserves a separate order of use by window. The search panel can centrally find open and recently closed tags, bookmarks, history, favorite folders, and installed apps. It supports full Chinese spelling and phonetic initial matching, single-character spelling error tolerance, and sorting according to the selection record. Users can also invoke cross-browser search from any app, perform link copying, page reload, repeat tag cleaning, and folder opening. Fixed label recovery, automatic cleanup of idle labels, menu bar lists, and custom shortcuts further simplify day-to-day management.",
     "tagline_en": "Mac Browser Tab Switcher",
-    "title": "TabFlick 0.27.1",
-    "rev": 1
+    "title": "TabFlick 0.28.0",
+    "rev": 2
   },
   "https://macked.app/fanbar-mac.html": {
-    "pubDate": "Tue, 24 Nov 2026 12:02:31 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "FanBar 是一款原生 macOS 菜单栏温度监测与风扇控制工具，支持 macOS 11 Big Sur 及更高版本，适用于能够通过 AppleSMC 提供可读取风扇数据的 Apple Silicon 和 Intel Mac。软件可在菜单栏显示 CPU 温度、平均风扇转速或两者组合，并通过最近十分钟的滚动图表呈现温度变化，在硬件支持时读取 GPU、SSD 和电池温度。日常使用可保持 macOS 自动散热管理，批准已签名的控制服务后，可设置固定转速，或选择静音、均衡、性能和极限散热预设。每种预设均有独立可编辑的温度与转速曲线，支持以 CPU、GPU 或 SSD 温度作为调节依据，也可在指定时间后恢复系统控制。软件提供高温通知、硬件转速范围限制及异常情况下尝试恢复自动控制的保护机制。macOS 14 及更高版本还可添加桌面小组件查看散热状态，小组件刷新由系统调度。",
     "summary_en": "FanBar is a native macOS menu bar temperature monitoring and fan control tool that supports macOS 11 Big Sur and later for Apple Silicon and Intel Macs that can provide readable fan data via AppleSMC. The software displays the CPU temperature, average fan speed, or a combination of the two in the menu bar, and presents the temperature change through a scrolling chart for the last ten minutes, reading the GPU, SSD, and battery temperature when the hardware supports it. Everyday use keeps macOS under automatic thermal management, and after approving a signed control service, you can set a fixed speed, or choose mute, equalize, performance, and extreme thermal presets. Each preset has an independently editable temperature and speed curve that supports CPU, GPU or SSD temperature as the basis for adjustment, and can also restore system control after a specified time. The software provides protection against high-temperature notifications, hardware rpm limits, and attempts to restore automatic control in the event of an abnormality. macOS 14 and later also adds a desktop widget to view the heat dissipation status, and the widget refresh is scheduled by the system.",
     "tagline_en": "Mac Fan Control Tool",
-    "title": "FanBar 0.11.0",
-    "rev": 4
+    "title": "FanBar 0.11.1",
+    "rev": 5
   },
   "https://macked.app/scroll-reverser-mac.html": {
     "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
@@ -762,19 +764,20 @@
     "title": "Scroll Reverser 2.1.1"
   },
   "https://macked.app/wallpapermachine-mac.html": {
-    "pubDate": "Fri, 20 Nov 2026 08:24:02 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "WallpaperMachine是一款面向苹果芯片Mac的原生动态壁纸应用，可在macOS 15 Sequoia及更高版本上运行Wallpaper Engine的场景壁纸、视频壁纸与网页壁纸。应用内置Steam创意工坊浏览与下载，无需登录即可浏览海量内容，下载需Steam账号拥有Wallpaper Engine，场景壁纸还需自购安装中的共享资源。界面分为发现、已安装与设置三个标签页，选中壁纸后按下播放即可应用到桌面。每台显示器可独立设置壁纸或镜像另一台，并分别配置缩放、帧率与音量。开启音频响应后，为声音设计的壁纸会跟随Mac当前播放内容律动，媒体集成可让带音乐展示的壁纸显示正在播放的歌曲。电池供电时可选择保持运行、按自定义渲染比例与帧率降载，或直接暂停。视频与场景壁纸还能实验性地用于锁屏动画。",
     "summary_en": "WallpaperMachine is a native live wallpaper app for Macs with Apple silicon. It can run Wallpaper Engine's scene wallpapers, video wallpapers, and web wallpapers on macOS 15 Sequoia and later versions. The app features built-in browsing and downloading from the Steam Workshop, allowing you to browse a vast amount of content without logging in. To download, you need a Steam account with Wallpaper Engine. For scene wallpapers, you also need to purchase the shared resources separately during installation. The interface is divided into three tabs: Discover, Installed, and Settings. After selecting a wallpaper, press Play to apply it to the desktop. Each monitor can have its wallpaper set independently or mirrored from another monitor, and zoom, frame rate, and volume can be configured separately. After enabling audio response, wallpapers designed for sound will move in sync with the content currently playing on the Mac. Media integration allows wallpapers with music displays to show the song that is currently playing. When running on battery power, you can choose to keep running, reduce the load according to the custom rendering scale and frame rate, or pause directly. Videos and scene wallpapers can also be used experimentally for lock screen animations.",
     "tagline_en": "Native Dynamic Wallpaper Tool for macOS",
-    "title": "WallpaperMachine 1.14.0",
-    "rev": 1
+    "title": "WallpaperMachine 1.16.0",
+    "rev": 2
   },
   "https://macked.app/notchi-mac.html": {
-    "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "Notchi 是一款将 Mac 刘海区域转化为快捷输入与智能任务入口的原生 macOS 工具，用户只需把鼠标移到刘海附近并输入自然语言，即可记录随手想法、创建带时间的提醒事项、向 AI 提问，或调用编码代理处理项目任务。软件能够识别输入意图，把普通内容存入备忘录，将“明天上午九点给妈妈打电话”一类语句直接转换为系统提醒，并支持联网搜索、来源引用、剪贴板截图识别和精确数学运算。面对开发工作，用户可以指定项目文件夹并描述需求，由本机的 Codex 或 Claude CLI 在后台执行，刘海闭合后仍会显示当前步骤与耗时，任务完成时发送系统通知。Notchi 采用与 macOS 风格协调的 Liquid Glass 材质，通过背景模糊、边缘光效与弹性动画让面板和屏幕边框自然衔接。输入分类在本机完成，问题会使用用户选择的服务商密钥直接发送至对应平台，不经过开发者服务器；",
     "summary_en": "Notchi is a native macOS tool that transforms the Mac notch area into a shortcut for input and an intelligent task portal. Users simply move their mouse near the notch and enter natural language to jot down ideas, create time-based reminders, ask AI questions, or invoke a coding agent to handle project tasks. The software can recognize input intent, store ordinary content in memos, directly convert sentences like \"Call Mom tomorrow at 9:00 a.m.\" into system reminders, and support online searches, source citations, clipboard screenshot recognition, and precise mathematical calculations. For development tasks, users can specify a project folder and describe their requirements, which are then executed in the background by the native Codex or Claude CLI. Even after the notch is closed, the current step and time elapsed are still displayed, and a system notification is sent when the task is completed. Notchi uses a Liquid Glass material that harmonizes with the macOS style, seamlessly integrating the panel and screen bezel through background blur, edge lighting, and fluid animations. The classification of the input is completed locally. The issue will be sent directly to the corresponding platform using the service provider key selected by the user, without passing through the developer's server.",
     "tagline_en": "macOS Notch Smart Assistant",
-    "title": "Notchi 0.9.41"
+    "title": "Notchi 0.9.46",
+    "rev": 1
   },
   "https://macked.app/lockpaw-mac.html": {
     "pubDate": "Wed, 21 Oct 2026 11:15:58 +0000",
@@ -875,12 +878,12 @@
     "tagline_en": null
   },
   "https://macked.app/trellis-file-manager-mac-crack.html": {
-    "pubDate": "Thu, 12 Nov 2026 09:45:44 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "Trellis File Manager是一款专为Mac设计的可视化文件管理工具，将每个打开的文件夹放置在画布上的独立面板中，并通过路径连接展示文件夹层级，方便并排查看、拖放移动和比较内容。软件支持树状向右或向下排列、手动调整位置、平滑缩放、触控板缩放与画布拖动，并可使用工作区、收藏夹、Finder标签和彩色分支管理不同任务。内置索引能够快速显示文件夹大小、搜索文件并定位结果，还能通过空间视图查看磁盘占用。它支持本地磁盘、移动硬盘、SD卡、网络共享以及多种云盘位置，能够记录已断开驱动器的目录与预览信息。文件操作涵盖断点续传、同名文件夹合并、批量重命名、撤销恢复、文件夹比较和重复文件查找，图库则支持照片、视频、PDF、Office文档、字体与3D模型预览，并提供图片转换和压缩功能。软件无需账户，索引保留在本机，兼容Apple芯片与Intel Mac，并提供多语言界面。",
     "summary_en": "Trellis File Manager is a visual file management tool designed for Mac that places each open folder in a separate panel on the canvas and displays the folder hierarchy via a path connection for easy side-by-side viewing, drag-and-drop movement, and comparison of content. The software supports tree alignment to the right or down, manual positioning, smooth zooming, trackpad zooming, and canvas dragging, and can manage different tasks using workspaces, favorites, Finder labels, and color branches. Built-in indexes quickly display folder sizes, search for files, locate results, and view disk usage through a space view. It supports local disks, removable hard disks, SD cards, network sharing, and a variety of cloud disk locations, and can record the directory and preview information of disconnected drives. File operations include breakpoint resurfacing, folder merging with the same name, batch renaming, undo recovery, folder comparison, and duplicate file lookup, while galleries support photo, video, PDF, Office document, font, and 3D model previews, as well as image conversion and compression. The software does not require an account, the index remains native, is compatible with Apple chips and Intel Macs, and provides a multilingual interface.",
     "tagline_en": "powerful file manager for macOS",
-    "title": "Trellis File Manager 2.5.1",
-    "rev": 1
+    "title": "Trellis File Manager 2.6",
+    "rev": 2
   },
   "https://macked.app/iptv-expert-crack.html": {
     "pubDate": "Sun, 22 Nov 2026 15:42:32 +0000",
@@ -1053,8 +1056,9 @@
   "https://macked.app/vorssaint-utils-mac.html": {
     "pubDate": "Fri, 23 Oct 2026 11:06:19 +0000",
     "summary": "Vorssaint 是一款把多项 macOS 常用工具整合进菜单栏的本地优先应用，用户只需点开一个图标，就能使用按应用调节音量、系统监控、窗口切换与布局、剪贴板历史、文件暂存、应用卸载、清理链接、保持唤醒等能力。它强调开箱即用，不需要额外音频驱动或复杂配置，核心功能都在本机运行，配合可选权限逐步启用。软件还提供网络流量、温度、电池状态、能耗、合盖唤醒、滚动方向和清洁模式等细分工具，并允许按需开启或隐藏模块，界面可在简洁列表与分组视图间切换。它支持多语言切换，适合不同地区的使用习惯；同时保持无账号、无云端、无持续追踪的设计，让菜单栏里的每个功能都尽量轻巧克制。 Vorssaint 将一整套常用 macOS 工具收纳到一个菜单栏入口里，围绕音量、窗口、系统状态、剪贴板、文件处理、待机控制和清理维护展开，所有模块都可按需启用或隐藏，适合希望把高频操作集中管理的 Mac 用户。",
-    "summary_en": null,
-    "tagline_en": null
+    "summary_en": "Vorssaint is a privacy-focused application that integrates multiple commonly used macOS tools into the menu bar. With just a click on an icon, users can access features such as per-app volume control, system monitoring, window switching and layout, clipboard history, file staging, app uninstallation, link cleanup, and keeping the system awake. It emphasizes out-of-the-box usability, requiring no additional audio drivers or complex configuration. All core functions run natively and are progressively enabled with optional permissions. The software also provides detailed tools for network traffic, temperature, battery status, power consumption, wake-on-lid-close, scroll direction, and cleaning mode, and allows modules to be enabled or hidden as needed. The interface can switch between a simple list and a grouped view. It supports switching between multiple languages, catering to the usage habits of different regions. At the same time, it maintains a design without accounts, cloud storage, or continuous tracking, ensuring that every feature in the menu bar is as lightweight and unobtrusive as possible. Vorssaint consolidates a comprehensive set of commonly used macOS tools into a single menu bar entry, focusing on volume, windows, system status, clipboard, file management, sleep control, and cleanup and maintenance. All modules can be enabled or hidden as needed, making it ideal for Mac users who want to centralize the management of frequently performed tasks.",
+    "tagline_en": "Menu Bar All-in-One Toolbox",
+    "title": "Vorssaint 3.4.5"
   },
   "https://macked.app/clashx-meta.html": {
     "pubDate": "Fri, 23 Oct 2026 11:06:19 +0000",
@@ -1164,12 +1168,12 @@
     "title": "Free Download Manager 6.36.0"
   },
   "https://macked.app/capture-quick-notes-mac-crack.html": {
-    "pubDate": "Wed, 25 Nov 2026 10:59:50 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "Quick Notes – Capture 是一款面向 iPhone、iPad、Mac、Apple Vision 与 Apple Watch 的快速记录与想法收集工具，核心体验围绕低摩擦输入、即时整理和跨应用流转展开。它适合把临时灵感、待办清单、网页链接、图片附件、语音内容和提醒事项先集中捕捉，再按需要导出到 Obsidian、Things、Todoist、iA Writer、Craft、OmniFocus、Fantastical、Apple 日历、提醒事项等常用工具。软件支持 iCloud 同步、桌面与锁屏小组件、分享扩展、Siri 与快捷指令、日期和 URL 自动识别、文档扫描、列表排序、合并与拆分记录等功能，既能作为日常脑内清空入口，也能充当不同效率系统之间的中转站。其界面强调简洁稳定，避免复杂工作流带来的干扰，让用户在灵感出现时快速保存，并在合适的时间再处理、归档或执行。",
     "summary_en": "Quick Notes – Capture is a quick note-taking and idea-gathering tool for iPhone, iPad, Mac, Apple Vision, and Apple Watch, with a core experience centered around low-friction input, instant organization, and cross-app flow. It is suitable for first capturing spontaneous ideas, to-do lists, web links, image attachments, voice content, and reminders, and then exporting them as needed to commonly used tools such as Obsidian, Things, Todoist, iA Writer, Craft, OmniFocus, Fantastical, Apple Calendar, Reminders, etc. The software supports iCloud syncing, desktop and lock screen widgets, share extensions, Siri and Shortcuts, automatic recognition of dates and URLs, document scanning, list sorting, merging and splitting of records, and other features. It can serve both as a daily outlet for clearing your mind and as a hub between different productivity systems. Its interface emphasizes simplicity and stability, avoiding distractions caused by complex workflows, allowing users to quickly save ideas when inspiration strikes and then process, archive, or execute them at the appropriate time.",
     "tagline_en": "Note-taking and idea-gathering tool for macOS",
-    "title": "Capture 3.8",
-    "rev": 3
+    "title": "Capture 3.8.1",
+    "rev": 4
   },
   "https://macked.app/netutilus-network-utility-mac-crack.html": {
     "pubDate": "Sun, 22 Nov 2026 15:42:32 +0000",
@@ -1180,11 +1184,12 @@
     "rev": 2
   },
   "https://macked.app/darkroom-crack.html": {
-    "pubDate": "Sat, 24 Oct 2026 15:28:22 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "Darkroom是一款集照片和视频编辑于一体的高级应用，适用于iPad和iPhone，深度融合iOS和iPadOS的最新特性，为所有级别的摄影师提供了快速、强大且易于使用的编辑工具。它提供广泛的免费工具，支持编辑Live照片、RAW图像和人像照片，并具备实时色彩分级的视频编辑功能。其核心功能包括iOS上最易用的曲线和选择性颜色工具、人像模糊编辑、RAW编辑、完整的相册管理以及个性化滤镜创建能力。Darkroom还支持批量处理、无需导入的即时访问、集成的标签管理器和Siri快捷方式，提供了一个功能丰富的编辑套件，现已推出macOS版本。通过其先进的AI编辑技术和专业级功能，Darkroom为用户带来了与Adobe Lightroom和Canva相媲美的编辑体验，使其成为摄影和视频项目的理想选择。",
     "summary_en": "Darkroom is an advanced photo and video editing app for iPad and iPhone that deeply blends the latest features of iOS and iPadOS to provide fast, powerful, and easy-to-use editing tools for photographers of all levels. It offers a wide range of free tools for editing Live photos, raw images, and portrait photos, as well as video editing with real-time color grading. Its core features include the most easy-to-use curve and selective color tools on iOS, portrait blur editing, raw editing, full album management, and the ability to create personalized filters. Darkroom also supports batch processing, import-free instant access, integrated tag manager, and Siri shortcuts, providing a feature-rich editing suite that is now available for macOS. With its advanced AI editing technology and professional-grade features, Darkroom offers users an editing experience on par with Adobe Lightroom and Canva, making it ideal for photography and video projects.",
     "tagline_en": "Professional photo editing and management app",
-    "title": "Darkroom 7.6.4"
+    "title": "Darkroom 7.7",
+    "rev": 1
   },
   "https://macked.app/agenda-notes-meets-calendar-crack.html": {
     "pubDate": "Thu, 12 Nov 2026 09:45:44 +0000",
@@ -1354,12 +1359,12 @@
     "rev": 1
   },
   "https://macked.app/eye-monitor-break-reminders-crack.html": {
-    "pubDate": "Sat, 07 Nov 2026 13:40:31 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "Eye Monitor – Break Reminders是一款需要与macOS应用搭配使用的iOS应用程序，已在Hacker News、Product Hunt和sspai.com等平台获得关注，并在13个国家的健康与健身类应用中排名第一。该应用能够在Mac的疲劳值达到预设阈值时，通过通知提醒用户，防止他们在离开电脑休息时沉迷于手机。其macOS版本是一个完全自动化的疲劳监测和提醒工具，旨在帮助用户休息、放松和减轻疲劳。Eye Monitor会自动分析用户的行为，例如鼠标、触控板、滚轮运动以及键盘输入，及时通知用户达到疲劳阈值。该应用可以用作休息提醒、水分补充提醒、伸展提醒、使用屏幕时间提醒、RSI提醒等，以帮助用户维护眼部健康和改善坐姿相关问题。 Eye Monitor是一款旨在帮助用户减少视觉疲劳和保持健康的应用程序，需配合macOS版本使用。",
     "summary_en": "Eye Monitor – Break Reminders, an iOS app that works with macOS apps, has gained traction on platforms like Hacker News, Product Hunt, and sspai.com, and ranks # 1 in health and fitness apps in 13 countries. The app alerts users when their Mac's fatigue reaches a preset threshold and prevents them from indulging in the phone while away from the computer. Its macOS version is a fully automated fatigue monitoring and alerting tool designed to help users rest, relax, and reduce fatigue. Eye Monitor automatically analyzes the user's behavior, such as mouse, trackpad, scroll wheel movement, and keyboard input, to notify the user that the fatigue threshold has been reached. The app can be used as a rest reminder, hydration reminder, stretch reminder, screen time reminder, RSI reminder, etc. to help users maintain eye health and improve sitting-related issues. Eye Monitor is an app designed to help users reduce visual fatigue and stay healthy, and works with macOS versions.",
     "tagline_en": "Smart break reminder tool",
-    "title": "Eye Monitor 13.1.21",
-    "rev": 1
+    "title": "Eye Monitor 13.1.23",
+    "rev": 2
   },
   "https://macked.app/glimpsewords-mac-crack.html": {
     "pubDate": "Sun, 25 Oct 2026 10:50:23 +0000",
@@ -2015,11 +2020,12 @@
     "rev": 1
   },
   "https://macked.app/lanscan-mac-crack.html": {
-    "pubDate": "Thu, 05 Nov 2026 05:27:44 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "LanScan是一款简单高效的网络扫描工具，支持IPv4和IPv6，能够发现任何子网内的所有活跃设备，包括本地子网或者用户配置的任何公共子网。对于IPv4，LanScan能自动检测配置的接口（如Airport、以太网、虚拟接口等），支持从单个IP到整个IPv4地址空间的范围扫描。它通过ARP包扫描本地网络，通过Ping、SMB、mDNS包扫描公共IP网络范围，并显示IP地址、MAC地址、最多四个主机名和关联的厂商信息。LanScan还能发现SMB域（如果配置了的话），支持DNS、mDNS（苹果设备）和SMB（Windows设备）的主机名解析，允许自定义主机名编辑和为每个设备添加自定义评论，还可以在浏览器中打开自定义URL，并且支持将结果导出为CSV文件，用户可以自由隐藏/显示各列，并按照个人喜好对列进行对齐，没有找到设备数量的限制。",
-    "title": "LanScan 8.2.18",
+    "title": "LanScan 8.2.19",
     "summary_en": "LanScan is a simple and efficient network scanning tool that supports IPv4 and IPv6 and is able to discover all active devices within any subnet, including local subnets or any user-configured public subnets. For IPv4, LanScan automatically detects configured interfaces (such as Airport, Ethernet, virtual interfaces, etc.) and supports scanning from a single IP to the entire IPv4 address space. It scans the local network with ARP packets, the public IP network range with Ping, SMB, mDNS packets, and displays the IP address, MAC address, up to four hostnames, and associated vendor information. LanScan can also discover SMB domains (if configured), support hostname resolution for DNS, mDNS (Apple devices) and SMB (Windows devices), allow custom hostname editing and add custom comments for each device, can also open custom URLs in the browser, and support exporting results as CSV files, users can freely hide/display columns, and align columns according to personal preferences, no number of devices found ‘attributes’ associated with the account.",
-    "tagline_en": "Mac LAN Device Scan Tool"
+    "tagline_en": "Mac LAN Device Scan Tool",
+    "rev": 1
   },
   "https://macked.app/highland-pro-mac-crack.html": {
     "pubDate": "Wed, 18 Nov 2026 04:44:28 +0000",
@@ -2337,12 +2343,12 @@
     "rev": 1
   },
   "https://macked.app/miaoyan.html": {
-    "pubDate": "Fri, 20 Nov 2026 08:24:02 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "MiaoYan是一款轻量级的Markdown笔记本应用，旨在帮助用户轻松写出优美的句子。它具备纯本地使用的特点，确保安全性，同时支持语法高亮、黑暗模式和文档自动排版等功能。用户可以享受简约的三列设计，包括文件夹、文件列表和编辑器，提供良好的视觉体验。MiaoYan使用Swift5进行原生开发，性能优于传统的Web应用，且提供了众多快捷键以提升编辑效率。其他功能包括文档导出、内部跳转、图床支持以及对LaTeX、Mermaid、PlantUML和Markmap脑图的支持，使其成为一个多功能的写作工具。",
-    "title": "MiaoYan 4.11.0",
+    "title": "MiaoYan 4.12.0",
     "summary_en": "MiaoYan is a lightweight Markdown laptop app designed to help users easily write beautiful sentences. It features purely local use for security while supporting features such as syntax highlighting, dark mode, and automatic document layout. Users can enjoy a minimalistic three-column design that includes folders, file lists, and an editor for a great visual experience. MiaoYan uses Swift5 for native development, outperforms traditional web applications, and provides a number of shortcuts to improve editing efficiency. Other features include document export, internal jumps, graph bed support, and support for LaTeX, Mermaid, PlantUML, and Markmap brainstorming, making it a versatile writing tool.",
     "tagline_en": "macOS Native Markdown Editor",
-    "rev": 4
+    "rev": 5
   },
   "https://macked.app/iina.html": {
     "pubDate": "Fri, 06 Nov 2026 09:58:03 +0000",
@@ -2366,11 +2372,12 @@
     "tagline_en": "Powerful task management tool for Mac"
   },
   "https://macked.app/quicknote-stickies-in-menu-crack.html": {
-    "pubDate": "Fri, 06 Nov 2026 09:58:03 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "Quick Note是一款简洁的便条应用程序，用户只需点击一下或使用快捷键即可快速记下笔记。该软件是一款轻量级的菜单栏应用，优化了快速记笔记的体验。笔记窗口始终悬浮在其他应用之上，确保笔记始终可见。其主要功能包括iCloud同步、悬浮窗口、丰富的背景颜色选择、文件夹组织、通过服务创建笔记、实用小组件、透明度调整、收藏笔记、笔记扩展与折叠、多种文本样式以及通过快捷方式和Apple脚本实现自动化。iCloud同步功能能保证所有笔记始终备份并与Apple ID关联的iCloud账户无缝同步，极大方便了用户的使用。用户可以将笔记按文件夹进行分类，方便管理。支持直接从其他应用中创建新笔记，提升效率。对于专业用户而言，Quick Note可以集成到自动化工作流程中，进一步提升工作效率。如果您希望提高日常笔记的便捷性和可见性，Quick Note无疑是一个理想的选择。",
-    "title": "QuickNote 7.12.0",
+    "title": "QuickNote 7.14.0",
     "summary_en": "Quick Note is a simple note-taking app that allows users to take notes quickly with a single click or with shortcut keys. The software is a lightweight menu bar app that optimizes the experience of taking quick notes. The notes window always hovers over the other apps, making sure the notes are always visible. Its main features include iCloud sync, floating windows, rich background color selection, folder organization, notes created through services, useful widgets, transparency adjustments, favorite notes, notes expansion and collapse, multiple text styles, and automation through shortcuts and Apple scripts. the iCloud sync feature keeps all your notes always backed up and seamlessly syncs with the iCloud account associated with your Apple ID, making it incredibly easy to use. Users can categorize notes into folders for easy management. Create new notes directly from other apps for greater efficiency. For professional users, Quick Note can be integrated into automated workflows to further increase productivity. If you're looking to increase the convenience and visibility of your daily notes, Quick Note is definitely an ideal choice.",
-    "tagline_en": "Mac Desktop Notes Tool"
+    "tagline_en": "Mac Desktop Notes Tool",
+    "rev": 1
   },
   "https://macked.app/chronoid-time-mac-crack.html": {
     "pubDate": "Sat, 21 Nov 2026 14:33:18 +0000",
@@ -3354,11 +3361,12 @@
     "tagline_en": "Cross-device collaboration between Android and Mac"
   },
   "https://macked.app/waifux-mac.html": {
-    "pubDate": "Wed, 18 Nov 2026 04:44:28 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "WaifuX是一款面向macOS的开源ACG一站式应用，聚合静态壁纸、动态壁纸与动漫视频，覆盖从浏览筛选到一键设为桌面的完整使用场景。静态壁纸支持Wallhaven与4K Wall双源切换，覆盖4K到8K全分辨率；动态壁纸对接MotionBGs等源让桌面动起来；动漫视频内置多源解析引擎，追番观影可在同一应用完成。智能搜索支持关键词、标签、分类、颜色与分辨率等多维度筛选，收藏系统可建立个人ACG资源库，并能为每个显示器分别设置不同壁纸。本地文件夹导入可统一管理个人收藏，实验性Wallpaper Engine渲染管线可呈现场景与Web类型动态壁纸且仅支持Apple Silicon。应用要求macOS 14及以上，兼容Apple Silicon与Intel，提供简体中文英语与日语界面，可通过官网、GitHub Releases或Homebrew安装，适合二次元爱好者日常换壁与追番。",
-    "title": "WaifuX 38.0.158",
+    "title": "WaifuX 38.0.161",
     "summary_en": "WaifuX is an open-source, all-in-one ACG app for macOS that brings together static wallpapers, live wallpapers, and anime videos, covering the entire user experience from browsing and filtering to setting wallpapers as your desktop with a single click. Static wallpapers support switching between two sources, Wallhaven and 4K Wall, covering all resolutions from 4K to 8K. Dynamic wallpapers connect to sources like MotionBGs to bring your desktop to life. Anime videos feature a built-in multi-source parsing engine, allowing you to watch and follow your favorite series all within the same app. Smart search supports multi-dimensional filtering by keywords, tags, categories, colors, and resolutions. The collection system allows you to build your personal ACG resource library and set different wallpapers for each display. Importing local folders allows for centralized management of personal collections. The experimental Wallpaper Engine rendering pipeline can render scenes and Web-type live wallpapers and only supports Apple Silicon. The app requires macOS 14 or later, is compatible with Apple Silicon and Intel, offers interfaces in Simplified Chinese, English, and Japanese, and can be installed via the official website, GitHub Releases, or Homebrew. It is suitable for anime fans to change wallpapers and follow anime series on a daily basis.",
-    "tagline_en": "Open-source ACG anime live wallpaper software"
+    "tagline_en": "Open-source ACG anime live wallpaper software",
+    "rev": 1
   },
   "https://macked.app/utm.html": {
     "pubDate": "Thu, 19 Nov 2026 11:10:17 +0000",
@@ -3620,12 +3628,12 @@
     "tagline_en": "Automated Mac App Screenshots"
   },
   "https://macked.app/motty-ssh-mac.html": {
-    "pubDate": "Tue, 24 Nov 2026 12:02:31 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "Motty 是一款支持 macOS 的原生 SSH 客户端，将终端、SFTP 文件管理、端口转发、VNC 与 RDP 远程桌面以及 AI 助手整合在同一窗口，适合服务器维护、远程开发和多主机管理。软件采用 Go 与 Viva 框架构建，不依赖 Electron 或内嵌浏览器，支持 Apple 芯片与 Intel Mac。终端提供多标签、横向与纵向分屏、历史搜索、会话录制、输入广播和两百多种配色，并可在旁侧查看远程主机的处理器、内存、磁盘与网络状态。文件面板支持递归传输、断点续传、权限调整和远程文本编辑，还能跟随终端目录。主机可按分组与标签整理，并从 OpenSSH、PuTTY、MobaXterm 等工具导入连接配置。内置 AI 助手可结合终端上下文答疑，经审批执行命令，并通过可选 MCP 接口向外部智能体提供工具。",
-    "title": "Motty 0.4.29",
+    "title": "Motty 0.4.34",
     "summary_en": "Motty is a native SSH client for macOS that integrates a terminal, SFTP file management, port forwarding, VNC and RDP remote desktops, and an AI assistant into a single window. It is ideal for server maintenance, remote development, and multi-host management. The software is built using the Go and Viva frameworks, does not rely on Electron or an embedded browser, and supports Apple silicon and Intel Macs. The terminal offers multiple tabs, horizontal and vertical split screens, history search, session recording, input broadcasting, and over 200 color schemes. It also allows you to view the processor, memory, disk, and network status of the remote host in the sidebar. The file panel supports recursive transfer, breakpoint resume, permission adjustment, and remote text editing, and can also follow the terminal directory. Hosts can be organized by groups and tags, and connection configurations can be imported from tools such as OpenSSH, PuTTY, and MobaXterm. The built-in AI assistant can answer questions based on the terminal context, execute commands after approval, and provide tools to external agents through an optional MCP interface.",
     "tagline_en": "Native SSH Client for Mac",
-    "rev": 1
+    "rev": 2
   },
   "https://macked.app/edgemark-mac.html": {
     "pubDate": "Thu, 19 Nov 2026 11:10:17 +0000",
@@ -3862,11 +3870,12 @@
     "tagline_en": "Sun path and solar irradiance analysis"
   },
   "https://macked.app/filezilla-pro-ftp-and-cloud-mac-crack.html": {
-    "pubDate": "Sat, 21 Nov 2026 14:33:18 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "FileZilla Pro 是一款面向 macOS 的专业文件传输与云存储管理客户端，可通过 FTP、FTPS、SFTP、WebDAV 连接远程服务器，并原生支持 Amazon S3、Cloudflare R2、Backblaze B2、Google Drive、Google Cloud Storage、Microsoft OneDrive、Microsoft Azure Storage、Dropbox、Box 与 OpenStack Swift 等服务。软件采用标签式界面，用户可借助站点管理器集中整理服务器、云端站点及书签，并通过加密机制保护登录凭据和同步数据。它提供本地与远程目录对比、目录同步、文件搜索、列表过滤、远程文件编辑及拖放传输功能，能够在包含大量文件的任务中使用传输队列统一管理进度，且不限制单个文件大小。",
-    "title": "FileZilla Pro 3.72.0",
+    "title": "FileZilla Pro 3.72.1",
     "summary_en": "FileZilla Pro is a professional file transfer and cloud storage management client for macOS. It can connect to remote servers via FTP, FTPS, SFTP, and WebDAV, and natively supports services such as Amazon S3, Cloudflare R2, Backblaze B2, Google Drive, Google Cloud Storage, Microsoft OneDrive, Microsoft Azure Storage, Dropbox, Box, and OpenStack Swift. The software features a tabbed interface, allowing users to centrally organize servers, cloud sites, and bookmarks using the Site Manager. It also protects login credentials and synchronized data through an encryption mechanism. It offers features such as local and remote directory comparison, directory synchronization, file search, list filtering, remote file editing, and drag-and-drop transfer. It can use transfer queues to uniformly manage progress in tasks involving a large number of files, with no restrictions on individual file sizes.",
-    "tagline_en": "Professional SFTP File Transfer Tool for Mac"
+    "tagline_en": "Professional SFTP File Transfer Tool for Mac",
+    "rev": 1
   },
   "https://macked.app/perch-dynamic-notch-island-crack.html": {
     "pubDate": "Sat, 21 Nov 2026 14:33:18 +0000",
@@ -4040,11 +4049,12 @@
     "summary_en": "ArtCraft Craft Apps is an open-source suite of applications from the ArtCraft team, consisting of 17 standalone tools written from scratch in Rust. The suite covers image editing, vector illustration, video editing, RAW photo processing, PDF management, motion graphics and visual effects, 2D animation, desktop publishing, interface prototyping, 3D texture painting, procedural materials, and audio production. It also provides tools for word processing, slideshow presentations, CAD drafting, spreadsheets, and software exploration. Each application offers native installation packages for macOS, Windows, and Linux, without relying on Electron or embedded web views, and maintains layouts, tools, and keyboard shortcuts familiar to professional users. Desktop applications handle local files directly, eliminating the need to upload projects to the cloud. They can be installed and updated centrally via the ArtCraft Launcher, or downloaded individually as needed. With the exception of FilmCraft, the remaining 16 applications are available in WebAssembly-based browser versions. The kit supports automation via the command line, JSON control channel, or MCP server."
   },
   "https://macked.app/ohmyshot-mac.html": {
-    "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
     "summary": "OhMyShot 是一款面向 Apple 芯片 Mac 的原生开源屏幕捕捉工具，适用于 macOS 26 及以上版本。它常驻菜单栏，空闲时不轮询，也不保持屏幕捕捉会话。截图支持跨屏选区、窗口、全屏、定时和滚动长截图，框选时可冻结画面，方便截取短暂出现的内容。截图后可从快捷卡片复制、保存、拖出或贴在屏幕上，也能添加箭头、序号和高亮，或将敏感信息模糊和像素化。内置端侧文字识别可复制并原位翻译图片中的文字，还能按截图内容检索历史记录；可选模型包能进一步处理中文、公式、表格和图表。录屏可导出 MP4 或 GIF，支持系统声音、麦克风和摄像头，录制后可在 Studio 中编辑并加入跟随光标的自动缩放。软件还提供置顶贴图、屏幕取色、边缘吸附像素尺，以及快捷指令和 Raycast 集成。 OhMyShot 将截图、录屏、标注和端侧文字识别集中在 macOS 菜单栏中。",
-    "title": "OhMyShot 0.4.0",
+    "title": "OhMyShot 0.5.0",
     "summary_en": "OhMyShot is a native, open-source screen capture tool for Macs with Apple silicon, compatible with macOS 26 and later versions. It resides in the menu bar, does not poll when idle, and does not maintain a screen capture session. Screen capture supports cross-screen selection, windows, full screen, timed, and scrolling long screenshots. The screen can be frozen during selection, making it easy to capture content that appears briefly. After taking a screenshot, you can copy, save, drag out, or paste it onto the screen from the quick access card. You can also add arrows, numbers, and highlights, or blur and pixelate sensitive information. The built-in on-device text recognition feature can copy and translate text in images in situ, and can also search the history based on the content of screenshots. Optional model packages can further process Chinese, formulas, tables, and charts. Screen recordings can be exported as MP4 or GIF files, with support for system audio, microphone, and camera. After recording, they can be edited in Studio and enhanced with automatic zooming that follows the cursor. The software also offers pinned overlays, screen color picking, an edge-snapping pixel ruler, as well as shortcuts and Raycast integration. OhMyShot brings together screenshots, screen recordings, annotations, and on-device text recognition in the macOS menu bar.",
-    "tagline_en": "Open-source screenshot and screen recording tool for Mac"
+    "tagline_en": "Open-source screenshot and screen recording tool for Mac",
+    "rev": 1
   },
   "https://macked.app/maclc-player-mac.html": {
     "pubDate": "Mon, 23 Nov 2026 08:11:24 +0000",
@@ -4326,5 +4336,89 @@
     "title": "Mac Everything 1.6.3",
     "summary_en": "Mac Everything/Pro Everything is an efficient file search tool, similar to the Everything app on Windows, designed to quickly find the files you need. The app creates an index by quickly scanning files on the disk, rather than relying on Spotlight's index. As a result, it currently does not support searching by file content, but this feature will be added in the future. Mac Pro Everything's features include fast searches, accurate results, and ease of use. Its features include optimized full-disk search, support for searching hidden and system files, in-app search, search by name or extension, support for multiple matching modes, and search by file size and modification time range. Users can sort by file name, file size, and modification time, with support for case-sensitive searches and folder filtering, as well as file preview and batch processing functions. Mac Everything also supports regular expressions, making it easy for users to perform complex searches, as well as drag-and-drop functionality for easy interaction with other applications. It is a file management tool worth downloading.",
     "tagline_en": "Ultra-fast full-disk file search"
+  },
+  "https://macked.app/pulse-stock-tracke-mac-crack.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "Pulse是一款运行于macOS菜单栏的股票与市场行情工具，让用户无需切换应用窗口，就能快速查看关注标的价格，并通过一次点击打开自选列表、持仓盈亏和价格提醒。软件覆盖美国、香港、中国A股、日本、韩国、台湾及欧洲市场，也支持加密货币、贵金属、指数、ETF和Polymarket预测市场；行情来源与刷新速度因市场而异，并会标示实时或延迟状态。Pulse提供多列表自选、K线与成交量图表、盘前盘后行情，以及按市场汇总的当日和持仓盈亏，方便用户了解不同市场及个股对组合的影响。用户可以为价格或预测概率设置提醒，也能在菜单栏顶部显示行情报价。持仓数量、成本与交易记录保存在本机，预测市场功能用于查看概率和记录合约持仓，不支持下单交易。软件还可通过仅在本机运行的MCP连接Claude、Codex、Cursor等AI工具，以自然语言管理标的、分组和交易记录；",
+    "title": "Pulse 0.16.5",
+    "summary_en": "Pulse is a stock and market ticker tool that runs in the macOS menu bar, allowing users to quickly view the prices of their watchlist stocks without switching app windows, and to open their watchlist, position P&L, and price alerts with a single click. The software covers the U.S., Hong Kong, China A-shares, Japan, South Korea, Taiwan, and European markets, and also supports cryptocurrencies, precious metals, indices, ETFs, and Polymarket prediction markets. The source of market data and the refresh rate vary by market and are indicated as real-time or delayed. Pulse offers multiple customizable watchlists, candlestick and volume charts, pre-market and after-hours quotes, as well as daily and position P&L summarized by market, making it easy for users to understand the impact of different markets and individual stocks on their portfolio. Users can set alerts for prices or predicted probabilities, and can also display market quotes at the top of the menu bar. The number of positions held, costs, and transaction records are stored locally. The prediction market function is used to view probabilities and record contract positions. It does not support placing trades. The software can also connect to AI tools such as Claude, Codex, and Cursor via MCP, which runs only on the local machine, to manage underlying assets, groups, and transaction records in natural language;",
+    "tagline_en": "Mac Menu Bar Stock Quote Software"
+  },
+  "https://macked.app/slidepad-v2-mac-crack.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "Slidepad 是一款适用于 macOS 15 及以上版本的滑入式浏览器，让网页工具在需要时出现在桌面边缘，不用时自动退回，减少额外窗口对工作流程的干扰。用户可将指针移至指定屏幕边缘或角落呼出浏览器，并在移开指针后让它收起，无需重新排列其他窗口。软件支持创建个人、工作和客户等独立浏览配置，方便切换不同浏览场景；也能在各个浏览面板中使用已安装的 Safari Web 扩展，例如广告拦截器和密码管理器。通过 iCloud，面板、配置、收藏和偏好设置可在多台 Mac 间同步，而登录信息和浏览数据保留在各自设备。Slidepad 还提供 MCP Server，可连接 Codex、Claude、Cursor 等兼容工具，让它们与用户当前可见并可操作的网页协作。它适合需要频繁查看网页、消息和在线工具，又希望保持桌面整洁的 Mac 用户，并提供 30 天试用。",
+    "title": "Slidepad 2.0.3",
+    "summary_en": "Slidepad is a slide-in browser for macOS 15 and later that brings web tools to the edge of your desktop when you need them and automatically retracts them when you don't, reducing the disruption of extra windows to your workflow. Users can move the pointer to a designated edge or corner of the screen to bring up the browser, and it will retract when the pointer is moved away, without the need to rearrange other windows. The software supports the creation of separate browsing profiles for personal, work, and client use, making it easy to switch between different browsing scenarios. It also allows the use of installed Safari web extensions, such as ad blockers and password managers, in each browsing panel. Through iCloud, panels, configurations, bookmarks, and preferences can be synced across multiple Macs, while login information and browsing data remain on their respective devices. Slidepad also offers an MCP Server that can connect to compatible tools such as Codex, Claude, and Cursor, enabling them to work with the web pages that are currently visible and accessible to the user. It is ideal for Mac users who need to frequently view web pages, messages, and online tools while keeping their desktops tidy. A 30-day trial is available.",
+    "tagline_en": "Mac Web Page Quick Access Tool"
+  },
+  "https://macked.app/pake-mac-crack.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "Pake 是一款将任意网页或在线服务打包为独立桌面应用的工具，适用于 macOS、Windows 和 Linux。用户可以在桌面版中选择精选网站或粘贴网址，通过图形界面创建应用，并为应用设置图标、窗口、标题栏和后台行为；桌面版无需安装 Node.js、Rust 等开发环境。熟悉终端的用户也可以使用免费的开源 CLI，通过一条命令生成多平台安装包，并可配合 GitHub Actions 在线构建或定制项目。Pake 使用电脑已有的系统浏览器组件显示网页，不需随应用捆绑完整浏览器，因此安装包通常不到 10 MB，应用可拥有独立图标和窗口，也能固定到程序坞或系统应用列表中。桌面版支持 macOS Apple 芯片与 Intel 设备，以及 Windows 和 Linux；创建好的应用不依赖 Pake 或许可证，可独立使用，配置也能导出后在其他电脑上重新创建。",
+    "title": "Pake 1.11.0",
+    "summary_en": "Pake is a tool that packages any web page or online service into a standalone desktop application, compatible with macOS, Windows, and Linux. In the desktop version, users can select from a curated list of websites or paste a URL to create an application through a graphical interface. They can also customize the application's icon, window, title bar, and background behavior. The desktop version does not require the installation of development environments such as Node.js or Rust. Users who are familiar with the terminal can also use the free, open-source CLI to generate multi-platform installation packages with a single command and can build or customize projects online with GitHub Actions. Pake uses the computer's existing system browser components to display web pages, so there is no need to bundle a full browser with the application. As a result, the installation package is usually less than 10 MB. The application can have its own icon and window, and it can also be pinned to the Dock or the system's list of applications. The desktop version supports macOS Apple silicon and Intel devices, as well as Windows and Linux. The created applications do not rely on Pake or licenses and can be used independently. Configurations can also be exported and recreated on other computers.",
+    "tagline_en": "macOS Tool for Converting Any Website Page to an App"
+  },
+  "https://macked.app/depthfield-photo-mac-crack.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "DepthField Photo 是一款面向 macOS 的专业照片编辑软件，将图层、蒙版、色彩与印刷控制等传统工具，与人工智能选区、生成式修改和场景深度编辑结合起来。它可以修饰人像、调整表情与视线、移除物体及其阴影反射、替换背景和天气，也能扩展画面边缘、重构场景或通过文字描述修改选中内容。软件可识别照片中的深度信息，用于拍摄后重新对焦、添加散景、灯光、雾效和移轴效果，并支持按真实景深控制绘画与合成。自动光线和色彩校正、透视矫正、降噪、模糊修复、老照片修复及放大等功能覆盖常见处理需求。编辑器提供非破坏性实时滤镜、最多 1000 步撤销、16 位色彩、CMYK 软打样、PSD 等格式支持，以及兼容 Photoshop 和 Krita 的笔刷导入。多数工具可在 Mac 本机运行，支持 Apple Silicon 与 Core ML，也可连接多家图像生成模型；",
+    "title": "DepthField Photo 1.2.1",
+    "summary_en": "DepthField Photo is a professional photo editing software for macOS that combines traditional tools such as layers, masks, color and print controls with AI-powered selections, generative edits, and scene depth editing. It can retouch portraits, adjust expressions and eye gaze, remove objects and their shadows and reflections, replace backgrounds and weather conditions, extend image edges, reconstruct scenes, or modify selected content based on text descriptions. The software can recognize depth information in photos for post-shooting refocusing, adding bokeh, lighting, fog effects, and tilt-shift effects, and supports controlling painting and compositing based on real depth of field. Features such as automatic light and color correction, perspective correction, noise reduction, blur correction, restoration of old photos, and enlargement cover common editing needs. The editor offers non-destructive real-time filters, up to 1,000 undo steps, 16-bit color, CMYK soft-proofing, support for formats like PSD, and brush import compatibility with Photoshop and Krita. Most tools run natively on Mac, support Apple Silicon and Core ML, and can also connect to multiple image generation models.",
+    "tagline_en": "macOS AI-powered photo editing"
+  },
+  "https://macked.app/pocketwebtools-mac-crack.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "PocketWebTools for Mac 是一款面向 Apple Silicon Mac 的本地人工智能与实用工具合集，将跨应用文字处理、音视频编辑、图像增强和文档识别集中在一个窗口中。用户可以按住快捷键向任意文本框口述内容，朗读选中文字，或直接原位改写邮件、笔记与其他文本。软件提供本地模型聊天、多语言语音转写、系统音频采集、最多四位说话人标注、语音合成与声音克隆，并能将长视频剪成带字幕的短片，通过修改转写文本完成视频剪辑。图像工具支持全分辨率抠图、背景移除、照片批量放大及 HEIC、RAW 格式处理；文档工具可批量提取 PDF 和扫描件中的文字，保留表格与公式，生成 Markdown 或可搜索 PDF。内置字数统计、格式转换、JSON 格式化和密码生成等日常工具。模型按需下载，并根据内存容量提示适用档位，下载完成后核心处理可离线运行，聊天、录音、照片与文档内容留在本机。",
+    "title": "PocketWebTools 1.1.1",
+    "summary_en": "PocketWebTools for Mac is a suite of native AI and utility tools for Apple Silicon Macs, bringing together cross-app text processing, audio and video editing, image enhancement, and document recognition in a single window. Users can hold down a shortcut key to dictate content into any text box, have selected text read aloud, or directly rewrite emails, notes, and other text in place. The software offers local model chat, multilingual speech transcription, system audio capture, speaker labeling for up to four speakers, speech synthesis, and voice cloning. It can also edit long videos into short clips with subtitles, completing video editing by modifying the transcribed text. The image tool supports full-resolution image cutout, background removal, batch photo enlargement, and HEIC and RAW format processing. The Document Tool can extract text from PDFs and scanned documents in bulk, preserve tables and formulas, and generate Markdown or searchable PDFs. Built-in everyday tools such as word count, format conversion, JSON formatting, and password generation. Models are downloaded on demand, and the appropriate setting is recommended based on memory capacity. Once the download is complete, core processing can run offline, and chat, audio recordings, photos, and document content remain on the local device.",
+    "tagline_en": "Read Aloud Selected Text on Mac"
+  },
+  "https://macked.app/nacre-voice-mac-crack.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "Nacre Voice 是一款适用于 macOS 的语音听写与文本处理工具，让你在邮件、聊天软件、文档和浏览器等当前应用中直接开口输入。按下快捷键开始说话，再按一次即可将整理后的文字粘贴到光标位置；软件会去除犹豫词、重复和说到一半的修改，并自动添加标点，还能根据正在使用的应用调整语气。选中文本后，也可通过快捷操作进行校对、改写、翻译或朗读；软件还提供实时通话字幕、会议录音与摘要、个人词典、语音短语和历史记录等功能。听写、校对与翻译支持英语、法语、西班牙语、德语和意大利语，翻译功能覆盖更多语言。免费版每周提供一千个听写词额度，校对、翻译等功能也可使用；专业版解除听写额度限制。历史记录、会议内容、词典和设置保存在 Mac 本机，支持 Apple 芯片与 Intel Mac，系统要求为 macOS 14 或更新版本。",
+    "title": "Nacre Voice 1.0.50",
+    "summary_en": "Nacre Voice is a speech-to-text and text-processing tool for macOS that allows you to dictate directly into your current applications, such as email, chat apps, documents, and browsers. Press the shortcut key to start speaking, and press it again to paste the edited text at the cursor position. The software will remove filler words, repetitions, and mid-sentence corrections, automatically add punctuation, and adjust the tone based on the application in use. After selecting the text, you can also proofread, rewrite, translate, or read it aloud using quick actions. The software also offers features such as real-time call captions, meeting recordings and summaries, a personal dictionary, voice phrases, and a history log. Dictation, proofreading, and translation are supported in English, French, Spanish, German, and Italian, with the translation feature covering even more languages. The free version offers a weekly dictation limit of 1,000 words, with access to features such as proofreading and translation. The Pro version removes the dictation limit. History, meeting content, dictionaries, and settings are stored locally on the Mac. The app supports both Apple silicon and Intel-based Macs, and requires macOS 14 or later.",
+    "tagline_en": "Multilingual Translation Software for Mac"
+  },
+  "https://macked.app/oink-share-keyboard-mouse-mac.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "Oink 是一款面向 macOS 与 Windows 电脑的点对点协作与软件 KVM 工具，让多台设备能够像一套工作系统般协同使用。安装后，用户可通过任意一台设备上的键盘、鼠标或触控板控制附近的其他电脑，无需指定固定的主控设备；跨屏操作保持自然顺畅，并支持触控板手势。Oink 可在设备间自动同步剪贴板，也能直接拖放文本、图片和文件，方便在不同电脑之间传递内容或将文件拖入应用。它还可以把多台设备播放的音频汇集到其中一台电脑所连接的扬声器或耳机，让声音输出更灵活。软件会自动发现局域网内的设备，采用点对点网络架构，所有网络传输默认加密。Oink 从零开始开发，使用自己的通信协议，不兼容其他软件 KVM。Mac 版支持 Apple 芯片及 Intel 处理器，要求 macOS 14.2 或更新版本；Windows 版支持指定版本的 Windows 10 和 Windows 11。",
+    "title": "Oink 0.3.7",
+    "summary_en": "Oink is a peer-to-peer collaboration and software KVM tool for macOS and Windows computers that enables multiple devices to work together as a single system. Once installed, users can control other nearby computers using the keyboard, mouse, or trackpad on any device, without the need to designate a fixed master device. Cross-screen operations remain natural and smooth, and trackpad gestures are supported. Oink can automatically synchronize clipboards between devices and also allows direct dragging and dropping of text, images, and files, making it easy to transfer content between different computers or to drag files into applications. It can also route audio from multiple devices to the speakers or headphones connected to one of the computers, making audio output more flexible. The software automatically detects devices on the local area network, uses a peer-to-peer network architecture, and encrypts all network transmissions by default. Oink was developed from scratch, using its own communication protocol, and is not compatible with other software KVMs. The Mac version supports Apple chips and Intel processors and requires macOS 14.2 or later. The Windows version supports specified versions of Windows 10 and Windows 11.",
+    "tagline_en": "Cross-device keyboard and mouse sharing"
+  },
+  "https://macked.app/folia-major-music-player-mac.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "Folia 是一款以全屏沉浸式歌词播放为核心的跨平台音乐播放器，提供 macOS 桌面版本，将本地音乐库、Navidrome 与多平台在线音乐接入同一播放环境。软件支持网易云、酷狗、QQ 音乐，桌面端还可接入波点音乐、YouTube Music、Spotify 和汽水音乐，搜索歌曲、歌手或专辑后即可播放并加载封面与歌词。其特色是多种具有不同排版氛围的歌词动画，可调整视觉参数，并随窗口尺寸自动适配，呈现接近文字音乐短片的观看体验。AI 主题生成能够结合歌曲情绪和歌词内容生成背景与视觉参数。本地音乐导入后仅在本地保存索引，不上传音频内容，支持读取元数据、封面及多种歌词文件，并自动匹配在线歌词，匹配有误时可手动修正。桌面版还提供 Folium 模组系统，可扩展歌词动画、背景、播放页图层与音源；",
+    "title": "Folia 0.8.2",
+    "summary_en": "Folia is a cross-platform music player centered around immersive full-screen lyric playback. It offers a macOS desktop version that integrates local music libraries, Navidrome, and multi-platform online music into a single playback environment. The software supports NetEase Cloud Music, Kugou Music, and QQ Music. The desktop version can also access Polka Music, YouTube Music, Spotify, and Soda Music. After searching for a song, artist, or album, you can play it and load the cover art and lyrics. It features a variety of lyric animations with different typographic styles. The visual parameters can be adjusted, and the animations automatically adapt to the window size, providing a viewing experience similar to that of a lyric music video. AI theme generation can combine the mood of the song and the content of the lyrics to generate backgrounds and visual parameters. After importing local music, only the index is saved locally, and the audio content is not uploaded. It supports reading metadata, album covers, and various lyrics files, and automatically matches online lyrics. If there is an error in the matching, it can be corrected manually. The desktop version also features the Folium mod system, which can extend lyric animations, backgrounds, playback page layers, and audio sources;",
+    "tagline_en": "Immersive Lyrics Music Player for Mac"
+  },
+  "https://macked.app/thor.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "Thor Launcher是一款优秀的MAC自定义快捷键启动软件，可以帮助您给应用程序设定快捷键，即可使用快捷键迅速打开或切换应用。当你同时运行很多应用程序时，比起多次点按 command – tab 键，Thor一步到位，更高效。 Thor 是一款 Mac 效率类应用，可以针对指定的应用设计设置快捷键，通过指定的快捷键快速打开应用和切换应用。开源应用，Respect!",
+    "title": "Thor 1.5.18",
+    "summary_en": "Thor Launcher is an excellent Mac custom shortcut key launcher that helps you set shortcut keys for applications, allowing you to quickly open or switch applications using shortcut keys. When you are running many applications at the same time, Thor is more efficient than repeatedly pressing the Command – Tab keys, as it gets the job done in one step. Thor is a Mac productivity app that allows you to set keyboard shortcuts for specific apps, enabling you to quickly open and switch between apps using those shortcuts. Open-source app, Respect!",
+    "tagline_en": "App Quick Launcher"
+  },
+  "https://macked.app/shichizip-mac.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "ShichiZip 是一款专为 macOS 原生重建的 7-Zip 衍生压缩文件管理工具，在 Mac 上提供接近 7-Zip File Manager 的操作体验，适合需要管理多种压缩格式、快速解压和查看归档内容的用户。软件支持上游 7-Zip 所支持的全部格式，可集中处理日常压缩与解压任务。一键智能解压能够自动选择合适的目标位置，并去除重复的顶层文件夹，减少解压后的目录嵌套与手动整理操作。借助 Quick Look，用户可以在 Finder 中预览压缩包，也能在不解压的情况下预览包内文件，方便先确认内容再决定后续处理。针对 macOS 的使用习惯，软件提供资源分支移除功能，并尽可能与 Finder 集成。",
+    "title": "ShichiZip 0.4.0",
+    "summary_en": "ShichiZip is a 7-Zip-based compressed file management tool natively rebuilt for macOS. It offers an experience on Mac that is similar to 7-Zip File Manager, making it suitable for users who need to manage multiple compressed file formats, quickly extract files, and view archive contents. The software supports all formats supported by the upstream 7-Zip and can centrally handle daily compression and decompression tasks. One-click smart extraction automatically selects the appropriate destination and removes duplicate top-level folders, reducing directory nesting after extraction and the need for manual organization. With Quick Look, users can preview compressed archives in Finder and also preview files within the archive without extracting them, making it easy to confirm the contents before deciding on further actions. In line with macOS usage habits, the software offers a resource branch removal feature and integrates with Finder as much as possible.",
+    "tagline_en": "Mac Compressed File Manager"
+  },
+  "https://macked.app/menuist-rightmenu-master-crack.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "Menuist原名RightMenu Master是一款强大的Finder右键菜单增强工具，旨在提高Mac用户的效率。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏夹导航，便于文件管理。用户可以轻松创建新文件、快速预览代码、复制文件路径或通过二维码分享文件。内置的功能包括快速访问常用文件夹和文件夹历史，提升文件和文件夹的导航速度。Menuist还提供快速删除、粘贴图像和自定义文件夹图标颜色等功能，使操作更加灵活高效。这款高度可配置的Finder扩展增强了Finder的右键菜单和工具栏，使文件操作如移动、复制和创建新文档变得更快速、更便利。Menuist是每位Mac用户必备的应用程序。 Menuist/RightMenu Master是一款强大的 Finder 右键菜单增强工具，旨在提高 Mac 用户的工作效率。它不仅扩展了右键菜单的功能，还提供了菜单栏的快捷导航，以便于更方便的文件管理。",
+    "title": "Menuist/RightMenu Master 4.13.0",
+    "summary_en": "Menuist, formerly known as RightMenu Master, is a powerful Finder right-click menu enhancement tool designed to improve the efficiency of Mac users. It not only extends the functionality of the right-click menu, but also provides menu bar favorites navigation for easy file management. Users can easily create new files, quickly preview code, copy file paths, or share files via QR codes. Built-in features include quick access to frequently used folders and folder history, improving the speed of navigating files and folders. Menuist also offers features such as quick deletion, image pasting, and custom folder icon colors, making operations more flexible and efficient. This highly configurable Finder extension enhances Finder's right-click menu and toolbar, making file operations such as moving, copying, and creating new documents faster and more convenient. Menuist is a must-have application for every Mac user. Menuist/RightMenu Master is a powerful Finder right-click menu enhancement tool designed to improve the productivity of Mac users. It not only expands the functionality of the right-click menu, but also provides quick navigation of the menu bar for more convenient file management.",
+    "tagline_en": "Finder Right-Click Menu Enhancement"
+  },
+  "https://macked.app/keyclicker-mac-crack.html": {
+    "pubDate": "Thu, 26 Nov 2026 09:16:08 +0000",
+    "summary": "KeyClicker是一款专为Mac设计的键盘声音增强工具，能够在用户敲击键盘时播放仿机械键盘与打字机的按键音，让日常输入更具节奏感、反馈感和沉浸感。软件提供丰富的内置声音效果，支持按键按下声、释放声或两者同时播放，也可以为不同按键设置自定义声音，并通过随机声音模式增加输入过程的变化。它还支持在桌面显示当前按下的按键和快捷键，可添加文字水印，适合录制课程、制作软件演示、直播或分享操作过程。KeyClicker常驻于菜单栏，用户可以快速查看当前状态、切换声音、显示按键或启用禁用功能，设置管理更加便捷。除了打字机和机械键盘音效，软件还收录鼠标点击、游戏音效、提示音、错误音、动物声音及多种趣味音效，适合写作、编程、内容创作和希望获得ASMR式输入体验的Mac用户。软件支持简体中文、繁体中文、英语、日语、韩语等多种语言，要求macOS 14或更高版本。",
+    "title": "KeyClicker 2.10.0",
+    "summary_en": "KeyClicker is a keyboard sound enhancement tool designed for Mac. It plays simulated mechanical keyboard and typewriter key sounds when the user types on the keyboard, making everyday typing more rhythmic, responsive, and immersive. The software offers a wide range of built-in sound effects, supporting key press sounds, key release sounds, or both simultaneously. You can also set custom sounds for different keys and add variety to the input process through the random sound mode. It also supports displaying the currently pressed keys and shortcuts on the desktop, and can add text watermarks, making it suitable for recording lessons, creating software demonstrations, live streaming, or sharing operational processes. KeyClicker resides in the menu bar, allowing users to quickly check the current status, switch sounds, display keys, or enable/disable features, making settings management more convenient. In addition to typewriter and mechanical keyboard sounds, the software also includes mouse clicks, game sounds, notification sounds, error sounds, animal sounds, and a variety of fun sound effects, making it suitable for Mac users who write, program, create content, or want an ASMR-style input experience. The software supports multiple languages, including Simplified Chinese, Traditional Chinese, English, Japanese, and Korean, and requires macOS 14 or later.",
+    "tagline_en": "macOS typewriter mechanical keyboard sound effect"
   }
 }
